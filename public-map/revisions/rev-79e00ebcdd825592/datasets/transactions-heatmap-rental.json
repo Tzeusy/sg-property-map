@@ -64,15 +64,15 @@
       "transaction_count": 3614
     },
     {
-      "lat": 1.3136616093383362,
-      "lon": 103.80310652237675,
+      "lat": 1.3136616093383358,
+      "lon": 103.80310652237617,
       "project": "D'Leedon",
       "psf_signal": 5.44,
       "transaction_count": 3091
     },
     {
-      "lat": 1.2905679477191132,
-      "lon": 103.81795897250684,
+      "lat": 1.2905679477191108,
+      "lon": 103.81795897250629,
       "project": "Echelon",
       "psf_signal": 5.69,
       "transaction_count": 2651
@@ -85,64 +85,64 @@
       "transaction_count": 2448
     },
     {
-      "lat": 1.2942028976263817,
-      "lon": 103.82873321971532,
+      "lat": 1.2942028976263877,
+      "lon": 103.8287332197154,
       "project": "VALLEY PARK",
       "psf_signal": 5.19,
       "transaction_count": 2348
     },
     {
       "lat": 1.2966259891319745,
-      "lon": 103.83655862538038,
+      "lon": 103.83655862538075,
       "project": "ESPADA",
       "psf_signal": 6.19,
       "transaction_count": 2161
     },
     {
-      "lat": 1.2986104651017483,
-      "lon": 103.83651824041335,
+      "lat": 1.2986104651017434,
+      "lon": 103.83651824041375,
       "project": "THE METZ",
       "psf_signal": 5.5,
       "transaction_count": 2076
     },
     {
-      "lat": 1.2940383079136724,
-      "lon": 103.84067365139732,
+      "lat": 1.2940383079136704,
+      "lon": 103.84067365139711,
       "project": "Aspen Heights",
       "psf_signal": 5.5,
       "transaction_count": 2043
     },
     {
-      "lat": 1.371074742217609,
-      "lon": 103.9454024938148,
+      "lat": 1.3710747422176102,
+      "lon": 103.94540249381485,
       "project": "Coco Palms",
       "psf_signal": 4.16,
       "transaction_count": 1970
     },
     {
-      "lat": 1.3128059830986496,
-      "lon": 103.88611941035562,
+      "lat": 1.3128059830986538,
+      "lon": 103.88611941035585,
       "project": "Guillemard Edge",
       "psf_signal": 4.98,
       "transaction_count": 1938
     },
     {
-      "lat": 1.3561204468982255,
-      "lon": 103.96595470827242,
+      "lat": 1.356120446898219,
+      "lon": 103.96595470827252,
       "project": "Carissa Park Condominium",
       "psf_signal": 3.73,
       "transaction_count": 1900
     },
     {
-      "lat": 1.3458850417803652,
-      "lon": 103.72343717925202,
+      "lat": 1.3458850417803663,
+      "lon": 103.72343717925307,
       "project": "LAKE GRANDE",
       "psf_signal": 5.14,
       "transaction_count": 1882
     },
     {
-      "lat": 1.3011459803973622,
-      "lon": 103.84807637614273,
+      "lat": 1.3011459803973628,
+      "lon": 103.84807637614283,
       "project": "SOPHIA HILLS",
       "psf_signal": 5.54,
       "transaction_count": 1809
@@ -155,22 +155,22 @@
       "transaction_count": 1806
     },
     {
-      "lat": 1.2992241146896901,
-      "lon": 103.858103580974,
+      "lat": 1.2992241146896906,
+      "lon": 103.85810358097412,
       "project": "DUO RESIDENCES",
       "psf_signal": 6.67,
       "transaction_count": 1781
     },
     {
-      "lat": 1.3088033802337689,
-      "lon": 103.83851256374192,
+      "lat": 1.3088033802337702,
+      "lon": 103.83851256374172,
       "project": "ORCHARD SCOTTS",
       "psf_signal": 5.28,
       "transaction_count": 1756
     },
     {
       "lat": 1.3121682795879466,
-      "lon": 103.9389551800919,
+      "lon": 103.93895518009141,
       "project": "THE BAYSHORE",
       "psf_signal": 3.75,
       "transaction_count": 1739
@@ -183,15 +183,15 @@
       "transaction_count": 1722
     },
     {
-      "lat": 1.316220645670401,
-      "lon": 103.84157865424153,
+      "lat": 1.3162206456704024,
+      "lon": 103.84157865424162,
       "project": "NEWTON GEMS",
       "psf_signal": 5.12,
       "transaction_count": 1677
     },
     {
-      "lat": 1.3309403250800713,
-      "lon": 103.86863647970507,
+      "lat": 1.330940325080065,
+      "lon": 103.86863647970522,
       "project": "THE POIZ RESIDENCES",
       "psf_signal": 5.67,
       "transaction_count": 1660
@@ -204,8 +204,8 @@
       "transaction_count": 1652
     },
     {
-      "lat": 1.2987073764998733,
-      "lon": 103.83334425470473,
+      "lat": 1.2987073764998789,
+      "lon": 103.83334425470484,
       "project": "OUE TWIN PEAKS",
       "psf_signal": 5.91,
       "transaction_count": 1643
@@ -218,85 +218,85 @@
       "transaction_count": 1633
     },
     {
-      "lat": 1.2962466951322977,
-      "lon": 103.83858517972122,
+      "lat": 1.2962466951322948,
+      "lon": 103.83858517972132,
       "project": "THE BOUTIQ",
       "psf_signal": 5.37,
       "transaction_count": 1539
     },
     {
-      "lat": 1.3640570903746871,
-      "lon": 103.76444924194898,
+      "lat": 1.3640570903746974,
+      "lon": 103.76444924194828,
       "project": "THE HILLIER",
       "psf_signal": 4.99,
       "transaction_count": 1530
     },
     {
-      "lat": 1.2957173100285397,
-      "lon": 103.828833290921,
+      "lat": 1.2957173100285417,
+      "lon": 103.82883329092063,
       "project": "STELLAR RV",
       "psf_signal": 5.12,
       "transaction_count": 1510
     },
     {
-      "lat": 1.301202333021788,
-      "lon": 103.84645936709045,
+      "lat": 1.3012023330217872,
+      "lon": 103.84645936709035,
       "project": "8 @ MOUNT SOPHIA",
       "psf_signal": 5.29,
       "transaction_count": 1497
     },
     {
       "lat": 1.3014251439820925,
-      "lon": 103.90164955802612,
+      "lon": 103.90164955802598,
       "project": "THE SEA VIEW",
       "psf_signal": 5.04,
       "transaction_count": 1469
     },
     {
-      "lat": 1.3137786925606498,
-      "lon": 103.84153816266024,
+      "lat": 1.313778692560653,
+      "lon": 103.84153816266013,
       "project": "AMARYLLIS VILLE",
       "psf_signal": 5.25,
       "transaction_count": 1468
     },
     {
-      "lat": 1.3894441937456181,
-      "lon": 103.89594980381928,
+      "lat": 1.3894441937456192,
+      "lon": 103.8959498038191,
       "project": "LA FIESTA",
       "psf_signal": 4.37,
       "transaction_count": 1447
     },
     {
-      "lat": 1.3110902401398403,
-      "lon": 103.85745741201816,
+      "lat": 1.31109024013984,
+      "lon": 103.85745741201818,
       "project": "CITY SQUARE RESIDENCES",
       "psf_signal": 4.69,
       "transaction_count": 1405
     },
     {
-      "lat": 1.3526837211101033,
-      "lon": 103.85122888058346,
+      "lat": 1.3526837211101026,
+      "lon": 103.85122888058345,
       "project": "SKY VUE",
       "psf_signal": 5.12,
       "transaction_count": 1401
     },
     {
-      "lat": 1.3063147634302852,
-      "lon": 103.83844712630662,
+      "lat": 1.3063147634302845,
+      "lon": 103.8384471263067,
       "project": "CAIRNHILL CREST",
       "psf_signal": 5.4,
       "transaction_count": 1387
     },
     {
-      "lat": 1.3014886209969563,
-      "lon": 103.8620688406567,
+      "lat": 1.3014886209969592,
+      "lon": 103.86206884065712,
       "project": "CONCOURSE SKYLINE",
       "psf_signal": 5.31,
       "transaction_count": 1358
     },
     {
-      "lat": 1.2911451425158855,
-      "lon": 103.81613383243022,
+      "lat": 1.2911451425158849,
+      "lon": 103.8161338324303,
       "project": "Alexis",
       "psf_signal": 5.91,
       "transaction_count": 1351
@@ -316,78 +316,78 @@
       "transaction_count": 1333
     },
     {
-      "lat": 1.3193510243517719,
-      "lon": 103.84571265480358,
+      "lat": 1.3193510243517743,
+      "lon": 103.84571265480373,
       "project": "SOLEIL @ SINARAN",
       "psf_signal": 5.56,
       "transaction_count": 1307
     },
     {
-      "lat": 1.3436334134412833,
+      "lat": 1.3436334134412813,
       "lon": 103.71827712251886,
       "project": "CASPIAN",
       "psf_signal": 3.65,
       "transaction_count": 1304
     },
     {
-      "lat": 1.2844162736682811,
-      "lon": 103.82949635008671,
+      "lat": 1.284416273668279,
+      "lon": 103.82949635008664,
       "project": "HIGHLINE RESIDENCES",
       "psf_signal": 6.27,
       "transaction_count": 1286
     },
     {
-      "lat": 1.307868322516889,
-      "lon": 103.92676904236542,
+      "lat": 1.3078683225168886,
+      "lon": 103.9267690423654,
       "project": "Seaside Residences",
       "psf_signal": 5.46,
       "transaction_count": 1275
     },
     {
-      "lat": 1.3037168688587766,
-      "lon": 103.84859036238406,
+      "lat": 1.3037168688587777,
+      "lon": 103.8485903623841,
       "project": "PARC EMILY",
       "psf_signal": 5.08,
       "transaction_count": 1274
     },
     {
-      "lat": 1.293608394638236,
-      "lon": 103.83839894290766,
+      "lat": 1.2936083946382375,
+      "lon": 103.83839894290773,
       "project": "Martin Modern",
       "psf_signal": 5.96,
       "transaction_count": 1270
     },
     {
-      "lat": 1.304280425648271,
-      "lon": 103.83723078755649,
+      "lat": 1.3042804256482663,
+      "lon": 103.83723078755663,
       "project": "CAIRNHILL NINE",
       "psf_signal": 6.8,
       "transaction_count": 1266
     },
     {
-      "lat": 1.3239284074288573,
-      "lon": 103.84868920620794,
+      "lat": 1.3239284074288578,
+      "lon": 103.84868920620782,
       "project": "PAVILION 11",
       "psf_signal": 4.51,
       "transaction_count": 1257
     },
     {
-      "lat": 1.2758160561968377,
-      "lon": 103.83765136643707,
+      "lat": 1.2758160561968392,
+      "lon": 103.83765136643714,
       "project": "Spottiswoode 18",
       "psf_signal": 6.87,
       "transaction_count": 1251
     },
     {
-      "lat": 1.3538761397627583,
-      "lon": 103.92867175149013,
+      "lat": 1.3538761397627572,
+      "lon": 103.92867175148992,
       "project": "THE TAPESTRY",
       "psf_signal": 5.11,
       "transaction_count": 1240
     },
     {
-      "lat": 1.2753546376675726,
-      "lon": 103.8364414726089,
+      "lat": 1.2753546376675737,
+      "lon": 103.83644147260884,
       "project": "Spottiswoode Residences",
       "psf_signal": 4.9,
       "transaction_count": 1229
@@ -401,14 +401,14 @@
     },
     {
       "lat": 1.3090349633664393,
-      "lon": 103.83051643312986,
+      "lon": 103.83051643312999,
       "project": "ARDMORE PARK",
       "psf_signal": 4.95,
       "transaction_count": 1220
     },
     {
-      "lat": 1.2814143960758668,
-      "lon": 103.7839055933569,
+      "lat": 1.2814143960758704,
+      "lon": 103.78390559335686,
       "project": "PARC IMPERIAL",
       "psf_signal": 5.53,
       "transaction_count": 1208
@@ -421,28 +421,28 @@
       "transaction_count": 1206
     },
     {
-      "lat": 1.3270207674633518,
-      "lon": 103.94424956358883,
+      "lat": 1.3270207674633532,
+      "lon": 103.94424956358881,
       "project": "URBAN VISTA",
       "psf_signal": 4.32,
       "transaction_count": 1200
     },
     {
-      "lat": 1.3164448347725515,
-      "lon": 103.84363494288293,
+      "lat": 1.3164448347725537,
+      "lon": 103.84363494288289,
       "project": "LINCOLN SUITES",
       "psf_signal": 5.35,
       "transaction_count": 1199
     },
     {
-      "lat": 1.2911872461824196,
-      "lon": 103.83851853254446,
+      "lat": 1.291187246182418,
+      "lon": 103.83851853254443,
       "project": "Robertson 100",
       "psf_signal": 5.33,
       "transaction_count": 1198
     },
     {
-      "lat": 1.338377222552031,
+      "lat": 1.3383772225520323,
       "lon": 103.92824472535094,
       "project": "WATERFRONT ISLE",
       "psf_signal": 4.04,
@@ -463,36 +463,36 @@
       "transaction_count": 1174
     },
     {
-      "lat": 1.2777013667238633,
+      "lat": 1.2777013667238635,
       "lon": 103.849598987737,
       "project": "V on Shenton",
       "psf_signal": 6.34,
       "transaction_count": 1166
     },
     {
-      "lat": 1.3034699456470462,
-      "lon": 103.82891720982508,
+      "lat": 1.3034699456470453,
+      "lon": 103.82891720982514,
       "project": "FOUR SEASONS PARK",
       "psf_signal": 6.05,
       "transaction_count": 1166
     },
     {
-      "lat": 1.3162378871830687,
-      "lon": 103.89089098160537,
+      "lat": 1.3162378871830636,
+      "lon": 103.89089098160555,
       "project": "SIMSVILLE",
       "psf_signal": 4.3,
       "transaction_count": 1155
     },
     {
-      "lat": 1.3012790559937002,
-      "lon": 103.8985114658597,
+      "lat": 1.3012790559936998,
+      "lon": 103.89851146586018,
       "project": "ONE AMBER",
       "psf_signal": 4.96,
       "transaction_count": 1125
     },
     {
-      "lat": 1.291743303435785,
-      "lon": 103.83660660654826,
+      "lat": 1.2917433034357853,
+      "lon": 103.83660660654813,
       "project": "Rivergate",
       "psf_signal": 6.09,
       "transaction_count": 1124
@@ -505,8 +505,8 @@
       "transaction_count": 1121
     },
     {
-      "lat": 1.2969149053200197,
-      "lon": 103.83408344502341,
+      "lat": 1.2969149053200195,
+      "lon": 103.83408344502352,
       "project": "LEONIE CONDOTEL",
       "psf_signal": 4.51,
       "transaction_count": 1113
@@ -519,8 +519,8 @@
       "transaction_count": 1106
     },
     {
-      "lat": 1.2961147483469273,
-      "lon": 103.87127018236363,
+      "lat": 1.2961147483469282,
+      "lon": 103.87127018236356,
       "project": "SANCTUARY GREEN",
       "psf_signal": 4.04,
       "transaction_count": 1102
@@ -541,28 +541,28 @@
     },
     {
       "lat": 1.3235802051043069,
-      "lon": 103.90550756098368,
+      "lon": 103.9055075609837,
       "project": "euHabitat",
       "psf_signal": 4.56,
       "transaction_count": 1083
     },
     {
-      "lat": 1.354462874700418,
-      "lon": 103.87608780086343,
+      "lat": 1.3544628747004204,
+      "lon": 103.87608780086308,
       "project": "CASA CAMBIO",
       "psf_signal": 6.19,
       "transaction_count": 1080
     },
     {
-      "lat": 1.3093136578514148,
-      "lon": 103.8358685722815,
+      "lat": 1.3093136578514137,
+      "lon": 103.83586857228171,
       "project": "THE SCOTTS TOWER",
       "psf_signal": 5.56,
       "transaction_count": 1079
     },
     {
-      "lat": 1.3510942201317981,
-      "lon": 103.88130606575548,
+      "lat": 1.3510942201317957,
+      "lon": 103.88130606575551,
       "project": "THE MINTON",
       "psf_signal": 4.02,
       "transaction_count": 1078
@@ -575,15 +575,15 @@
       "transaction_count": 1067
     },
     {
-      "lat": 1.3059139853423702,
-      "lon": 103.83356749944237,
+      "lat": 1.3059139853423696,
+      "lon": 103.8335674994423,
       "project": "SCOTTS SQUARE",
       "psf_signal": 6.46,
       "transaction_count": 1062
     },
     {
-      "lat": 1.2958222794439982,
-      "lon": 103.83171609246482,
+      "lat": 1.2958222794440062,
+      "lon": 103.83171609246592,
       "project": "THE COSMOPOLITAN",
       "psf_signal": 5.93,
       "transaction_count": 1059
@@ -596,8 +596,8 @@
       "transaction_count": 1059
     },
     {
-      "lat": 1.3588979284046578,
-      "lon": 103.96649039869334,
+      "lat": 1.3588979284046623,
+      "lon": 103.96649039869376,
       "project": "The Gale",
       "psf_signal": 3.51,
       "transaction_count": 1053
@@ -611,14 +611,14 @@
     },
     {
       "lat": 1.3143819379136137,
-      "lon": 103.84356235084618,
+      "lon": 103.84356235084631,
       "project": "PARK INFINIA AT WEE NAM",
       "psf_signal": 5.03,
       "transaction_count": 1045
     },
     {
       "lat": 1.3286868998696106,
-      "lon": 103.9461138808255,
+      "lon": 103.94611388082573,
       "project": "CASA MERAH",
       "psf_signal": 3.84,
       "transaction_count": 1041
@@ -631,14 +631,14 @@
       "transaction_count": 1040
     },
     {
-      "lat": 1.3782776735773141,
-      "lon": 103.96118764789523,
+      "lat": 1.3782776735773137,
+      "lon": 103.96118764789512,
       "project": "RIPPLE BAY",
       "psf_signal": 3.92,
       "transaction_count": 1037
     },
     {
-      "lat": 1.3229426026754436,
+      "lat": 1.3229426026754438,
       "lon": 103.9451381439629,
       "project": "ECO",
       "psf_signal": 4.45,
@@ -652,15 +652,15 @@
       "transaction_count": 1029
     },
     {
-      "lat": 1.3183706143234166,
-      "lon": 103.7615743657471,
+      "lat": 1.3183706143234153,
+      "lon": 103.76157436574701,
       "project": "THE TRILINQ",
       "psf_signal": 4.81,
       "transaction_count": 1014
     },
     {
-      "lat": 1.3112332432336955,
-      "lon": 103.80626248633324,
+      "lat": 1.3112332432336948,
+      "lon": 103.80626248633347,
       "project": "SOMMERVILLE PARK",
       "psf_signal": 3.68,
       "transaction_count": 1014
@@ -673,15 +673,15 @@
       "transaction_count": 1010
     },
     {
-      "lat": 1.2969406011804967,
-      "lon": 103.88870202098656,
+      "lat": 1.2969406011804985,
+      "lon": 103.88870202098667,
       "project": "THE SEAFRONT ON MEYER",
       "psf_signal": 3.83,
       "transaction_count": 996
     },
     {
-      "lat": 1.3260842856937134,
-      "lon": 103.85168723507002,
+      "lat": 1.326084285693713,
+      "lon": 103.85168723507022,
       "project": "PRESTIGE HEIGHTS",
       "psf_signal": 5.22,
       "transaction_count": 989
@@ -694,36 +694,36 @@
       "transaction_count": 989
     },
     {
-      "lat": 1.33861978432802,
-      "lon": 103.86901249707743,
+      "lat": 1.3386197843280199,
+      "lon": 103.86901249707735,
       "project": "PARK COLONIAL",
       "psf_signal": 6.2,
       "transaction_count": 985
     },
     {
-      "lat": 1.2981608952058663,
+      "lat": 1.2981608952058656,
       "lon": 103.80316366422322,
       "project": "Queens",
       "psf_signal": 5.17,
       "transaction_count": 985
     },
     {
-      "lat": 1.3278902984476673,
-      "lon": 103.84841574365838,
+      "lat": 1.327890298447666,
+      "lon": 103.84841574365832,
       "project": "SKYSUITES17",
       "psf_signal": 4.5,
       "transaction_count": 985
     },
     {
-      "lat": 1.2964004758799867,
-      "lon": 103.76604228354266,
+      "lat": 1.2964004758799865,
+      "lon": 103.76604228354272,
       "project": "BLUE HORIZON",
       "psf_signal": 4.47,
       "transaction_count": 970
     },
     {
-      "lat": 1.369606160868877,
-      "lon": 103.94386946015723,
+      "lat": 1.3696061608688768,
+      "lon": 103.94386946015725,
       "project": "THE PALETTE",
       "psf_signal": 3.79,
       "transaction_count": 968
@@ -743,22 +743,22 @@
       "transaction_count": 960
     },
     {
-      "lat": 1.2981272690273549,
-      "lon": 103.8561009035802,
+      "lat": 1.2981272690273482,
+      "lon": 103.85610090357976,
       "project": "THE M",
       "psf_signal": 7.69,
       "transaction_count": 944
     },
     {
-      "lat": 1.3127563023494364,
-      "lon": 103.85875199640616,
+      "lat": 1.3127563023494342,
+      "lon": 103.85875199640613,
       "project": "Sturdee Residences",
       "psf_signal": 5.27,
       "transaction_count": 944
     },
     {
-      "lat": 1.3380461066844416,
-      "lon": 103.78077231802128,
+      "lat": 1.3380461066844411,
+      "lon": 103.78077231802132,
       "project": "MAYFAIR GARDENS",
       "psf_signal": 5.28,
       "transaction_count": 934
@@ -771,43 +771,43 @@
       "transaction_count": 932
     },
     {
-      "lat": 1.336358777082681,
-      "lon": 103.86898612512934,
+      "lat": 1.3363587770826806,
+      "lon": 103.86898612512915,
       "project": "8@WOODLEIGH",
       "psf_signal": 4.12,
       "transaction_count": 924
     },
     {
       "lat": 1.3130462558954308,
-      "lon": 103.89087728812297,
+      "lon": 103.8908772881229,
       "project": "The Waterina",
       "psf_signal": 4.22,
       "transaction_count": 920
     },
     {
-      "lat": 1.31169977351963,
-      "lon": 103.8836448895314,
+      "lat": 1.3116997735196294,
+      "lon": 103.88364488953135,
       "project": "Guillemard Suites",
       "psf_signal": 5.47,
       "transaction_count": 914
     },
     {
-      "lat": 1.3119643784102801,
-      "lon": 103.88595437939541,
+      "lat": 1.3119643784102792,
+      "lon": 103.88595437939543,
       "project": "LA BRISA",
       "psf_signal": 4.85,
       "transaction_count": 913
     },
     {
-      "lat": 1.2794740648257896,
-      "lon": 103.78558769341062,
+      "lat": 1.2794740648257938,
+      "lon": 103.78558769341068,
       "project": "VIVA VISTA",
       "psf_signal": 5.94,
       "transaction_count": 902
     },
     {
-      "lat": 1.314584097282867,
-      "lon": 103.8392999788881,
+      "lat": 1.3145840972828802,
+      "lon": 103.83929997888758,
       "project": "TRILIGHT",
       "psf_signal": 5.3,
       "transaction_count": 902
@@ -820,22 +820,22 @@
       "transaction_count": 902
     },
     {
-      "lat": 1.3758477535678566,
+      "lat": 1.3758477535678546,
       "lon": 103.90410017735442,
       "project": "KINGSFORD WATERBAY",
       "psf_signal": 4.41,
       "transaction_count": 893
     },
     {
-      "lat": 1.2888997197507215,
-      "lon": 103.80424419425165,
+      "lat": 1.2888997197507186,
+      "lon": 103.80424419425161,
       "project": "THE ANCHORAGE",
       "psf_signal": 3.44,
       "transaction_count": 892
     },
     {
-      "lat": 1.2832402061292316,
-      "lon": 103.83369750937727,
+      "lat": 1.2832402061292318,
+      "lon": 103.83369750937732,
       "project": "Tiong Bahru Estate",
       "psf_signal": 5.04,
       "transaction_count": 889
@@ -862,22 +862,22 @@
       "transaction_count": 882
     },
     {
-      "lat": 1.3614270007893998,
-      "lon": 103.88636450342104,
+      "lat": 1.3614270007893996,
+      "lon": 103.88636450342116,
       "project": "STARS OF KOVAN",
       "psf_signal": 4.69,
       "transaction_count": 876
     },
     {
-      "lat": 1.3567536810502785,
-      "lon": 103.76176608838209,
+      "lat": 1.3567536810502767,
+      "lon": 103.7617660883823,
       "project": "Glendale Park",
       "psf_signal": 3.48,
       "transaction_count": 874
     },
     {
-      "lat": 1.3187706544577462,
-      "lon": 103.75440842561852,
+      "lat": 1.3187706544577458,
+      "lon": 103.75440842561825,
       "project": "BOTANNIA",
       "psf_signal": 5.2,
       "transaction_count": 870
@@ -890,36 +890,36 @@
       "transaction_count": 866
     },
     {
-      "lat": 1.3166200066763758,
-      "lon": 103.82864143884066,
+      "lat": 1.3166200066763774,
+      "lon": 103.82864143884068,
       "project": "Robin Suites",
       "psf_signal": 5.09,
       "transaction_count": 858
     },
     {
-      "lat": 1.3441562310554973,
-      "lon": 103.76908006567805,
+      "lat": 1.3441562310554918,
+      "lon": 103.76908006567804,
       "project": "THE HILLFORD",
       "psf_signal": 4.93,
       "transaction_count": 853
     },
     {
-      "lat": 1.293846043962642,
-      "lon": 103.83374127891393,
+      "lat": 1.2938460439626402,
+      "lon": 103.83374127891405,
       "project": "THE TRILLIUM",
       "psf_signal": 4.87,
       "transaction_count": 853
     },
     {
-      "lat": 1.2921169115856215,
+      "lat": 1.2921169115856221,
       "lon": 103.82280225951922,
       "project": "PRINCIPAL GARDEN",
       "psf_signal": 5.9,
       "transaction_count": 840
     },
     {
-      "lat": 1.3141213800943166,
-      "lon": 103.89426860402746,
+      "lat": 1.3141213800943154,
+      "lon": 103.89426860402753,
       "project": "KATONG REGENCY",
       "psf_signal": 4.58,
       "transaction_count": 835
@@ -932,8 +932,8 @@
       "transaction_count": 833
     },
     {
-      "lat": 1.2858054985340697,
-      "lon": 103.82771332664504,
+      "lat": 1.2858054985340703,
+      "lon": 103.82771332664502,
       "project": "CENTRAL GREEN CONDOMINIUM",
       "psf_signal": 4.68,
       "transaction_count": 831
@@ -946,8 +946,8 @@
       "transaction_count": 821
     },
     {
-      "lat": 1.3243701636109708,
-      "lon": 103.85359049457018,
+      "lat": 1.32437016361097,
+      "lon": 103.85359049457007,
       "project": "CRADELS",
       "psf_signal": 4.11,
       "transaction_count": 819
@@ -967,8 +967,8 @@
       "transaction_count": 806
     },
     {
-      "lat": 1.298758588921512,
-      "lon": 103.88449075335734,
+      "lat": 1.2987585889215132,
+      "lon": 103.88449075335713,
       "project": "FULCRUM",
       "psf_signal": 4.92,
       "transaction_count": 804
@@ -981,15 +981,15 @@
       "transaction_count": 799
     },
     {
-      "lat": 1.2965521306941699,
-      "lon": 103.82639118857615,
+      "lat": 1.296552130694168,
+      "lon": 103.8263911885761,
       "project": "REGENCY PARK",
       "psf_signal": 4.52,
       "transaction_count": 799
     },
     {
-      "lat": 1.3565755634060253,
-      "lon": 103.76710012882677,
+      "lat": 1.3565755634060184,
+      "lon": 103.76710012882693,
       "project": "SYMPHONY HEIGHTS",
       "psf_signal": 3.16,
       "transaction_count": 793
@@ -1002,21 +1002,21 @@
       "transaction_count": 792
     },
     {
-      "lat": 1.3164247798456683,
-      "lon": 103.88599703402419,
+      "lat": 1.3164247798456685,
+      "lon": 103.8859970340243,
       "project": "TRE RESIDENCES",
       "psf_signal": 5.34,
       "transaction_count": 791
     },
     {
       "lat": 1.3812653322326647,
-      "lon": 103.89342985294155,
+      "lon": 103.89342985294154,
       "project": "Jewel @ Buangkok",
       "psf_signal": 4.14,
       "transaction_count": 791
     },
     {
-      "lat": 1.315980973439863,
+      "lat": 1.315980973439864,
       "lon": 103.83148545665003,
       "project": "BELMOND GREEN",
       "psf_signal": 4.28,
@@ -1031,28 +1031,28 @@
     },
     {
       "lat": 1.3431442395848143,
-      "lon": 103.88177817235139,
+      "lon": 103.88177817235137,
       "project": "BARTLEY RESIDENCES",
       "psf_signal": 4.42,
       "transaction_count": 784
     },
     {
-      "lat": 1.4384861996255525,
-      "lon": 103.83051376731144,
+      "lat": 1.4384861996255518,
+      "lon": 103.83051376731152,
       "project": "EIGHT COURTYARDS",
       "psf_signal": 3.45,
       "transaction_count": 782
     },
     {
-      "lat": 1.3036962298421522,
-      "lon": 103.83864180224927,
+      "lat": 1.3036962298421504,
+      "lon": 103.83864180224944,
       "project": "URBAN SUITES",
       "psf_signal": 6.04,
       "transaction_count": 777
     },
     {
-      "lat": 1.2493108937985637,
-      "lon": 103.84156789761167,
+      "lat": 1.2493108937985633,
+      "lon": 103.84156789761182,
       "project": "THE RESIDENCES AT W SINGAPORE SENTOSA COVE",
       "psf_signal": 4.92,
       "transaction_count": 777
@@ -1066,14 +1066,14 @@
     },
     {
       "lat": 1.341795415836159,
-      "lon": 103.76857273444523,
+      "lon": 103.76857273444524,
       "project": "SIGNATURE PARK",
       "psf_signal": 3.02,
       "transaction_count": 765
     },
     {
-      "lat": 1.3340937793314143,
-      "lon": 103.78352585959126,
+      "lat": 1.334093779331414,
+      "lon": 103.78352585959125,
       "project": "MAPLE WOODS",
       "psf_signal": 3.78,
       "transaction_count": 762
@@ -1086,43 +1086,43 @@
       "transaction_count": 759
     },
     {
-      "lat": 1.3294295013014528,
-      "lon": 103.86882498921649,
+      "lat": 1.3294295013014512,
+      "lon": 103.86882498921635,
       "project": "SANT RITZ",
       "psf_signal": 4.93,
       "transaction_count": 759
     },
     {
-      "lat": 1.3162257653645073,
-      "lon": 103.83881170030158,
+      "lat": 1.3162257653645069,
+      "lon": 103.83881170030195,
       "project": "RESIDENCES @ EVELYN",
       "psf_signal": 4.41,
       "transaction_count": 759
     },
     {
-      "lat": 1.3041439766048621,
-      "lon": 103.84086284088886,
+      "lat": 1.3041439766048635,
+      "lon": 103.84086284088843,
       "project": "WATERSCAPE AT CAVENAGH",
       "psf_signal": 4.28,
       "transaction_count": 754
     },
     {
-      "lat": 1.326271237027023,
-      "lon": 103.81145628026955,
+      "lat": 1.3262712370270238,
+      "lon": 103.81145628026975,
       "project": "NINETEEN SHELFORD ROAD",
       "psf_signal": 4.28,
       "transaction_count": 751
     },
     {
-      "lat": 1.3133512191952343,
-      "lon": 103.91414053868637,
+      "lat": 1.3133512191952326,
+      "lon": 103.91414053868677,
       "project": "THE VESTA",
       "psf_signal": 4.24,
       "transaction_count": 745
     },
     {
-      "lat": 1.3417723463723008,
-      "lon": 103.95602769198408,
+      "lat": 1.341772346372301,
+      "lon": 103.95602769198399,
       "project": "Double Bay Residences",
       "psf_signal": 3.68,
       "transaction_count": 743
@@ -1135,15 +1135,15 @@
       "transaction_count": 732
     },
     {
-      "lat": 1.3587317586459056,
-      "lon": 103.76363641059757,
+      "lat": 1.358731758645907,
+      "lon": 103.76363641059767,
       "project": "HILLVIEW GREEN",
       "psf_signal": 3.08,
       "transaction_count": 725
     },
     {
-      "lat": 1.313734486254359,
-      "lon": 103.88838584792343,
+      "lat": 1.3137344862543596,
+      "lon": 103.8883858479232,
       "project": "THE WATER EDGE",
       "psf_signal": 4.74,
       "transaction_count": 723
@@ -1156,8 +1156,8 @@
       "transaction_count": 721
     },
     {
-      "lat": 1.2931122560550616,
-      "lon": 103.82403994938726,
+      "lat": 1.29311225605506,
+      "lon": 103.82403994938711,
       "project": "ONE JERVOIS",
       "psf_signal": 4.9,
       "transaction_count": 719
@@ -1170,8 +1170,8 @@
       "transaction_count": 710
     },
     {
-      "lat": 1.310792063724007,
-      "lon": 103.9143344335909,
+      "lat": 1.3107920637240063,
+      "lon": 103.91433443359065,
       "project": "THE SEAWIND",
       "psf_signal": 4.32,
       "transaction_count": 710
@@ -1184,15 +1184,15 @@
       "transaction_count": 709
     },
     {
-      "lat": 1.3237772541602968,
-      "lon": 103.85086739341111,
+      "lat": 1.3237772541602946,
+      "lon": 103.85086739341114,
       "project": "MONTEBLEU",
       "psf_signal": 4.05,
       "transaction_count": 709
     },
     {
-      "lat": 1.3038418746095373,
-      "lon": 103.82620356232263,
+      "lat": 1.3038418746095368,
+      "lon": 103.82620356232279,
       "project": "CUSCADEN RESIDENCES",
       "psf_signal": 5.7,
       "transaction_count": 704
@@ -1205,36 +1205,36 @@
       "transaction_count": 701
     },
     {
-      "lat": 1.3139820959355608,
-      "lon": 103.88374242733103,
+      "lat": 1.3139820959355613,
+      "lon": 103.88374242733094,
       "project": "CENTRA SUITES",
       "psf_signal": 4.45,
       "transaction_count": 701
     },
     {
-      "lat": 1.2915942015093234,
-      "lon": 103.83436211930261,
+      "lat": 1.2915942015093225,
+      "lon": 103.83436211930255,
       "project": "MIRAGE TOWER",
       "psf_signal": 5.04,
       "transaction_count": 700
     },
     {
-      "lat": 1.3118336817837513,
-      "lon": 103.89571628549791,
+      "lat": 1.3118336817837528,
+      "lon": 103.89571628549783,
       "project": "38 I SUITES",
       "psf_signal": 4.32,
       "transaction_count": 700
     },
     {
-      "lat": 1.3289628329807468,
-      "lon": 103.91403192490971,
+      "lat": 1.3289628329807455,
+      "lon": 103.91403192490972,
       "project": "VACANZA @ EAST",
       "psf_signal": 3.99,
       "transaction_count": 694
     },
     {
-      "lat": 1.3064293527861888,
-      "lon": 103.89868892562983,
+      "lat": 1.3064293527861872,
+      "lon": 103.89868892562984,
       "project": "HAIG COURT",
       "psf_signal": 5.41,
       "transaction_count": 685
@@ -1248,21 +1248,21 @@
     },
     {
       "lat": 1.2414107672733052,
-      "lon": 103.8393732456875,
+      "lon": 103.83937324568751,
       "project": "CAPE ROYALE",
       "psf_signal": 5.53,
       "transaction_count": 680
     },
     {
-      "lat": 1.357091464963035,
-      "lon": 103.8311187612409,
+      "lat": 1.3570914649630346,
+      "lon": 103.83111876124062,
       "project": "THOMSON THREE",
       "psf_signal": 3.93,
       "transaction_count": 680
     },
     {
-      "lat": 1.3332352973712063,
-      "lon": 103.78622291216102,
+      "lat": 1.3332352973712058,
+      "lon": 103.7862229121609,
       "project": "FLORIDIAN",
       "psf_signal": 4.63,
       "transaction_count": 674
@@ -1282,8 +1282,8 @@
       "transaction_count": 673
     },
     {
-      "lat": 1.3159906948319304,
-      "lon": 103.84589228801295,
+      "lat": 1.3159906948319318,
+      "lon": 103.84589228801273,
       "project": "6 DERBYSHIRE",
       "psf_signal": 5.39,
       "transaction_count": 669
@@ -1296,8 +1296,8 @@
       "transaction_count": 666
     },
     {
-      "lat": 1.2986350104096955,
-      "lon": 103.76629097167691,
+      "lat": 1.2986350104096953,
+      "lon": 103.76629097167663,
       "project": "WEST BAY CONDOMINIUM",
       "psf_signal": 3.5,
       "transaction_count": 665
@@ -1310,8 +1310,8 @@
       "transaction_count": 654
     },
     {
-      "lat": 1.3179511609911856,
-      "lon": 103.85173786804977,
+      "lat": 1.3179511609911854,
+      "lon": 103.85173786804988,
       "project": "Cityscape at Farrer Park",
       "psf_signal": 4.46,
       "transaction_count": 651
@@ -1324,43 +1324,43 @@
       "transaction_count": 650
     },
     {
-      "lat": 1.3139373634566187,
-      "lon": 103.75932692330599,
+      "lat": 1.3139373634566178,
+      "lon": 103.75932692330615,
       "project": "HUNDRED TREES",
       "psf_signal": 4.04,
       "transaction_count": 650
     },
     {
-      "lat": 1.3665359116292284,
-      "lon": 103.77323003384858,
+      "lat": 1.3665359116292293,
+      "lon": 103.77323003384862,
       "project": "THE DAIRY FARM",
       "psf_signal": 3.52,
       "transaction_count": 647
     },
     {
-      "lat": 1.3029095421219206,
-      "lon": 103.901037717183,
+      "lat": 1.3029095421219203,
+      "lon": 103.90103771718297,
       "project": "The Shore Residences",
       "psf_signal": 5.22,
       "transaction_count": 645
     },
     {
       "lat": 1.333877722062065,
-      "lon": 103.7877956249606,
+      "lon": 103.78779562496061,
       "project": "THE CASCADIA",
       "psf_signal": 4.39,
       "transaction_count": 644
     },
     {
-      "lat": 1.3003189991745452,
-      "lon": 103.85128272897552,
+      "lat": 1.3003189991745447,
+      "lon": 103.85128272897592,
       "project": "The Bencoolen",
       "psf_signal": 4.58,
       "transaction_count": 640
     },
     {
-      "lat": 1.2929939950776201,
-      "lon": 103.83047850347414,
+      "lat": 1.2929939950776226,
+      "lon": 103.83047850347417,
       "project": "MELROSE PARK",
       "psf_signal": 5.3,
       "transaction_count": 639
@@ -1373,43 +1373,43 @@
       "transaction_count": 638
     },
     {
-      "lat": 1.3260135167940084,
-      "lon": 103.84574214869697,
+      "lat": 1.3260135167940093,
+      "lon": 103.8457421486969,
       "project": "DOMUS",
       "psf_signal": 4.39,
       "transaction_count": 637
     },
     {
-      "lat": 1.2961605978647195,
-      "lon": 103.84156384640043,
+      "lat": 1.2961605978647184,
+      "lon": 103.84156384640055,
       "project": "BELLE VUE RESIDENCES",
       "psf_signal": 5.11,
       "transaction_count": 629
     },
     {
-      "lat": 1.2992084967668347,
-      "lon": 103.82635841208479,
+      "lat": 1.2992084967668338,
+      "lon": 103.82635841208484,
       "project": "CLIVEDEN AT GRANGE",
       "psf_signal": 5.99,
       "transaction_count": 626
     },
     {
-      "lat": 1.2809358535481217,
-      "lon": 103.78947748996177,
+      "lat": 1.2809358535481206,
+      "lon": 103.78947748996171,
       "project": "KENT RIDGE HILL RESIDENCES",
       "psf_signal": 5.57,
       "transaction_count": 623
     },
     {
-      "lat": 1.328399098819972,
-      "lon": 103.84193697134153,
+      "lat": 1.3283990988199712,
+      "lon": 103.84193697134137,
       "project": "THE ARTE",
       "psf_signal": 3.9,
       "transaction_count": 623
     },
     {
-      "lat": 1.2994365681214728,
-      "lon": 103.8986993050488,
+      "lat": 1.2994365681214783,
+      "lon": 103.89869930504864,
       "project": "AMBER SKYE",
       "psf_signal": 5.34,
       "transaction_count": 622
@@ -1429,8 +1429,8 @@
       "transaction_count": 615
     },
     {
-      "lat": 1.3215309389901317,
-      "lon": 103.91195399887062,
+      "lat": 1.3215309389901326,
+      "lon": 103.91195399887063,
       "project": "ASTORIA PARK",
       "psf_signal": 3.98,
       "transaction_count": 615
@@ -1444,28 +1444,28 @@
     },
     {
       "lat": 1.3115432045212434,
-      "lon": 103.87908108517566,
+      "lon": 103.87908108517559,
       "project": "Wing Fong Mansions",
       "psf_signal": 3.91,
       "transaction_count": 613
     },
     {
-      "lat": 1.3514248973834746,
-      "lon": 103.84112739342186,
+      "lat": 1.351424897383475,
+      "lon": 103.84112739342191,
       "project": "TRESALVEO",
       "psf_signal": 3.71,
       "transaction_count": 610
     },
     {
-      "lat": 1.2897358779235057,
-      "lon": 103.84868635995906,
+      "lat": 1.2897358779235077,
+      "lon": 103.84868635995916,
       "project": "High Street Centre",
       "psf_signal": 7.23,
       "transaction_count": 609
     },
     {
-      "lat": 1.282393702012305,
-      "lon": 103.84624569848896,
+      "lat": 1.2823937020123053,
+      "lon": 103.84624569848897,
       "project": "Emerald Garden",
       "psf_signal": 4.76,
       "transaction_count": 608
@@ -1478,8 +1478,8 @@
       "transaction_count": 603
     },
     {
-      "lat": 1.2764775207576784,
-      "lon": 103.84585963663,
+      "lat": 1.276477520757679,
+      "lon": 103.84585963663004,
       "project": "International Plaza",
       "psf_signal": 7.0,
       "transaction_count": 602
@@ -1492,7 +1492,7 @@
       "transaction_count": 602
     },
     {
-      "lat": 1.3157422026116037,
+      "lat": 1.3157422026116035,
       "lon": 103.8886811773363,
       "project": "SIMS EDGE",
       "psf_signal": 4.68,
@@ -1520,8 +1520,8 @@
       "transaction_count": 601
     },
     {
-      "lat": 1.3182064782622005,
-      "lon": 103.83055271797593,
+      "lat": 1.3182064782621996,
+      "lon": 103.83055271797592,
       "project": "CYAN",
       "psf_signal": 4.91,
       "transaction_count": 598
@@ -1534,22 +1534,22 @@
       "transaction_count": 597
     },
     {
-      "lat": 1.3484971672457864,
-      "lon": 103.9260010813582,
+      "lat": 1.3484971672457873,
+      "lon": 103.92600108135822,
       "project": "WATERVIEW",
       "psf_signal": 3.53,
       "transaction_count": 597
     },
     {
-      "lat": 1.3243978680083153,
-      "lon": 103.8644636165084,
+      "lat": 1.3243978680083155,
+      "lon": 103.86446361650853,
       "project": "REGENT RESIDENCES",
       "psf_signal": 4.47,
       "transaction_count": 595
     },
     {
-      "lat": 1.3513075382691142,
-      "lon": 103.92769916985755,
+      "lat": 1.351307538269115,
+      "lon": 103.92769916985759,
       "project": "THE SANTORINI",
       "psf_signal": 4.39,
       "transaction_count": 590
@@ -1570,7 +1570,7 @@
     },
     {
       "lat": 1.328141835995408,
-      "lon": 103.86337022983186,
+      "lon": 103.86337022983194,
       "project": "RIVERBAY",
       "psf_signal": 4.55,
       "transaction_count": 576
@@ -1590,8 +1590,8 @@
       "transaction_count": 574
     },
     {
-      "lat": 1.3178031263671879,
-      "lon": 103.7786748513088,
+      "lat": 1.3178031263671872,
+      "lon": 103.77867485130882,
       "project": "RIDGEWOOD",
       "psf_signal": 3.14,
       "transaction_count": 574
@@ -1611,7 +1611,7 @@
       "transaction_count": 570
     },
     {
-      "lat": 1.3188444360082408,
+      "lat": 1.3188444360082427,
       "lon": 103.77698027270371,
       "project": "Pandan Valley",
       "psf_signal": 2.84,
@@ -1625,50 +1625,50 @@
       "transaction_count": 568
     },
     {
-      "lat": 1.3142614718642007,
-      "lon": 103.85395005983062,
+      "lat": 1.3142614718642018,
+      "lon": 103.85395005983074,
       "project": "RANGOON 88",
       "psf_signal": 5.41,
       "transaction_count": 567
     },
     {
-      "lat": 1.3181428308080296,
-      "lon": 103.84124344190953,
+      "lat": 1.3181428308080294,
+      "lon": 103.84124344190954,
       "project": "NEWTON SUITES",
       "psf_signal": 4.67,
       "transaction_count": 558
     },
     {
-      "lat": 1.3140882521958446,
-      "lon": 103.8362125393359,
+      "lat": 1.3140882521958426,
+      "lon": 103.83621253933607,
       "project": "GOODWOOD RESIDENCE",
       "psf_signal": 5.31,
       "transaction_count": 557
     },
     {
-      "lat": 1.3755369063130738,
-      "lon": 103.83385269969486,
+      "lat": 1.3755369063130736,
+      "lon": 103.83385269969484,
       "project": "THE PANORAMA",
       "psf_signal": 4.96,
       "transaction_count": 556
     },
     {
-      "lat": 1.3644611650746878,
-      "lon": 103.83088655332689,
+      "lat": 1.364461165074688,
+      "lon": 103.83088655332699,
       "project": "THE GARDENS AT BISHAN",
       "psf_signal": 3.19,
       "transaction_count": 556
     },
     {
-      "lat": 1.3212322498993039,
+      "lat": 1.3212322498993008,
       "lon": 103.85235507440798,
       "project": "THE MEZZO",
       "psf_signal": 4.2,
       "transaction_count": 553
     },
     {
-      "lat": 1.2930015270150008,
-      "lon": 103.81919376631768,
+      "lat": 1.293001527015001,
+      "lon": 103.81919376631767,
       "project": "THE CREST",
       "psf_signal": 5.41,
       "transaction_count": 551
@@ -1702,8 +1702,8 @@
       "transaction_count": 546
     },
     {
-      "lat": 1.3086986358829333,
-      "lon": 103.80165746289953,
+      "lat": 1.3086986358829347,
+      "lon": 103.80165746289975,
       "project": "VIZ AT HOLLAND",
       "psf_signal": 4.36,
       "transaction_count": 545
@@ -1716,22 +1716,22 @@
       "transaction_count": 545
     },
     {
-      "lat": 1.3765177150805588,
-      "lon": 103.7565622447974,
+      "lat": 1.3765177150805576,
+      "lon": 103.75656224479745,
       "project": "HILLSTA",
       "psf_signal": 4.25,
       "transaction_count": 540
     },
     {
-      "lat": 1.3633596835570694,
-      "lon": 103.88568289010068,
+      "lat": 1.36335968355707,
+      "lon": 103.88568289010067,
       "project": "KOVAN REGENCY",
       "psf_signal": 4.28,
       "transaction_count": 539
     },
     {
-      "lat": 1.3314862440207451,
-      "lon": 103.8082136766269,
+      "lat": 1.3314862440207456,
+      "lon": 103.80821367662689,
       "project": "Hillcrest Park",
       "psf_signal": 3.31,
       "transaction_count": 539
@@ -1744,8 +1744,8 @@
       "transaction_count": 537
     },
     {
-      "lat": 1.316267589746565,
-      "lon": 103.83406267692517,
+      "lat": 1.3162675897465645,
+      "lon": 103.83406267692516,
       "project": "SUI GENERIS",
       "psf_signal": 4.13,
       "transaction_count": 536
@@ -1765,15 +1765,15 @@
       "transaction_count": 533
     },
     {
-      "lat": 1.3161197646141793,
-      "lon": 103.85207491199937,
+      "lat": 1.3161197646141762,
+      "lon": 103.85207491199932,
       "project": "KENTISH GREEN",
       "psf_signal": 3.9,
       "transaction_count": 532
     },
     {
-      "lat": 1.3092998925749357,
-      "lon": 103.89613760068049,
+      "lat": 1.3092998925749355,
+      "lon": 103.8961376006804,
       "project": "QUESTA @ DUNMAN",
       "psf_signal": 4.61,
       "transaction_count": 531
@@ -1787,21 +1787,21 @@
     },
     {
       "lat": 1.308475738781053,
-      "lon": 103.91348968064025,
+      "lon": 103.91348968064038,
       "project": "TIERRA VUE",
       "psf_signal": 4.35,
       "transaction_count": 528
     },
     {
-      "lat": 1.3404750304229835,
-      "lon": 103.77051034238485,
+      "lat": 1.3404750304229849,
+      "lon": 103.7705103423849,
       "project": "THE CREEK @ BUKIT",
       "psf_signal": 4.36,
       "transaction_count": 526
     },
     {
-      "lat": 1.3489616071354407,
-      "lon": 103.86145905664216,
+      "lat": 1.3489616071354402,
+      "lon": 103.86145905664222,
       "project": "CHILTERN PARK",
       "psf_signal": 3.68,
       "transaction_count": 526
@@ -1821,22 +1821,22 @@
       "transaction_count": 520
     },
     {
-      "lat": 1.3619366877705235,
-      "lon": 103.88936164548713,
+      "lat": 1.361936687770523,
+      "lon": 103.88936164548723,
       "project": "THE TEMBUSU",
       "psf_signal": 4.34,
       "transaction_count": 517
     },
     {
-      "lat": 1.2987973691466002,
-      "lon": 103.83169459855155,
+      "lat": 1.2987973691465993,
+      "lon": 103.83169459855164,
       "project": "LEONIE SUITES",
       "psf_signal": 4.46,
       "transaction_count": 516
     },
     {
-      "lat": 1.3038473539620294,
-      "lon": 103.90412312551842,
+      "lat": 1.3038473539620279,
+      "lon": 103.90412312551838,
       "project": "MARINE BLUE",
       "psf_signal": 4.46,
       "transaction_count": 514
@@ -1863,8 +1863,8 @@
       "transaction_count": 509
     },
     {
-      "lat": 1.312185245807749,
-      "lon": 103.93346003694491,
+      "lat": 1.3121852458077479,
+      "lon": 103.93346003694492,
       "project": "EASTERN LAGOON",
       "psf_signal": 3.38,
       "transaction_count": 509
@@ -1877,8 +1877,8 @@
       "transaction_count": 508
     },
     {
-      "lat": 1.2988216144149778,
-      "lon": 103.84168245952019,
+      "lat": 1.2988216144149782,
+      "lon": 103.84168245952006,
       "project": "ONE OXLEY RISE",
       "psf_signal": 4.64,
       "transaction_count": 507
@@ -1891,7 +1891,7 @@
       "transaction_count": 506
     },
     {
-      "lat": 1.3748062746934977,
+      "lat": 1.374806274693498,
       "lon": 103.77108347112585,
       "project": "Maysprings",
       "psf_signal": 3.19,
@@ -1905,43 +1905,43 @@
       "transaction_count": 499
     },
     {
-      "lat": 1.3213005150047248,
-      "lon": 103.8529024986178,
+      "lat": 1.3213005150047243,
+      "lon": 103.85290249861785,
       "project": "OKIO",
       "psf_signal": 5.24,
       "transaction_count": 494
     },
     {
-      "lat": 1.3321488752189807,
-      "lon": 103.79041357117708,
+      "lat": 1.332148875218981,
+      "lon": 103.7904135711771,
       "project": "THE TESSARINA",
       "psf_signal": 3.87,
       "transaction_count": 494
     },
     {
-      "lat": 1.2942358338937496,
-      "lon": 103.8266862144071,
+      "lat": 1.2942358338937516,
+      "lon": 103.82668621440719,
       "project": "NATHAN RESIDENCES",
       "psf_signal": 4.26,
       "transaction_count": 493
     },
     {
-      "lat": 1.3530549767675737,
-      "lon": 103.75889172001067,
+      "lat": 1.3530549767675792,
+      "lon": 103.75889172001055,
       "project": "NATURA@HILLVIEW",
       "psf_signal": 5.07,
       "transaction_count": 489
     },
     {
       "lat": 1.3079570863241778,
-      "lon": 103.92149650897038,
+      "lon": 103.9214965089704,
       "project": "Neptune Court",
       "psf_signal": 2.81,
       "transaction_count": 489
     },
     {
-      "lat": 1.3587141327814742,
-      "lon": 103.76568223857821,
+      "lat": 1.3587141327814731,
+      "lon": 103.76568223857822,
       "project": "SUMMERHILL",
       "psf_signal": 3.18,
       "transaction_count": 488
@@ -1954,8 +1954,8 @@
       "transaction_count": 486
     },
     {
-      "lat": 1.3392766325115326,
-      "lon": 103.76851768638984,
+      "lat": 1.3392766325115206,
+      "lon": 103.7685176863893,
       "project": "NOTTINGHILL SUITES",
       "psf_signal": 5.74,
       "transaction_count": 484
@@ -1976,7 +1976,7 @@
     },
     {
       "lat": 1.3787907261392545,
-      "lon": 103.94340751452489,
+      "lon": 103.9434075145249,
       "project": "STRATUM",
       "psf_signal": 4.07,
       "transaction_count": 473
@@ -1989,8 +1989,8 @@
       "transaction_count": 472
     },
     {
-      "lat": 1.3278772596400523,
-      "lon": 103.84320914621847,
+      "lat": 1.3278772596400525,
+      "lon": 103.8432091462184,
       "project": "VISTA RESIDENCES",
       "psf_signal": 4.25,
       "transaction_count": 471
@@ -2003,8 +2003,8 @@
       "transaction_count": 471
     },
     {
-      "lat": 1.3134553752549833,
-      "lon": 103.88163433615112,
+      "lat": 1.3134553752549842,
+      "lon": 103.88163433615107,
       "project": "LE REGAL",
       "psf_signal": 6.07,
       "transaction_count": 469
@@ -2025,14 +2025,14 @@
     },
     {
       "lat": 1.341296228080408,
-      "lon": 103.95336430335313,
+      "lon": 103.95336430335311,
       "project": "MY MANHATTAN",
       "psf_signal": 4.42,
       "transaction_count": 466
     },
     {
-      "lat": 1.3254727859514175,
-      "lon": 103.85322034710447,
+      "lat": 1.3254727859514184,
+      "lon": 103.85322034710441,
       "project": "THE INTERWEAVE",
       "psf_signal": 5.37,
       "transaction_count": 464
@@ -2045,8 +2045,8 @@
       "transaction_count": 462
     },
     {
-      "lat": 1.3170304718022063,
-      "lon": 103.75687481607591,
+      "lat": 1.3170304718022068,
+      "lon": 103.75687481607602,
       "project": "CARABELLE",
       "psf_signal": 4.21,
       "transaction_count": 461
@@ -2059,8 +2059,8 @@
       "transaction_count": 460
     },
     {
-      "lat": 1.318294591281457,
-      "lon": 103.82860343259908,
+      "lat": 1.3182945912814554,
+      "lon": 103.82860343259902,
       "project": "ROBIN RESIDENCES",
       "psf_signal": 5.28,
       "transaction_count": 459
@@ -2073,15 +2073,15 @@
       "transaction_count": 458
     },
     {
-      "lat": 1.3214419934204176,
-      "lon": 103.82383724630864,
+      "lat": 1.3214419934204178,
+      "lon": 103.82383724630881,
       "project": "THE GLYNDEBOURNE",
       "psf_signal": 4.4,
       "transaction_count": 457
     },
     {
-      "lat": 1.2897690369555557,
-      "lon": 103.83066090196299,
+      "lat": 1.2897690369555552,
+      "lon": 103.83066090196296,
       "project": "EMERALD PARK",
       "psf_signal": 3.95,
       "transaction_count": 456
@@ -2115,42 +2115,42 @@
       "transaction_count": 446
     },
     {
-      "lat": 1.3289493506654417,
-      "lon": 103.90645923229992,
+      "lat": 1.3289493506654457,
+      "lon": 103.90645923230034,
       "project": "URBAN TREASURES",
       "psf_signal": 5.17,
       "transaction_count": 445
     },
     {
-      "lat": 1.2988515372249942,
-      "lon": 103.88840808514743,
+      "lat": 1.2988515372249934,
+      "lon": 103.88840808514745,
       "project": "8M RESIDENCES",
       "psf_signal": 3.83,
       "transaction_count": 445
     },
     {
       "lat": 1.3139496245949953,
-      "lon": 103.82886902374185,
+      "lon": 103.82886902374176,
       "project": "ONE BALMORAL",
       "psf_signal": 4.21,
       "transaction_count": 441
     },
     {
-      "lat": 1.3063007364176593,
-      "lon": 103.83663017650464,
+      "lat": 1.3063007364176586,
+      "lon": 103.83663017650454,
       "project": "CAIRNHILL PLAZA",
       "psf_signal": 3.36,
       "transaction_count": 440
     },
     {
-      "lat": 1.3121964057127289,
-      "lon": 103.88937862814463,
+      "lat": 1.3121964057127284,
+      "lon": 103.88937862814466,
       "project": "THE SUNNY SPRING",
       "psf_signal": 3.38,
       "transaction_count": 439
     },
     {
-      "lat": 1.3043270520260917,
+      "lat": 1.3043270520260906,
       "lon": 103.90561570194129,
       "project": "CORALIS",
       "psf_signal": 4.62,
@@ -2158,7 +2158,7 @@
     },
     {
       "lat": 1.3087227511131834,
-      "lon": 103.8195449297847,
+      "lon": 103.81954492978475,
       "project": "BOTANIC GARDENS VIEW",
       "psf_signal": 3.85,
       "transaction_count": 435
@@ -2220,15 +2220,15 @@
       "transaction_count": 430
     },
     {
-      "lat": 1.3142546670370794,
-      "lon": 103.83078712994006,
+      "lat": 1.3142546670370832,
+      "lon": 103.83078712993998,
       "project": "TREASURE ON BALMORAL",
       "psf_signal": 5.83,
       "transaction_count": 426
     },
     {
-      "lat": 1.4180473840778864,
-      "lon": 103.84762909622408,
+      "lat": 1.4180473840778858,
+      "lon": 103.847629096224,
       "project": "SKIES MILTONIA",
       "psf_signal": 3.77,
       "transaction_count": 426
@@ -2248,8 +2248,8 @@
       "transaction_count": 425
     },
     {
-      "lat": 1.3308700699512694,
-      "lon": 103.79405890730237,
+      "lat": 1.3308700699512692,
+      "lon": 103.79405890730233,
       "project": "ROYALGREEN",
       "psf_signal": 5.87,
       "transaction_count": 422
@@ -2262,14 +2262,14 @@
       "transaction_count": 421
     },
     {
-      "lat": 1.3117433774205856,
-      "lon": 103.8819047851835,
+      "lat": 1.311743377420585,
+      "lon": 103.88190478518354,
       "project": "# 1 SUITES",
       "psf_signal": 5.23,
       "transaction_count": 420
     },
     {
-      "lat": 1.3737099773373247,
+      "lat": 1.3737099773373243,
       "lon": 103.94057840933709,
       "project": "RIS GRANDEUR",
       "psf_signal": 3.15,
@@ -2283,29 +2283,29 @@
       "transaction_count": 419
     },
     {
-      "lat": 1.3263732951651719,
-      "lon": 103.84910427889693,
+      "lat": 1.3263732951651706,
+      "lon": 103.84910427889717,
       "project": "VA RESIDENCES",
       "psf_signal": 3.78,
       "transaction_count": 419
     },
     {
-      "lat": 1.3185080336833692,
-      "lon": 103.78031534693353,
+      "lat": 1.3185080336833714,
+      "lon": 103.7803153469335,
       "project": "ALLSWORTH PARK",
       "psf_signal": 3.53,
       "transaction_count": 419
     },
     {
-      "lat": 1.315668812458417,
-      "lon": 103.853825911787,
+      "lat": 1.3156688124584157,
+      "lon": 103.85382591178694,
       "project": "JOOL SUITES",
       "psf_signal": 5.52,
       "transaction_count": 416
     },
     {
-      "lat": 1.3731245057966772,
-      "lon": 103.90108151841595,
+      "lat": 1.373124505796677,
+      "lon": 103.90108151841608,
       "project": "RIO VISTA",
       "psf_signal": 2.9,
       "transaction_count": 416
@@ -2318,15 +2318,15 @@
       "transaction_count": 414
     },
     {
-      "lat": 1.300796644301534,
-      "lon": 103.83038660061608,
+      "lat": 1.3007966443015333,
+      "lon": 103.83038660061621,
       "project": "PATERSON RESIDENCE",
       "psf_signal": 5.54,
       "transaction_count": 414
     },
     {
-      "lat": 1.3113217253363492,
-      "lon": 103.91099419451548,
+      "lat": 1.31132172533635,
+      "lon": 103.91099419451561,
       "project": "LAVERNE'S LOFT",
       "psf_signal": 4.04,
       "transaction_count": 413
@@ -2339,57 +2339,57 @@
       "transaction_count": 413
     },
     {
-      "lat": 1.323664069476391,
-      "lon": 103.84147627447769,
+      "lat": 1.3236640694763933,
+      "lon": 103.84147627447766,
       "project": "NOVENA COURT",
       "psf_signal": 4.24,
       "transaction_count": 412
     },
     {
-      "lat": 1.3163332095035478,
-      "lon": 103.78389188644438,
+      "lat": 1.3163332095035485,
+      "lon": 103.78389188644432,
       "project": "PARKSUITES",
       "psf_signal": 5.05,
       "transaction_count": 411
     },
     {
-      "lat": 1.3595647305061382,
-      "lon": 103.94080008675175,
+      "lat": 1.3595647305061391,
+      "lon": 103.9408000867518,
       "project": "THE TAMPINES TRILLIANT",
       "psf_signal": 3.88,
       "transaction_count": 411
     },
     {
-      "lat": 1.319619781962176,
-      "lon": 103.75558974982293,
+      "lat": 1.3196197819621762,
+      "lon": 103.75558974982296,
       "project": "THE INFINITI",
       "psf_signal": 3.22,
       "transaction_count": 411
     },
     {
-      "lat": 1.3163123922070046,
-      "lon": 103.77620152696761,
+      "lat": 1.3163123922070052,
+      "lon": 103.77620152696758,
       "project": "CAVENDISH PARK",
       "psf_signal": 3.66,
       "transaction_count": 410
     },
     {
-      "lat": 1.3189620352402853,
-      "lon": 103.91131786800887,
+      "lat": 1.3189620352402844,
+      "lon": 103.91131786800902,
       "project": "THE LENOX",
       "psf_signal": 4.18,
       "transaction_count": 408
     },
     {
-      "lat": 1.2941537186834626,
-      "lon": 103.8369804397235,
+      "lat": 1.2941537186834604,
+      "lon": 103.83698043972343,
       "project": "Starlight Suites",
       "psf_signal": 6.68,
       "transaction_count": 407
     },
     {
-      "lat": 1.3106374599129498,
-      "lon": 103.80369267802759,
+      "lat": 1.3106374599129516,
+      "lon": 103.80369267802791,
       "project": "HYLL ON HOLLAND",
       "psf_signal": 5.7,
       "transaction_count": 407
@@ -2409,50 +2409,50 @@
       "transaction_count": 405
     },
     {
-      "lat": 1.3743859138797478,
-      "lon": 103.8779410188271,
+      "lat": 1.3743859138797472,
+      "lon": 103.87794101882706,
       "project": "REGENTVILLE",
       "psf_signal": 3.27,
       "transaction_count": 405
     },
     {
-      "lat": 1.3977381356176077,
-      "lon": 103.91293673031781,
+      "lat": 1.3977381356176066,
+      "lon": 103.91293673031775,
       "project": "RIVER ISLES",
       "psf_signal": 3.67,
       "transaction_count": 404
     },
     {
-      "lat": 1.3509875764334278,
-      "lon": 103.69771119133455,
+      "lat": 1.3509875764334276,
+      "lon": 103.69771119133456,
       "project": "THE FLORAVALE",
       "psf_signal": 3.01,
       "transaction_count": 404
     },
     {
-      "lat": 1.343705203495433,
-      "lon": 103.86892632438823,
+      "lat": 1.343705203495432,
+      "lon": 103.86892632438817,
       "project": "E MAISON",
       "psf_signal": 4.17,
       "transaction_count": 403
     },
     {
       "lat": 1.2841406682479062,
-      "lon": 103.84266437215113,
+      "lon": 103.84266437215106,
       "project": "PEOPLE'S PARK COMPLEX",
       "psf_signal": 4.8,
       "transaction_count": 402
     },
     {
-      "lat": 1.3060455204414319,
-      "lon": 103.90368894248273,
+      "lat": 1.3060455204414327,
+      "lon": 103.90368894248279,
       "project": "MALVERN SPRINGS",
       "psf_signal": 4.17,
       "transaction_count": 401
     },
     {
       "lat": 1.2968596505689944,
-      "lon": 103.89284542396797,
+      "lon": 103.89284542396801,
       "project": "THE MEYERISE",
       "psf_signal": 4.56,
       "transaction_count": 400
@@ -2465,8 +2465,8 @@
       "transaction_count": 400
     },
     {
-      "lat": 1.3617783664592502,
-      "lon": 103.89140771507562,
+      "lat": 1.3617783664592498,
+      "lon": 103.89140771507576,
       "project": "TRILIVE",
       "psf_signal": 4.44,
       "transaction_count": 398
@@ -2480,49 +2480,49 @@
     },
     {
       "lat": 1.326878620161131,
-      "lon": 103.86406143762346,
+      "lon": 103.86406143762362,
       "project": "AIRSTREAM",
       "psf_signal": 4.39,
       "transaction_count": 397
     },
     {
-      "lat": 1.3264125686218176,
-      "lon": 103.865800191036,
+      "lat": 1.3264125686218184,
+      "lon": 103.86580019103604,
       "project": "JUI RESIDENCES",
       "psf_signal": 4.32,
       "transaction_count": 397
     },
     {
-      "lat": 1.2998358952254137,
-      "lon": 103.84664259827947,
+      "lat": 1.2998358952254143,
+      "lon": 103.84664259827939,
       "project": "HAUS ON HANDY",
       "psf_signal": 8.01,
       "transaction_count": 396
     },
     {
-      "lat": 1.3082516535273145,
-      "lon": 103.90384303738448,
+      "lat": 1.3082516535273152,
+      "lon": 103.90384303738455,
       "project": "SYCAMORE TREE",
       "psf_signal": 5.29,
       "transaction_count": 396
     },
     {
-      "lat": 1.429485757087015,
-      "lon": 103.7855557985148,
+      "lat": 1.429485757087014,
+      "lon": 103.78555579851482,
       "project": "Casablanca",
       "psf_signal": 3.18,
       "transaction_count": 395
     },
     {
       "lat": 1.3412618736999729,
-      "lon": 103.71691005234494,
+      "lon": 103.71691005234493,
       "project": "LAKEPOINT CONDOMINIUM",
       "psf_signal": 2.85,
       "transaction_count": 395
     },
     {
-      "lat": 1.2828817254431721,
-      "lon": 103.7843420523043,
+      "lat": 1.2828817254431724,
+      "lon": 103.78434205230425,
       "project": "THE PEAK@BALMEG",
       "psf_signal": 3.71,
       "transaction_count": 391
@@ -2535,8 +2535,8 @@
       "transaction_count": 389
     },
     {
-      "lat": 1.312984178901343,
-      "lon": 103.92391066841016,
+      "lat": 1.3129841789013428,
+      "lon": 103.9239106684101,
       "project": "SIGLAP V",
       "psf_signal": 3.92,
       "transaction_count": 389
@@ -2549,8 +2549,8 @@
       "transaction_count": 388
     },
     {
-      "lat": 1.3470623131593762,
-      "lon": 103.77325243646686,
+      "lat": 1.347062313159376,
+      "lon": 103.7732524364669,
       "project": "SOUTHAVEN I",
       "psf_signal": 3.01,
       "transaction_count": 388
@@ -2578,7 +2578,7 @@
     },
     {
       "lat": 1.318179014568906,
-      "lon": 103.90899070384437,
+      "lon": 103.90899070384435,
       "project": "PARC ELEGANCE",
       "psf_signal": 4.73,
       "transaction_count": 383
@@ -2633,7 +2633,7 @@
       "transaction_count": 376
     },
     {
-      "lat": 1.3027681831605984,
+      "lat": 1.3027681831605986,
       "lon": 103.84685404277567,
       "project": "1919",
       "psf_signal": 5.4,
@@ -2641,14 +2641,14 @@
     },
     {
       "lat": 1.308426276559734,
-      "lon": 103.91548751237838,
+      "lon": 103.91548751237833,
       "project": "SEVENTY SAINT PATRICK'S",
       "psf_signal": 4.52,
       "transaction_count": 375
     },
     {
-      "lat": 1.2996253258269015,
-      "lon": 103.82804293293219,
+      "lat": 1.2996253258269017,
+      "lon": 103.8280429329322,
       "project": "THE COLONNADE",
       "psf_signal": 4.44,
       "transaction_count": 375
@@ -2661,15 +2661,15 @@
       "transaction_count": 374
     },
     {
-      "lat": 1.348300709132586,
-      "lon": 103.87098286496382,
+      "lat": 1.3483007091325863,
+      "lon": 103.87098286496384,
       "project": "SUNGLADE",
       "psf_signal": 3.78,
       "transaction_count": 372
     },
     {
-      "lat": 1.327001607095455,
-      "lon": 103.84361960750662,
+      "lat": 1.3270016070954556,
+      "lon": 103.84361960750672,
       "project": "One Dusun Residences",
       "psf_signal": 5.09,
       "transaction_count": 370
@@ -2696,15 +2696,15 @@
       "transaction_count": 363
     },
     {
-      "lat": 1.3136392594106556,
-      "lon": 103.84840233260691,
+      "lat": 1.3136392594106554,
+      "lon": 103.84840233260701,
       "project": "THE URBANITE",
       "psf_signal": 4.53,
       "transaction_count": 361
     },
     {
-      "lat": 1.3107241123863616,
-      "lon": 103.91596529159018,
+      "lat": 1.3107241123863622,
+      "lon": 103.91596529159008,
       "project": "AURALIS",
       "psf_signal": 4.11,
       "transaction_count": 361
@@ -2717,36 +2717,36 @@
       "transaction_count": 361
     },
     {
-      "lat": 1.325867526200587,
-      "lon": 103.81271339230449,
+      "lat": 1.3258675262005868,
+      "lon": 103.81271339230453,
       "project": "10 SHELFORD",
       "psf_signal": 4.93,
       "transaction_count": 357
     },
     {
-      "lat": 1.3686050926735323,
+      "lat": 1.368605092673532,
       "lon": 103.87693380246883,
       "project": "TERRASSE",
       "psf_signal": 3.92,
       "transaction_count": 357
     },
     {
-      "lat": 1.289526888983955,
-      "lon": 103.77651841124377,
+      "lat": 1.2895268889839553,
+      "lon": 103.77651841124363,
       "project": "THE ESTRELLA",
       "psf_signal": 4.15,
       "transaction_count": 356
     },
     {
-      "lat": 1.3919130989355857,
-      "lon": 103.83566848598765,
+      "lat": 1.391913098935585,
+      "lon": 103.83566848598761,
       "project": "BULLION PARK",
       "psf_signal": 3.13,
       "transaction_count": 356
     },
     {
-      "lat": 1.2909664600978856,
-      "lon": 103.77087855942341,
+      "lat": 1.290966460097886,
+      "lon": 103.77087855942342,
       "project": "VILLAGE @ PASIR PANJANG",
       "psf_signal": 3.73,
       "transaction_count": 354
@@ -2787,15 +2787,15 @@
       "transaction_count": 348
     },
     {
-      "lat": 1.3563037831258056,
+      "lat": 1.3563037831258054,
       "lon": 103.75931714209162,
       "project": "MERAWOODS",
       "psf_signal": 2.85,
       "transaction_count": 348
     },
     {
-      "lat": 1.2942386673631425,
-      "lon": 103.82175888540621,
+      "lat": 1.2942386673631416,
+      "lon": 103.82175888540634,
       "project": "MON JERVOIS",
       "psf_signal": 4.22,
       "transaction_count": 347
@@ -2808,8 +2808,8 @@
       "transaction_count": 347
     },
     {
-      "lat": 1.312991906911014,
-      "lon": 103.91131112919446,
+      "lat": 1.3129919069110145,
+      "lon": 103.91131112919447,
       "project": "THE CRISTALLO",
       "psf_signal": 4.44,
       "transaction_count": 346
@@ -2822,7 +2822,7 @@
       "transaction_count": 346
     },
     {
-      "lat": 1.3157450302698634,
+      "lat": 1.3157450302698621,
       "lon": 103.88425278343546,
       "project": "CENTRAL GROVE",
       "psf_signal": 4.1,
@@ -2836,36 +2836,36 @@
       "transaction_count": 345
     },
     {
-      "lat": 1.309023394689271,
+      "lat": 1.3090233946892715,
       "lon": 103.82801786354763,
       "project": "ARDMORE II",
       "psf_signal": 5.27,
       "transaction_count": 344
     },
     {
-      "lat": 1.3110571251253875,
-      "lon": 103.8257106206894,
+      "lat": 1.3110571251253877,
+      "lon": 103.82571062068932,
       "project": "SHANGRI-LA RESIDENCES",
       "psf_signal": 5.68,
       "transaction_count": 343
     },
     {
-      "lat": 1.3138680588703862,
-      "lon": 103.93871832161219,
+      "lat": 1.3138680588703866,
+      "lon": 103.93871832161226,
       "project": "UBER 388",
       "psf_signal": 3.67,
       "transaction_count": 342
     },
     {
       "lat": 1.320100828652594,
-      "lon": 103.91312887798092,
+      "lon": 103.9131288779809,
       "project": "THE TRUMPS",
       "psf_signal": 4.54,
       "transaction_count": 341
     },
     {
-      "lat": 1.2786047831064014,
-      "lon": 103.78832685866303,
+      "lat": 1.2786047831064016,
+      "lon": 103.78832685866315,
       "project": "BANYAN CONDOMINIUM",
       "psf_signal": 3.11,
       "transaction_count": 341
@@ -2878,8 +2878,8 @@
       "transaction_count": 340
     },
     {
-      "lat": 1.298574603006086,
-      "lon": 103.89651233322049,
+      "lat": 1.298574603006085,
+      "lon": 103.89651233322057,
       "project": "AALTO",
       "psf_signal": 3.71,
       "transaction_count": 340
@@ -2906,15 +2906,15 @@
       "transaction_count": 340
     },
     {
-      "lat": 1.383392338995413,
-      "lon": 103.83675594657055,
+      "lat": 1.3833923389954133,
+      "lon": 103.83675594657062,
       "project": "THE CALROSE",
       "psf_signal": 3.04,
       "transaction_count": 339
     },
     {
-      "lat": 1.3111167636749073,
-      "lon": 103.89405863792838,
+      "lat": 1.3111167636749075,
+      "lon": 103.89405863792837,
       "project": "BELLA CASITA",
       "psf_signal": 4.4,
       "transaction_count": 336
@@ -2927,7 +2927,7 @@
       "transaction_count": 334
     },
     {
-      "lat": 1.3810216931770654,
+      "lat": 1.3810216931770656,
       "lon": 103.83234054407076,
       "project": "Castle Green",
       "psf_signal": 3.19,
@@ -2969,29 +2969,29 @@
       "transaction_count": 327
     },
     {
-      "lat": 1.3138724445315273,
-      "lon": 103.90419845390166,
+      "lat": 1.3138724445315275,
+      "lon": 103.90419845390169,
       "project": "THE GERANIUM",
       "psf_signal": 4.1,
       "transaction_count": 327
     },
     {
-      "lat": 1.3114591766069856,
-      "lon": 103.79362294417571,
+      "lat": 1.3114591766069787,
+      "lon": 103.7936229441758,
       "project": "One Holland Village Residences",
       "psf_signal": 6.23,
       "transaction_count": 326
     },
     {
-      "lat": 1.3122241046007823,
-      "lon": 103.80109055485785,
+      "lat": 1.3122241046007839,
+      "lon": 103.80109055485786,
       "project": "THE CORNWALL",
       "psf_signal": 4.29,
       "transaction_count": 326
     },
     {
       "lat": 1.3490084993972455,
-      "lon": 103.8782815465879,
+      "lon": 103.87828154658791,
       "project": "JADE RESIDENCES",
       "psf_signal": 4.05,
       "transaction_count": 326
@@ -3004,7 +3004,7 @@
       "transaction_count": 326
     },
     {
-      "lat": 1.3281663033631887,
+      "lat": 1.328166303363189,
       "lon": 103.94375444537225,
       "project": "East Meadows",
       "psf_signal": 3.32,
@@ -3018,29 +3018,29 @@
       "transaction_count": 325
     },
     {
-      "lat": 1.3109426118061736,
-      "lon": 103.8765363477588,
+      "lat": 1.3109426118061738,
+      "lon": 103.87653634775872,
       "project": "ROYCE RESIDENCES",
       "psf_signal": 4.62,
       "transaction_count": 325
     },
     {
-      "lat": 1.4412538291266905,
-      "lon": 103.828010722456,
+      "lat": 1.44125382912669,
+      "lon": 103.82801072245599,
       "project": "The Brownstone",
       "psf_signal": 4.59,
       "transaction_count": 324
     },
     {
-      "lat": 1.355398119405524,
-      "lon": 103.88801032931708,
+      "lat": 1.3553981194055238,
+      "lon": 103.88801032931715,
       "project": "THE PROMENADE@PELIKAT",
       "psf_signal": 4.31,
       "transaction_count": 324
     },
     {
-      "lat": 1.3834299233957146,
-      "lon": 103.74825127113388,
+      "lat": 1.3834299233957166,
+      "lon": 103.74825127113384,
       "project": "MI CASA",
       "psf_signal": 3.31,
       "transaction_count": 324
@@ -3053,28 +3053,28 @@
       "transaction_count": 323
     },
     {
-      "lat": 1.3884934878851185,
-      "lon": 103.85610124893863,
+      "lat": 1.388493487885118,
+      "lon": 103.85610124893859,
       "project": "CABANA",
       "psf_signal": 2.37,
       "transaction_count": 323
     },
     {
-      "lat": 1.311442823499115,
-      "lon": 103.85913315785875,
+      "lat": 1.3114428234991133,
+      "lon": 103.85913315785878,
       "project": "TYRWHITT 139",
       "psf_signal": 5.62,
       "transaction_count": 322
     },
     {
-      "lat": 1.3064331544257313,
+      "lat": 1.3064331544257326,
       "lon": 103.82413739143733,
       "project": "ST MARTIN RESIDENCE",
       "psf_signal": 5.36,
       "transaction_count": 322
     },
     {
-      "lat": 1.309339803050066,
+      "lat": 1.309339803050067,
       "lon": 103.91162813977951,
       "project": "VIBES @ EAST COAST",
       "psf_signal": 5.15,
@@ -3082,35 +3082,35 @@
     },
     {
       "lat": 1.3445404726787562,
-      "lon": 103.77366066927064,
+      "lon": 103.77366066927065,
       "project": "TREE HOUSE",
       "psf_signal": 3.54,
       "transaction_count": 321
     },
     {
       "lat": 1.3532643456143796,
-      "lon": 103.83616007258442,
+      "lon": 103.8361600725844,
       "project": "THOMSON V TWO",
       "psf_signal": 4.39,
       "transaction_count": 320
     },
     {
-      "lat": 1.312933803347227,
+      "lat": 1.3129338033472275,
       "lon": 103.85610785015092,
       "project": "UPTOWN @ FARRER",
       "psf_signal": 6.33,
       "transaction_count": 319
     },
     {
-      "lat": 1.3263602783772415,
-      "lon": 103.86215582156026,
+      "lat": 1.3263602783772417,
+      "lon": 103.86215582156032,
       "project": "BEACON HEIGHTS",
       "psf_signal": 3.69,
       "transaction_count": 319
     },
     {
-      "lat": 1.3109478155966765,
-      "lon": 103.85305331634505,
+      "lat": 1.310947815596676,
+      "lon": 103.85305331634504,
       "project": "SOHO 188",
       "psf_signal": 5.96,
       "transaction_count": 317
@@ -3130,8 +3130,8 @@
       "transaction_count": 314
     },
     {
-      "lat": 1.385908612306695,
-      "lon": 103.86170293802196,
+      "lat": 1.385908612306694,
+      "lon": 103.86170293802185,
       "project": "SELETAR HILLS ESTATE",
       "psf_signal": 2.58,
       "transaction_count": 314
@@ -3151,15 +3151,15 @@
       "transaction_count": 312
     },
     {
-      "lat": 1.3459651477650656,
-      "lon": 103.87920669586669,
+      "lat": 1.345965147765064,
+      "lon": 103.87920669586637,
       "project": "THE GAZANIA",
       "psf_signal": 5.34,
       "transaction_count": 311
     },
     {
-      "lat": 1.3482628587381338,
-      "lon": 103.85202347950212,
+      "lat": 1.348262858738134,
+      "lon": 103.85202347950215,
       "project": "BISHAN LOFT",
       "psf_signal": 3.43,
       "transaction_count": 311
@@ -3180,14 +3180,14 @@
     },
     {
       "lat": 1.266185592830491,
-      "lon": 103.82276758986309,
+      "lon": 103.82276758986308,
       "project": "HARBOURLIGHTS",
       "psf_signal": 4.16,
       "transaction_count": 309
     },
     {
       "lat": 1.275754304683627,
-      "lon": 103.84084056382983,
+      "lon": 103.84084056382981,
       "project": "The Beacon",
       "psf_signal": 4.9,
       "transaction_count": 307
@@ -3200,8 +3200,8 @@
       "transaction_count": 307
     },
     {
-      "lat": 1.305829749626138,
-      "lon": 103.82644447947791,
+      "lat": 1.3058297496261375,
+      "lon": 103.8264444794779,
       "project": "ST REGIS RESIDENCES SINGAPORE",
       "psf_signal": 5.57,
       "transaction_count": 305
@@ -3214,8 +3214,8 @@
       "transaction_count": 304
     },
     {
-      "lat": 1.324439835365446,
-      "lon": 103.80308964837299,
+      "lat": 1.3244398353654459,
+      "lon": 103.80308964837302,
       "project": "DUCHESS CREST",
       "psf_signal": 4.19,
       "transaction_count": 304
@@ -3228,28 +3228,28 @@
       "transaction_count": 303
     },
     {
-      "lat": 1.2984072944586174,
-      "lon": 103.88660854943211,
+      "lat": 1.2984072944586182,
+      "lon": 103.88660854943208,
       "project": "Meyer Residence",
       "psf_signal": 4.25,
       "transaction_count": 303
     },
     {
-      "lat": 1.3561516586684308,
-      "lon": 103.87619679123449,
+      "lat": 1.356151658668431,
+      "lon": 103.87619679123448,
       "project": "RESIDENCES BOTANIQUE",
       "psf_signal": 3.82,
       "transaction_count": 302
     },
     {
       "lat": 1.3179644700423756,
-      "lon": 103.84474770889152,
+      "lon": 103.84474770889142,
       "project": "THOMSON EURO-ASIA",
       "psf_signal": 4.37,
       "transaction_count": 301
     },
     {
-      "lat": 1.358913151086291,
+      "lat": 1.3589131510862906,
       "lon": 103.96855794710751,
       "project": "BALLOTA PARK CONDOMINIUM",
       "psf_signal": 2.53,
@@ -3277,15 +3277,15 @@
       "transaction_count": 299
     },
     {
-      "lat": 1.3092251733347433,
+      "lat": 1.309225173334743,
       "lon": 103.91860562168442,
       "project": "OCEAN PARK",
       "psf_signal": 3.39,
       "transaction_count": 298
     },
     {
-      "lat": 1.3110984707135191,
-      "lon": 103.8364056590835,
+      "lat": 1.3110984707135198,
+      "lon": 103.83640565908341,
       "project": "SUITES @ CAIRNHILL",
       "psf_signal": 5.27,
       "transaction_count": 297
@@ -3298,14 +3298,14 @@
       "transaction_count": 294
     },
     {
-      "lat": 1.313407492691635,
-      "lon": 103.79385667544354,
+      "lat": 1.3134074926916346,
+      "lon": 103.79385667544345,
       "project": "THE FORD @ HOLLAND",
       "psf_signal": 5.7,
       "transaction_count": 293
     },
     {
-      "lat": 1.3268588321020778,
+      "lat": 1.3268588321020793,
       "lon": 103.84181163942222,
       "project": "368 THOMSON",
       "psf_signal": 4.5,
@@ -3326,7 +3326,7 @@
       "transaction_count": 290
     },
     {
-      "lat": 1.3117540141415478,
+      "lat": 1.3117540141415487,
       "lon": 103.79806021538725,
       "project": "THE MERASAGA",
       "psf_signal": 5.08,
@@ -3347,22 +3347,22 @@
       "transaction_count": 285
     },
     {
-      "lat": 1.3148635299454037,
-      "lon": 103.83347116834928,
+      "lat": 1.3148635299454026,
+      "lon": 103.83347116834925,
       "project": "GOODWOOD GRAND",
       "psf_signal": 5.06,
       "transaction_count": 285
     },
     {
-      "lat": 1.3111165945117214,
+      "lat": 1.311116594511721,
       "lon": 103.83187632298443,
       "project": "DRAYCOTT EIGHT",
       "psf_signal": 6.04,
       "transaction_count": 283
     },
     {
-      "lat": 1.3093637946655658,
-      "lon": 103.90894611087141,
+      "lat": 1.3093637946655652,
+      "lon": 103.90894611087151,
       "project": "POSHGROVE EAST",
       "psf_signal": 4.15,
       "transaction_count": 282
@@ -3375,15 +3375,15 @@
       "transaction_count": 281
     },
     {
-      "lat": 1.3136737360751891,
-      "lon": 103.82620799362037,
+      "lat": 1.313673736075188,
+      "lon": 103.82620799362029,
       "project": "THE ORANGE GROVE",
       "psf_signal": 4.37,
       "transaction_count": 277
     },
     {
-      "lat": 1.3305054767365345,
-      "lon": 103.8670662003801,
+      "lat": 1.3305054767365347,
+      "lon": 103.86706620038011,
       "project": "LEICESTER SUITES",
       "psf_signal": 4.81,
       "transaction_count": 276
@@ -3396,8 +3396,8 @@
       "transaction_count": 276
     },
     {
-      "lat": 1.354476989058084,
-      "lon": 103.87814157663479,
+      "lat": 1.354476989058085,
+      "lon": 103.87814157663476,
       "project": "VIBES @ KOVAN",
       "psf_signal": 4.24,
       "transaction_count": 275
@@ -3417,22 +3417,22 @@
       "transaction_count": 274
     },
     {
-      "lat": 1.30669547711432,
-      "lon": 103.91097371494276,
+      "lat": 1.3066954771143207,
+      "lon": 103.91097371494274,
       "project": "D'ECOSIA",
       "psf_signal": 3.78,
       "transaction_count": 274
     },
     {
-      "lat": 1.2995115808714428,
-      "lon": 103.84786996851682,
+      "lat": 1.2995115808714424,
+      "lon": 103.84786996851679,
       "project": "THE CATHAY RESIDENCE",
       "psf_signal": 5.03,
       "transaction_count": 269
     },
     {
-      "lat": 1.4289402952911714,
-      "lon": 103.78206730608404,
+      "lat": 1.4289402952911712,
+      "lon": 103.78206730608423,
       "project": "WOODGROVE CONDOMINIUM",
       "psf_signal": 3.15,
       "transaction_count": 268
@@ -3459,29 +3459,29 @@
       "transaction_count": 267
     },
     {
-      "lat": 1.3138402797881972,
-      "lon": 103.90624429207742,
+      "lat": 1.3138402797881963,
+      "lon": 103.90624429207743,
       "project": "TIVOLI GRANDE",
       "psf_signal": 4.35,
       "transaction_count": 266
     },
     {
-      "lat": 1.3038244366432201,
-      "lon": 103.83141084767264,
+      "lat": 1.3038244366432208,
+      "lon": 103.8314108476726,
       "project": "THE ORCHARD RESIDENCES",
       "psf_signal": 7.8,
       "transaction_count": 265
     },
     {
-      "lat": 1.3055129590465484,
-      "lon": 103.90663388176094,
+      "lat": 1.305512959046548,
+      "lon": 103.90663388176091,
       "project": "MARINE MANSION",
       "psf_signal": 3.83,
       "transaction_count": 263
     },
     {
-      "lat": 1.3785923854177353,
-      "lon": 103.74662067618387,
+      "lat": 1.3785923854177355,
+      "lon": 103.74662067618384,
       "project": "PALM GARDENS",
       "psf_signal": 2.73,
       "transaction_count": 263
@@ -3522,8 +3522,8 @@
       "transaction_count": 255
     },
     {
-      "lat": 1.325560712857384,
-      "lon": 103.82535939239553,
+      "lat": 1.3255607128573828,
+      "lon": 103.82535939239554,
       "project": "TREVOSE PARK",
       "psf_signal": 3.72,
       "transaction_count": 253
@@ -3543,71 +3543,71 @@
       "transaction_count": 252
     },
     {
-      "lat": 1.3153411050248702,
-      "lon": 103.82633141994701,
+      "lat": 1.3153411050248713,
+      "lon": 103.82633141994702,
       "project": "THE SOLITAIRE",
       "psf_signal": 4.48,
       "transaction_count": 252
     },
     {
-      "lat": 1.3069278379051947,
-      "lon": 103.82141092908117,
+      "lat": 1.306927837905196,
+      "lon": 103.82141092908115,
       "project": "THE LOFT",
       "psf_signal": 6.45,
       "transaction_count": 251
     },
     {
-      "lat": 1.3063689163525525,
-      "lon": 103.84084819496279,
+      "lat": 1.3063689163525536,
+      "lon": 103.84084819496273,
       "project": "CAVENAGH LODGE",
       "psf_signal": 3.9,
       "transaction_count": 251
     },
     {
-      "lat": 1.3289593274614557,
-      "lon": 103.81190750928829,
+      "lat": 1.3289593274614562,
+      "lon": 103.81190750928826,
       "project": "SHELFORD 23",
       "psf_signal": 3.72,
       "transaction_count": 251
     },
     {
-      "lat": 1.3281200405291038,
-      "lon": 103.9120116350632,
+      "lat": 1.328120040529103,
+      "lon": 103.91201163506315,
       "project": "STARVILLE",
       "psf_signal": 3.44,
       "transaction_count": 251
     },
     {
-      "lat": 1.3135172107807909,
-      "lon": 103.9020839520732,
+      "lat": 1.31351721078079,
+      "lon": 103.90208395207316,
       "project": "LOTUS AT JOO CHIAT",
       "psf_signal": 4.32,
       "transaction_count": 250
     },
     {
-      "lat": 1.308230267003648,
-      "lon": 103.82377928310663,
+      "lat": 1.3082302670036483,
+      "lon": 103.82377928310657,
       "project": "NASSIM PARK RESIDENCES",
       "psf_signal": 7.54,
       "transaction_count": 248
     },
     {
-      "lat": 1.318060760595066,
-      "lon": 103.82612897764541,
+      "lat": 1.3180607605950663,
+      "lon": 103.82612897764545,
       "project": "LOFT @ STEVENS",
       "psf_signal": 5.65,
       "transaction_count": 248
     },
     {
-      "lat": 1.3128617186663283,
-      "lon": 103.8759517871822,
+      "lat": 1.3128617186663287,
+      "lon": 103.87595178718219,
       "project": "CENTRA RESIDENCE",
       "psf_signal": 4.94,
       "transaction_count": 248
     },
     {
-      "lat": 1.340770821030237,
-      "lon": 103.77367159095976,
+      "lat": 1.3407708210302363,
+      "lon": 103.77367159095968,
       "project": "SUITES AT BUKIT TIMAH",
       "psf_signal": 4.98,
       "transaction_count": 246
@@ -3628,14 +3628,14 @@
     },
     {
       "lat": 1.3122486510936084,
-      "lon": 103.7970026350661,
+      "lon": 103.79700263506612,
       "project": "LOFT@HOLLAND",
       "psf_signal": 8.98,
       "transaction_count": 244
     },
     {
-      "lat": 1.3114211934473645,
-      "lon": 103.90598156436475,
+      "lat": 1.311421193447365,
+      "lon": 103.90598156436482,
       "project": "AURA 83",
       "psf_signal": 3.73,
       "transaction_count": 244
@@ -3663,7 +3663,7 @@
     },
     {
       "lat": 1.315548533101121,
-      "lon": 103.90043377235472,
+      "lon": 103.9004337723547,
       "project": "JUPITER 18",
       "psf_signal": 4.51,
       "transaction_count": 241
@@ -3683,43 +3683,43 @@
       "transaction_count": 241
     },
     {
-      "lat": 1.304107773402624,
-      "lon": 103.82318832961569,
+      "lat": 1.3041077734026243,
+      "lon": 103.82318832961568,
       "project": "GRANGE RESIDENCES",
       "psf_signal": 6.31,
       "transaction_count": 240
     },
     {
       "lat": 1.3392163659694982,
-      "lon": 103.77105734326628,
+      "lon": 103.77105734326634,
       "project": "DAINTREE RESIDENCE",
       "psf_signal": 4.81,
       "transaction_count": 240
     },
     {
-      "lat": 1.313350038728973,
-      "lon": 103.87941971921175,
+      "lat": 1.3133500387289727,
+      "lon": 103.87941971921174,
       "project": "PAVILION SQUARE",
       "psf_signal": 5.47,
       "transaction_count": 238
     },
     {
-      "lat": 1.297942374904202,
-      "lon": 103.83821262955749,
+      "lat": 1.2979423749042007,
+      "lon": 103.83821262955756,
       "project": "KILLINEY 118",
       "psf_signal": 5.21,
       "transaction_count": 238
     },
     {
-      "lat": 1.3213439184936244,
-      "lon": 103.811437305105,
+      "lat": 1.3213439184936253,
+      "lon": 103.81143730510503,
       "project": "THE SIENA",
       "psf_signal": 5.84,
       "transaction_count": 235
     },
     {
-      "lat": 1.3455952191227027,
-      "lon": 103.88270511782783,
+      "lat": 1.345595219122703,
+      "lon": 103.8827051178278,
       "project": "KENSINGTON SQUARE",
       "psf_signal": 4.52,
       "transaction_count": 234
@@ -3767,8 +3767,8 @@
       "transaction_count": 228
     },
     {
-      "lat": 1.3983509153547755,
-      "lon": 103.75112110574857,
+      "lat": 1.3983509153547753,
+      "lon": 103.7511211057486,
       "project": "THE QUINTET",
       "psf_signal": 2.84,
       "transaction_count": 228
@@ -3788,8 +3788,8 @@
       "transaction_count": 225
     },
     {
-      "lat": 1.3143690536439692,
-      "lon": 103.90806689849036,
+      "lat": 1.3143690536439703,
+      "lon": 103.90806689849035,
       "project": "PARC BLEU",
       "psf_signal": 4.0,
       "transaction_count": 224
@@ -3816,14 +3816,14 @@
       "transaction_count": 222
     },
     {
-      "lat": 1.281145547420785,
-      "lon": 103.78552594531192,
+      "lat": 1.281145547420786,
+      "lon": 103.78552594531189,
       "project": "THE MAYLEA",
       "psf_signal": 4.01,
       "transaction_count": 221
     },
     {
-      "lat": 1.314053281611772,
+      "lat": 1.3140532816117723,
       "lon": 103.80617124233694,
       "project": "Sommerville Grandeur",
       "psf_signal": 3.4,
@@ -3859,7 +3859,7 @@
     },
     {
       "lat": 1.3832087744505321,
-      "lon": 103.83855154569756,
+      "lon": 103.83855154569757,
       "project": "Far Horizon Gardens",
       "psf_signal": 2.45,
       "transaction_count": 215
@@ -3873,7 +3873,7 @@
     },
     {
       "lat": 1.3144362029055612,
-      "lon": 103.84651371696772,
+      "lon": 103.8465137169677,
       "project": "MERA SPRINGS",
       "psf_signal": 3.94,
       "transaction_count": 213
@@ -3887,13 +3887,13 @@
     },
     {
       "lat": 1.3064048804981783,
-      "lon": 103.84774311746048,
+      "lon": 103.84774311746044,
       "project": "MACKENZIE 88",
       "psf_signal": 5.08,
       "transaction_count": 212
     },
     {
-      "lat": 1.325442924795999,
+      "lat": 1.3254429247959996,
       "lon": 103.8833444740362,
       "project": "THE ANTARES",
       "psf_signal": 6.08,
@@ -3928,21 +3928,21 @@
       "transaction_count": 209
     },
     {
-      "lat": 1.3162906114478945,
-      "lon": 103.90904080614015,
+      "lat": 1.3162906114478943,
+      "lon": 103.90904080614017,
       "project": "PALM OASIS",
       "psf_signal": 3.86,
       "transaction_count": 209
     },
     {
       "lat": 1.3613440742186886,
-      "lon": 103.87845321763295,
+      "lon": 103.87845321763294,
       "project": "ISUITES @ PALM",
       "psf_signal": 4.16,
       "transaction_count": 207
     },
     {
-      "lat": 1.3441334149191246,
+      "lat": 1.3441334149191244,
       "lon": 103.87285979624248,
       "project": "THE QUINN",
       "psf_signal": 4.15,
@@ -3964,21 +3964,21 @@
     },
     {
       "lat": 1.3915478474706091,
-      "lon": 103.85078940492187,
+      "lon": 103.8507894049217,
       "project": "FLORAVIEW",
       "psf_signal": 4.08,
       "transaction_count": 205
     },
     {
-      "lat": 1.2908664543910713,
-      "lon": 103.77418484709555,
+      "lat": 1.2908664543910715,
+      "lon": 103.77418484709567,
       "project": "THE FOLIAGE",
       "psf_signal": 3.89,
       "transaction_count": 205
     },
     {
-      "lat": 1.4357416567585815,
-      "lon": 103.82417584367494,
+      "lat": 1.4357416567585817,
+      "lon": 103.82417584367491,
       "project": "SELETARIS",
       "psf_signal": 2.51,
       "transaction_count": 205
@@ -3991,7 +3991,7 @@
       "transaction_count": 204
     },
     {
-      "lat": 1.3130734352298663,
+      "lat": 1.3130734352298659,
       "lon": 103.79693101240382,
       "project": "LEEDON 2",
       "psf_signal": 4.08,
@@ -4006,7 +4006,7 @@
     },
     {
       "lat": 1.3761800340853496,
-      "lon": 103.95940238094997,
+      "lon": 103.95940238094994,
       "project": "WATERCOLOURS",
       "psf_signal": 3.64,
       "transaction_count": 203
@@ -4033,8 +4033,8 @@
       "transaction_count": 202
     },
     {
-      "lat": 1.3457189158409744,
-      "lon": 103.87166885089168,
+      "lat": 1.3457189158409755,
+      "lon": 103.87166885089175,
       "project": "PRESTO@UPPER SERANGOON",
       "psf_signal": 4.35,
       "transaction_count": 201
@@ -4062,7 +4062,7 @@
     },
     {
       "lat": 1.318751697167924,
-      "lon": 103.90624740839591,
+      "lon": 103.90624740839594,
       "project": "LE REVE",
       "psf_signal": 3.28,
       "transaction_count": 197
@@ -4111,7 +4111,7 @@
     },
     {
       "lat": 1.3243341566857143,
-      "lon": 103.81127080152602,
+      "lon": 103.81127080152596,
       "project": "DUNEARN SUITES",
       "psf_signal": 4.97,
       "transaction_count": 192
@@ -4124,8 +4124,8 @@
       "transaction_count": 192
     },
     {
-      "lat": 1.324273898411462,
-      "lon": 103.80165274988471,
+      "lat": 1.3242738984114621,
+      "lon": 103.80165274988467,
       "project": "DUCHESS RESIDENCES",
       "psf_signal": 3.89,
       "transaction_count": 191
@@ -4138,15 +4138,15 @@
       "transaction_count": 191
     },
     {
-      "lat": 1.30135834381717,
-      "lon": 103.82464218609097,
+      "lat": 1.3013583438171712,
+      "lon": 103.82464218609084,
       "project": "ONE TREE HILL RESIDENCE",
       "psf_signal": 4.52,
       "transaction_count": 190
     },
     {
-      "lat": 1.300469149546536,
-      "lon": 103.88849503668531,
+      "lat": 1.3004691495465368,
+      "lon": 103.88849503668536,
       "project": "LIV @ MB",
       "psf_signal": 5.71,
       "transaction_count": 187
@@ -4167,7 +4167,7 @@
     },
     {
       "lat": 1.3067129448880106,
-      "lon": 103.8467841186456,
+      "lon": 103.84678411864567,
       "project": "THE MKZ",
       "psf_signal": 5.78,
       "transaction_count": 185
@@ -4181,13 +4181,13 @@
     },
     {
       "lat": 1.2800626269779298,
-      "lon": 103.84037165838063,
+      "lon": 103.84037165838065,
       "project": "Dorsett Residences",
       "psf_signal": 6.38,
       "transaction_count": 183
     },
     {
-      "lat": 1.3139309102336705,
+      "lat": 1.3139309102336707,
       "lon": 103.91520553210587,
       "project": "GOLD PALM MANSIONS",
       "psf_signal": 3.68,
@@ -4201,8 +4201,8 @@
       "transaction_count": 182
     },
     {
-      "lat": 1.3166027937166715,
-      "lon": 103.90432237867275,
+      "lat": 1.3166027937166713,
+      "lon": 103.90432237867272,
       "project": "SUITES@CHANGI",
       "psf_signal": 4.74,
       "transaction_count": 181
@@ -4215,14 +4215,14 @@
       "transaction_count": 180
     },
     {
-      "lat": 1.3202744317345567,
+      "lat": 1.3202744317345558,
       "lon": 103.90657136226388,
       "project": "CASA SARINA",
       "psf_signal": 3.72,
       "transaction_count": 180
     },
     {
-      "lat": 1.3134363823080335,
+      "lat": 1.3134363823080333,
       "lon": 103.93626303112515,
       "project": "LANDBAY CONDOMINIUM",
       "psf_signal": 3.31,
@@ -4244,7 +4244,7 @@
     },
     {
       "lat": 1.3633017310774624,
-      "lon": 103.88354563734653,
+      "lon": 103.88354563734651,
       "project": "BLISS@KOVAN",
       "psf_signal": 4.05,
       "transaction_count": 176
@@ -4286,7 +4286,7 @@
     },
     {
       "lat": 1.3612218862375294,
-      "lon": 103.96882743742601,
+      "lon": 103.96882743742599,
       "project": "PARC KOMO",
       "psf_signal": 4.05,
       "transaction_count": 172
@@ -4299,29 +4299,29 @@
       "transaction_count": 172
     },
     {
-      "lat": 1.3568576127287635,
-      "lon": 103.82849027171764,
+      "lat": 1.3568576127287628,
+      "lon": 103.82849027171773,
       "project": "THREE 11",
       "psf_signal": 3.59,
       "transaction_count": 171
     },
     {
-      "lat": 1.2792640373735207,
-      "lon": 103.79143559200092,
+      "lat": 1.2792640373735211,
+      "lon": 103.7914355920009,
       "project": "ISLAND VIEW",
       "psf_signal": 2.86,
       "transaction_count": 171
     },
     {
-      "lat": 1.3456199191165257,
-      "lon": 103.96390788749889,
+      "lat": 1.3456199191165252,
+      "lon": 103.96390788749888,
       "project": "CASCADALE",
       "psf_signal": 2.55,
       "transaction_count": 171
     },
     {
       "lat": 1.334067861551892,
-      "lon": 103.80516747833923,
+      "lon": 103.80516747833924,
       "project": "Greenwood Mews",
       "psf_signal": 3.69,
       "transaction_count": 170
@@ -4334,8 +4334,8 @@
       "transaction_count": 169
     },
     {
-      "lat": 1.2722027018022835,
-      "lon": 103.82740968518713,
+      "lat": 1.272202701802284,
+      "lon": 103.82740968518716,
       "project": "HARBOUR SUITES",
       "psf_signal": 5.39,
       "transaction_count": 168
@@ -4356,7 +4356,7 @@
     },
     {
       "lat": 1.3159667221263367,
-      "lon": 103.94562285691367,
+      "lon": 103.94562285691372,
       "project": "THE DAFFODIL",
       "psf_signal": 3.73,
       "transaction_count": 166
@@ -4376,21 +4376,21 @@
       "transaction_count": 164
     },
     {
-      "lat": 1.311637389204525,
+      "lat": 1.3116373892045252,
       "lon": 103.93098033983654,
       "project": "ELLIOT AT THE EAST COAST",
       "psf_signal": 3.44,
       "transaction_count": 164
     },
     {
-      "lat": 1.2767962290249577,
-      "lon": 103.79321513585396,
+      "lat": 1.2767962290249573,
+      "lon": 103.79321513585401,
       "project": "WESTPOINT CONDOMINIUM",
       "psf_signal": 3.14,
       "transaction_count": 163
     },
     {
-      "lat": 1.346414271335902,
+      "lat": 1.3464142713359017,
       "lon": 103.77087457514848,
       "project": "BUKIT REGENCY",
       "psf_signal": 2.94,
@@ -4404,22 +4404,22 @@
       "transaction_count": 162
     },
     {
-      "lat": 1.3209733370359171,
+      "lat": 1.3209733370359176,
       "lon": 103.90898493384357,
       "project": "THE EBONY",
       "psf_signal": 4.74,
       "transaction_count": 160
     },
     {
-      "lat": 1.3151467272984974,
-      "lon": 103.92652530097925,
+      "lat": 1.3151467272984971,
+      "lon": 103.92652530097924,
       "project": "THE HACIENDA",
       "psf_signal": 2.81,
       "transaction_count": 160
     },
     {
-      "lat": 1.3447637814334223,
-      "lon": 103.87133869170013,
+      "lat": 1.3447637814334221,
+      "lon": 103.87133869170016,
       "project": "VIBES@UPPER SERANGOON",
       "psf_signal": 4.97,
       "transaction_count": 159
@@ -4432,15 +4432,15 @@
       "transaction_count": 159
     },
     {
-      "lat": 1.3134854262098536,
-      "lon": 103.8243663176084,
+      "lat": 1.313485426209854,
+      "lon": 103.82436631760841,
       "project": "ORANGE GROVE RESIDENCES",
       "psf_signal": 4.05,
       "transaction_count": 159
     },
     {
-      "lat": 1.3223530685521074,
-      "lon": 103.78473402490171,
+      "lat": 1.3223530685521072,
+      "lon": 103.78473402490168,
       "project": "BAN GUAN PARK",
       "psf_signal": 3.33,
       "transaction_count": 158
@@ -4453,49 +4453,49 @@
       "transaction_count": 157
     },
     {
-      "lat": 1.356611292675974,
-      "lon": 103.88085102494486,
+      "lat": 1.3566112926759741,
+      "lon": 103.88085102494487,
       "project": "D'PAVILION",
       "psf_signal": 3.19,
       "transaction_count": 157
     },
     {
       "lat": 1.3665664306664838,
-      "lon": 103.8793114544559,
+      "lon": 103.879311454456,
       "project": "FONTAINE PARRY",
       "psf_signal": 3.07,
       "transaction_count": 157
     },
     {
-      "lat": 1.3370262700327125,
-      "lon": 103.72550081224624,
+      "lat": 1.337026270032713,
+      "lon": 103.72550081224625,
       "project": "LAKESIDE TOWER",
       "psf_signal": 1.85,
       "transaction_count": 157
     },
     {
-      "lat": 1.3517885786298214,
-      "lon": 103.8356805240694,
+      "lat": 1.351788578629821,
+      "lon": 103.83568052406936,
       "project": "SIN MING PLAZA",
       "psf_signal": 3.68,
       "transaction_count": 156
     },
     {
-      "lat": 1.3579935673533807,
-      "lon": 103.88168110064117,
+      "lat": 1.3579935673533812,
+      "lon": 103.88168110064115,
       "project": "PARK RESIDENCES KOVAN",
       "psf_signal": 5.48,
       "transaction_count": 155
     },
     {
       "lat": 1.304511843792165,
-      "lon": 103.83401130479375,
+      "lon": 103.83401130479373,
       "project": "LUCKY PLAZA",
       "psf_signal": 4.38,
       "transaction_count": 155
     },
     {
-      "lat": 1.324571486579732,
+      "lat": 1.3245714865797333,
       "lon": 103.84619659271407,
       "project": "PINNACLE 16",
       "psf_signal": 4.54,
@@ -4503,7 +4503,7 @@
     },
     {
       "lat": 1.3297776630653395,
-      "lon": 103.79561915300451,
+      "lon": 103.7956191530045,
       "project": "FIFTH AVENUE CONDOMINIUM",
       "psf_signal": 3.86,
       "transaction_count": 154
@@ -4523,8 +4523,8 @@
       "transaction_count": 153
     },
     {
-      "lat": 1.341512735710343,
-      "lon": 103.77635137066756,
+      "lat": 1.3415127357103416,
+      "lon": 103.77635137066761,
       "project": "THE LINQ @ BEAUTY WORLD",
       "psf_signal": 4.62,
       "transaction_count": 152
@@ -4537,8 +4537,8 @@
       "transaction_count": 152
     },
     {
-      "lat": 1.3169616373777755,
-      "lon": 103.91317120028675,
+      "lat": 1.3169616373777757,
+      "lon": 103.91317120028674,
       "project": "ESPIRA SUITES",
       "psf_signal": 4.31,
       "transaction_count": 151
@@ -4572,8 +4572,8 @@
       "transaction_count": 149
     },
     {
-      "lat": 1.3262024442361298,
-      "lon": 103.90875006122431,
+      "lat": 1.326202444236129,
+      "lon": 103.90875006122435,
       "project": "THE HELICONIA",
       "psf_signal": 3.61,
       "transaction_count": 149
@@ -4587,7 +4587,7 @@
     },
     {
       "lat": 1.30304491445434,
-      "lon": 103.8991020597693,
+      "lon": 103.89910205976929,
       "project": "OLA RESIDENCES",
       "psf_signal": 4.2,
       "transaction_count": 148
@@ -4600,29 +4600,29 @@
       "transaction_count": 148
     },
     {
-      "lat": 1.349004130100103,
+      "lat": 1.3490041301001037,
       "lon": 103.8347192484861,
       "project": "LAKEVIEW ESTATE",
       "psf_signal": 2.69,
       "transaction_count": 148
     },
     {
-      "lat": 1.403880882927773,
-      "lon": 103.81837937109424,
+      "lat": 1.4038808829277734,
+      "lon": 103.81837937109422,
       "project": "THE BROOKS II",
       "psf_signal": 3.63,
       "transaction_count": 147
     },
     {
-      "lat": 1.3801693825212904,
+      "lat": 1.3801693825212908,
       "lon": 103.9638654243483,
       "project": "BLUWATERS 2",
       "psf_signal": 3.02,
       "transaction_count": 147
     },
     {
-      "lat": 1.3117414274345742,
-      "lon": 103.90900420499597,
+      "lat": 1.311741427434575,
+      "lon": 103.909004204996,
       "project": "THE AMERY",
       "psf_signal": 3.52,
       "transaction_count": 146
@@ -4649,22 +4649,22 @@
       "transaction_count": 145
     },
     {
-      "lat": 1.300378526401632,
-      "lon": 103.82635385674082,
+      "lat": 1.300378526401633,
+      "lon": 103.82635385674092,
       "project": "KIM LIN PARK",
       "psf_signal": 3.21,
       "transaction_count": 144
     },
     {
-      "lat": 1.4166070948378955,
-      "lon": 103.8438874168132,
+      "lat": 1.416607094837896,
+      "lon": 103.84388741681325,
       "project": "The Criterion",
       "psf_signal": 4.05,
       "transaction_count": 143
     },
     {
-      "lat": 1.3170641999844832,
-      "lon": 103.91076919130637,
+      "lat": 1.3170641999844823,
+      "lon": 103.9107691913064,
       "project": "THE MEDLEY",
       "psf_signal": 3.78,
       "transaction_count": 143
@@ -4678,56 +4678,56 @@
     },
     {
       "lat": 1.3213665199302196,
-      "lon": 103.95478001835156,
+      "lon": 103.95478001835158,
       "project": "COUNTRY PARK CONDOMINIUM",
       "psf_signal": 3.15,
       "transaction_count": 142
     },
     {
       "lat": 1.3090310197639332,
-      "lon": 103.90579645581438,
+      "lon": 103.90579645581444,
       "project": "KATONG GARDENS",
       "psf_signal": 3.73,
       "transaction_count": 141
     },
     {
-      "lat": 1.3240898958069336,
+      "lat": 1.3240898958069334,
       "lon": 103.80690122138759,
       "project": "DUCHESS MANOR",
       "psf_signal": 4.34,
       "transaction_count": 140
     },
     {
-      "lat": 1.3390905911759636,
-      "lon": 103.76679872521059,
+      "lat": 1.339090591175964,
+      "lon": 103.7667987252106,
       "project": "THE BEVERLY",
       "psf_signal": 2.66,
       "transaction_count": 140
     },
     {
       "lat": 1.3181793444628442,
-      "lon": 103.83924526256406,
+      "lon": 103.83924526256405,
       "project": "GILSTEAD COURT",
       "psf_signal": 3.15,
       "transaction_count": 138
     },
     {
       "lat": 1.3265964996131392,
-      "lon": 103.79047910842398,
+      "lon": 103.790479108424,
       "project": "THE TENERIFFE",
       "psf_signal": 3.27,
       "transaction_count": 137
     },
     {
-      "lat": 1.31346426806012,
-      "lon": 103.92661040187602,
+      "lat": 1.3134642680601203,
+      "lon": 103.92661040187599,
       "project": "CRESCENDO PARK",
       "psf_signal": 3.82,
       "transaction_count": 136
     },
     {
       "lat": 1.3444110951433679,
-      "lon": 103.8754278113106,
+      "lon": 103.87542781131059,
       "project": "GAMBIR RIDGE",
       "psf_signal": 4.14,
       "transaction_count": 134
@@ -4747,8 +4747,8 @@
       "transaction_count": 134
     },
     {
-      "lat": 1.3080810239415686,
-      "lon": 103.89947970882817,
+      "lat": 1.3080810239415692,
+      "lon": 103.8994797088282,
       "project": "EIS RESIDENCES",
       "psf_signal": 3.84,
       "transaction_count": 133
@@ -4768,8 +4768,8 @@
       "transaction_count": 132
     },
     {
-      "lat": 1.2966075639130863,
-      "lon": 103.89110937135057,
+      "lat": 1.296607563913087,
+      "lon": 103.89110937135051,
       "project": "MEYER MANSION",
       "psf_signal": 7.04,
       "transaction_count": 130
@@ -4803,14 +4803,14 @@
       "transaction_count": 130
     },
     {
-      "lat": 1.3710543675205207,
+      "lat": 1.371054367520521,
       "lon": 103.76743507897471,
       "project": "CASHEW PARK CONDOMINIUM",
       "psf_signal": 2.66,
       "transaction_count": 130
     },
     {
-      "lat": 1.3116384173670703,
+      "lat": 1.3116384173670708,
       "lon": 103.81927984492981,
       "project": "NASSIM REGENCY",
       "psf_signal": 5.21,
@@ -4839,14 +4839,14 @@
     },
     {
       "lat": 1.309807610865819,
-      "lon": 103.89439067527964,
+      "lon": 103.89439067527962,
       "project": "FORTUNE JADE",
       "psf_signal": 3.5,
       "transaction_count": 126
     },
     {
-      "lat": 1.3781708212654231,
-      "lon": 103.9567836757856,
+      "lat": 1.378170821265423,
+      "lon": 103.95678367578566,
       "project": "CASA AL MARE",
       "psf_signal": 3.32,
       "transaction_count": 126
@@ -4915,7 +4915,7 @@
       "transaction_count": 123
     },
     {
-      "lat": 1.3068435377128569,
+      "lat": 1.3068435377128567,
       "lon": 103.90115764384905,
       "project": "ISUITES @ MARSHALL",
       "psf_signal": 4.99,
@@ -4957,15 +4957,15 @@
       "transaction_count": 121
     },
     {
-      "lat": 1.313639839985183,
+      "lat": 1.3136398399851827,
       "lon": 103.89625554368129,
       "project": "GALAXY TOWERS",
       "psf_signal": 3.5,
       "transaction_count": 120
     },
     {
-      "lat": 1.3242300924143533,
-      "lon": 103.83889282679793,
+      "lat": 1.3242300924143535,
+      "lon": 103.83889282679795,
       "project": "THE COMPASS AT CHANCERY",
       "psf_signal": 3.48,
       "transaction_count": 119
@@ -4993,27 +4993,27 @@
     },
     {
       "lat": 1.3158042435073651,
-      "lon": 103.80802302915147,
+      "lon": 103.8080230291515,
       "project": "WOOLLERTON PARK",
       "psf_signal": 4.31,
       "transaction_count": 117
     },
     {
       "lat": 1.456724908053322,
-      "lon": 103.83684800360624,
+      "lon": 103.83684800360625,
       "project": "KANDIS RESIDENCE",
       "psf_signal": 3.82,
       "transaction_count": 116
     },
     {
-      "lat": 1.381442438263155,
-      "lon": 103.8639600256952,
+      "lat": 1.3814424382631558,
+      "lon": 103.86396002569512,
       "project": "ESTE VILLA",
       "psf_signal": 2.06,
       "transaction_count": 115
     },
     {
-      "lat": 1.3129654328486446,
+      "lat": 1.3129654328486449,
       "lon": 103.92909048949436,
       "project": "EASTBAY",
       "psf_signal": 3.44,
@@ -5021,14 +5021,14 @@
     },
     {
       "lat": 1.3153162421267353,
-      "lon": 103.93404500353151,
+      "lon": 103.93404500353148,
       "project": "CASAFINA",
       "psf_signal": 3.07,
       "transaction_count": 114
     },
     {
-      "lat": 1.3369315757957678,
-      "lon": 103.78884636158942,
+      "lat": 1.3369315757957683,
+      "lon": 103.78884636158945,
       "project": "BINJAI PARK",
       "psf_signal": 3.63,
       "transaction_count": 113
@@ -5062,8 +5062,8 @@
       "transaction_count": 111
     },
     {
-      "lat": 1.2915045715601177,
-      "lon": 103.76902628637141,
+      "lat": 1.2915045715601172,
+      "lon": 103.76902628637144,
       "project": "THE SPECTRUM",
       "psf_signal": 3.42,
       "transaction_count": 110
@@ -5084,14 +5084,14 @@
     },
     {
       "lat": 1.361077073151955,
-      "lon": 103.82904097434913,
+      "lon": 103.82904097434911,
       "project": "FLAME TREE PARK",
       "psf_signal": 2.42,
       "transaction_count": 107
     },
     {
       "lat": 1.3098077396225858,
-      "lon": 103.85229457896588,
+      "lon": 103.85229457896591,
       "project": "RACE COURSE 138",
       "psf_signal": 4.39,
       "transaction_count": 106
@@ -5111,8 +5111,8 @@
       "transaction_count": 105
     },
     {
-      "lat": 1.370824478409127,
-      "lon": 103.76962447623043,
+      "lat": 1.3708244784091272,
+      "lon": 103.76962447623049,
       "project": "GREEN HILL ESTATE",
       "psf_signal": 2.71,
       "transaction_count": 105
@@ -5133,7 +5133,7 @@
     },
     {
       "lat": 1.3092324668977902,
-      "lon": 103.80335656890949,
+      "lon": 103.80335656890948,
       "project": "HOLLAND HILL LODGE",
       "psf_signal": 3.63,
       "transaction_count": 101
@@ -5202,22 +5202,22 @@
       "transaction_count": 96
     },
     {
-      "lat": 1.3667474463402953,
-      "lon": 103.87620494217346,
+      "lat": 1.3667474463402949,
+      "lon": 103.87620494217349,
       "project": "THE WATERLINE",
       "psf_signal": 3.47,
       "transaction_count": 96
     },
     {
-      "lat": 1.3212601142436047,
-      "lon": 103.83579564124516,
+      "lat": 1.3212601142436042,
+      "lon": 103.83579564124518,
       "project": "ASIMONT VILLAS",
       "psf_signal": 3.21,
       "transaction_count": 96
     },
     {
       "lat": 1.3563876969153512,
-      "lon": 103.86152527314756,
+      "lon": 103.86152527314754,
       "project": "TAI HWAN GARDEN",
       "psf_signal": 2.93,
       "transaction_count": 96
@@ -5244,8 +5244,8 @@
       "transaction_count": 94
     },
     {
-      "lat": 1.3219048364371788,
-      "lon": 103.8135808301201,
+      "lat": 1.321904836437179,
+      "lon": 103.81358083012013,
       "project": "CLUNY PARK RESIDENCE",
       "psf_signal": 5.8,
       "transaction_count": 93
@@ -5258,7 +5258,7 @@
       "transaction_count": 93
     },
     {
-      "lat": 1.3183464160372964,
+      "lat": 1.3183464160372962,
       "lon": 103.83662952548075,
       "project": "CHANCERY ESQUIRE",
       "psf_signal": 3.26,
@@ -5293,8 +5293,8 @@
       "transaction_count": 92
     },
     {
-      "lat": 1.3138834108891844,
-      "lon": 103.8122177964258,
+      "lat": 1.3138834108891841,
+      "lon": 103.81221779642578,
       "project": "GALLOP COURT",
       "psf_signal": 4.66,
       "transaction_count": 91
@@ -5307,15 +5307,15 @@
       "transaction_count": 91
     },
     {
-      "lat": 1.3259678016954162,
+      "lat": 1.3259678016954166,
       "lon": 103.83845358682638,
       "project": "THE WHITLEY RESIDENCES",
       "psf_signal": 2.9,
       "transaction_count": 90
     },
     {
-      "lat": 1.3092485047177058,
-      "lon": 103.80784800732525,
+      "lat": 1.3092485047177054,
+      "lon": 103.8078480073253,
       "project": "THE HOLLAND COLLECTION",
       "psf_signal": 4.04,
       "transaction_count": 89
@@ -5328,14 +5328,14 @@
       "transaction_count": 89
     },
     {
-      "lat": 1.3354772355064108,
-      "lon": 103.77023835652341,
+      "lat": 1.3354772355064113,
+      "lon": 103.7702383565234,
       "project": "ENG KONG PARK",
       "psf_signal": 2.78,
       "transaction_count": 88
     },
     {
-      "lat": 1.3116565110179033,
+      "lat": 1.311656511017903,
       "lon": 103.89058910838085,
       "project": "VERSAILLES",
       "psf_signal": 3.1,
@@ -5363,8 +5363,8 @@
       "transaction_count": 86
     },
     {
-      "lat": 1.3118690240641313,
-      "lon": 103.90384914708888,
+      "lat": 1.3118690240641309,
+      "lon": 103.90384914708892,
       "project": "D' FRESCO",
       "psf_signal": 3.31,
       "transaction_count": 85
@@ -5384,22 +5384,22 @@
       "transaction_count": 84
     },
     {
-      "lat": 1.3781468079646966,
-      "lon": 103.95878398273632,
+      "lat": 1.378146807964697,
+      "lon": 103.95878398273628,
       "project": "WATERCREST",
       "psf_signal": 2.6,
       "transaction_count": 84
     },
     {
-      "lat": 1.3185709865150246,
-      "lon": 103.91328174389977,
+      "lat": 1.3185709865150244,
+      "lon": 103.91328174389976,
       "project": "KINGSTON TERRACE",
       "psf_signal": 3.19,
       "transaction_count": 83
     },
     {
       "lat": 1.4414364288407349,
-      "lon": 103.82326927812221,
+      "lon": 103.82326927812223,
       "project": "SPRINGHILL",
       "psf_signal": 4.03,
       "transaction_count": 82
@@ -5426,8 +5426,8 @@
       "transaction_count": 80
     },
     {
-      "lat": 1.2963879522755803,
-      "lon": 103.85712348574054,
+      "lat": 1.2963879522755806,
+      "lon": 103.85712348574056,
       "project": "MIDTOWN BAY",
       "psf_signal": 8.69,
       "transaction_count": 79
@@ -5447,8 +5447,8 @@
       "transaction_count": 78
     },
     {
-      "lat": 1.3105597264351438,
-      "lon": 103.89804346285847,
+      "lat": 1.3105597264351434,
+      "lon": 103.89804346285851,
       "project": "THE SERENNO",
       "psf_signal": 4.06,
       "transaction_count": 78
@@ -5462,13 +5462,13 @@
     },
     {
       "lat": 1.3211742466458916,
-      "lon": 103.95603786070726,
+      "lon": 103.95603786070727,
       "project": "FAIRMOUNT CONDOMINIUM",
       "psf_signal": 3.05,
       "transaction_count": 78
     },
     {
-      "lat": 1.3594553565511491,
+      "lat": 1.3594553565511494,
       "lon": 103.87888690216121,
       "project": "PALM GROVE CONDOMINIUM",
       "psf_signal": 2.9,
@@ -5483,7 +5483,7 @@
     },
     {
       "lat": 1.2990939432508004,
-      "lon": 103.82475537313671,
+      "lon": 103.8247553731367,
       "project": "ONE CHATSWORTH",
       "psf_signal": 4.65,
       "transaction_count": 77
@@ -5503,7 +5503,7 @@
       "transaction_count": 75
     },
     {
-      "lat": 1.3360566936976936,
+      "lat": 1.3360566936976934,
       "lon": 103.76915330525534,
       "project": "ENG KONG GREEN",
       "psf_signal": 3.42,
@@ -5511,14 +5511,14 @@
     },
     {
       "lat": 1.4269953755848646,
-      "lon": 103.82419846198951,
+      "lon": 103.82419846198948,
       "project": "NORTHWOOD",
       "psf_signal": 2.58,
       "transaction_count": 75
     },
     {
-      "lat": 1.312865802064128,
-      "lon": 103.7987008192362,
+      "lat": 1.3128658020641275,
+      "lon": 103.79870081923619,
       "project": "YGK GARDEN",
       "psf_signal": 4.08,
       "transaction_count": 74
@@ -5532,14 +5532,14 @@
     },
     {
       "lat": 1.3468680959075678,
-      "lon": 103.77606982046086,
+      "lon": 103.77606982046085,
       "project": "LE WOOD",
       "psf_signal": 3.22,
       "transaction_count": 74
     },
     {
-      "lat": 1.3097018508902643,
-      "lon": 103.84298279789166,
+      "lat": 1.3097018508902645,
+      "lon": 103.84298279789171,
       "project": "CAVENAGH COURT",
       "psf_signal": 3.12,
       "transaction_count": 74
@@ -5560,35 +5560,35 @@
     },
     {
       "lat": 1.3096663415052894,
-      "lon": 103.876900951243,
+      "lon": 103.87690095124302,
       "project": "TORIEVILLE",
       "psf_signal": 3.45,
       "transaction_count": 72
     },
     {
       "lat": 1.360278867216302,
-      "lon": 103.83121130475914,
+      "lon": 103.83121130475912,
       "project": "COUNTRY ESQUIRE",
       "psf_signal": 2.89,
       "transaction_count": 72
     },
     {
-      "lat": 1.3083982769765135,
-      "lon": 103.90097822936761,
+      "lat": 1.3083982769765137,
+      "lon": 103.90097822936754,
       "project": "CEYLON POINT",
       "psf_signal": 4.46,
       "transaction_count": 71
     },
     {
-      "lat": 1.3636828223604185,
-      "lon": 103.8745804514558,
+      "lat": 1.363682822360418,
+      "lon": 103.87458045145578,
       "project": "NANYANG PARK",
       "psf_signal": 3.15,
       "transaction_count": 71
     },
     {
-      "lat": 1.3110156588023723,
-      "lon": 103.9211582963326,
+      "lat": 1.311015658802372,
+      "lon": 103.92115829633262,
       "project": "UNITED MANSION",
       "psf_signal": 2.91,
       "transaction_count": 71
@@ -5601,8 +5601,8 @@
       "transaction_count": 71
     },
     {
-      "lat": 1.3234561973544368,
-      "lon": 103.79211025047225,
+      "lat": 1.3234561973544365,
+      "lon": 103.79211025047223,
       "project": "DYNASTY GARDEN",
       "psf_signal": 2.82,
       "transaction_count": 71
@@ -5616,7 +5616,7 @@
     },
     {
       "lat": 1.3619387302436696,
-      "lon": 103.88104280035238,
+      "lon": 103.8810428003524,
       "project": "21 Richards",
       "psf_signal": 4.44,
       "transaction_count": 70
@@ -5636,14 +5636,14 @@
       "transaction_count": 70
     },
     {
-      "lat": 1.3209697356579952,
-      "lon": 103.83370634969044,
+      "lat": 1.320969735657995,
+      "lon": 103.83370634969046,
       "project": "GOLDHILL TOWERS",
       "psf_signal": 3.36,
       "transaction_count": 70
     },
     {
-      "lat": 1.324028146900245,
+      "lat": 1.3240281469002453,
       "lon": 103.7662203776941,
       "project": "FREESIA WOODS",
       "psf_signal": 3.09,
@@ -5658,7 +5658,7 @@
     },
     {
       "lat": 1.383574355501123,
-      "lon": 103.86212180729116,
+      "lon": 103.86212180729117,
       "project": "MIMOSA PARK",
       "psf_signal": 2.16,
       "transaction_count": 70
@@ -5672,7 +5672,7 @@
     },
     {
       "lat": 1.3155295344832885,
-      "lon": 103.8351346213691,
+      "lon": 103.83513462136908,
       "project": "BALMORAL RESIDENCES",
       "psf_signal": 3.83,
       "transaction_count": 69
@@ -5685,8 +5685,8 @@
       "transaction_count": 69
     },
     {
-      "lat": 1.30889394250401,
-      "lon": 103.76165223365797,
+      "lat": 1.3088939425040098,
+      "lon": 103.76165223365795,
       "project": "PASIR PANJANG GARDENS",
       "psf_signal": 3.3,
       "transaction_count": 69
@@ -5699,8 +5699,8 @@
       "transaction_count": 69
     },
     {
-      "lat": 1.3609257833395239,
-      "lon": 103.87401127607048,
+      "lat": 1.3609257833395245,
+      "lon": 103.87401127607046,
       "project": "D'HIRO@HILLSIDE",
       "psf_signal": 2.8,
       "transaction_count": 69
@@ -5713,15 +5713,15 @@
       "transaction_count": 68
     },
     {
-      "lat": 1.3534211344489142,
-      "lon": 103.8311801817077,
+      "lat": 1.3534211344489144,
+      "lon": 103.83118018170771,
       "project": "SOO CHOW GARDEN",
       "psf_signal": 2.66,
       "transaction_count": 68
     },
     {
-      "lat": 1.3158667088179161,
-      "lon": 103.94094388902955,
+      "lat": 1.3158667088179157,
+      "lon": 103.94094388902954,
       "project": "THE BAYCOURT",
       "psf_signal": 2.6,
       "transaction_count": 68
@@ -5734,8 +5734,8 @@
       "transaction_count": 68
     },
     {
-      "lat": 1.311728912755921,
-      "lon": 103.90049983985872,
+      "lat": 1.3117289127559206,
+      "lon": 103.90049983985871,
       "project": "ONAN SUITES",
       "psf_signal": 4.22,
       "transaction_count": 67
@@ -5749,7 +5749,7 @@
     },
     {
       "lat": 1.3071058157332496,
-      "lon": 103.82874059227174,
+      "lon": 103.82874059227176,
       "project": "DELFI ORCHARD",
       "psf_signal": 3.35,
       "transaction_count": 66
@@ -5763,21 +5763,21 @@
     },
     {
       "lat": 1.3227947615100006,
-      "lon": 103.79555398346739,
+      "lon": 103.7955539834674,
       "project": "CORONA VILLE",
       "psf_signal": 2.65,
       "transaction_count": 66
     },
     {
-      "lat": 1.3889577268898703,
-      "lon": 103.8366935742139,
+      "lat": 1.38895772688987,
+      "lon": 103.83669357421388,
       "project": "LENTOR VIEW",
       "psf_signal": 2.27,
       "transaction_count": 66
     },
     {
-      "lat": 1.3231685909674964,
-      "lon": 103.90952454199181,
+      "lat": 1.3231685909674966,
+      "lon": 103.90952454199183,
       "project": "EAST SHINE",
       "psf_signal": 3.7,
       "transaction_count": 65
@@ -5804,8 +5804,8 @@
       "transaction_count": 64
     },
     {
-      "lat": 1.3244740873875007,
-      "lon": 103.80884499861472,
+      "lat": 1.3244740873875003,
+      "lon": 103.8088449986147,
       "project": "ONE DUCHESS",
       "psf_signal": 3.9,
       "transaction_count": 63
@@ -5833,14 +5833,14 @@
     },
     {
       "lat": 1.3565726981279658,
-      "lon": 103.86815713286403,
+      "lon": 103.86815713286404,
       "project": "LA QUINTA PARK",
       "psf_signal": 3.11,
       "transaction_count": 62
     },
     {
       "lat": 1.3048715813737453,
-      "lon": 103.85337769938833,
+      "lon": 103.85337769938832,
       "project": "THE COUNTRYSIDE",
       "psf_signal": 2.45,
       "transaction_count": 62
@@ -5923,7 +5923,7 @@
       "transaction_count": 58
     },
     {
-      "lat": 1.3211397629476709,
+      "lat": 1.3211397629476704,
       "lon": 103.8217854275616,
       "project": "D' DALVEY",
       "psf_signal": 3.55,
@@ -5951,8 +5951,8 @@
       "transaction_count": 57
     },
     {
-      "lat": 1.3218867535628018,
-      "lon": 103.94709432052528,
+      "lat": 1.321886753562802,
+      "lon": 103.9470943205253,
       "project": "TANAH MERAH MANSION",
       "psf_signal": 3.15,
       "transaction_count": 57
@@ -5979,7 +5979,7 @@
       "transaction_count": 57
     },
     {
-      "lat": 1.3318565712908954,
+      "lat": 1.3318565712908956,
       "lon": 103.94830257065472,
       "project": "BEDOK SHOPPING COMPLEX",
       "psf_signal": 2.48,
@@ -5994,14 +5994,14 @@
     },
     {
       "lat": 1.3883367685463752,
-      "lon": 103.83840852095803,
+      "lon": 103.83840852095804,
       "project": "BANYAN VILLAS",
       "psf_signal": 2.49,
       "transaction_count": 56
     },
     {
-      "lat": 1.3118328812546503,
-      "lon": 103.82433999283039,
+      "lat": 1.3118328812546505,
+      "lon": 103.82433999283037,
       "project": "ORANGE REGENCY",
       "psf_signal": 4.6,
       "transaction_count": 55
@@ -6014,15 +6014,15 @@
       "transaction_count": 55
     },
     {
-      "lat": 1.3609275007356763,
-      "lon": 103.87596617545228,
+      "lat": 1.3609275007356767,
+      "lon": 103.87596617545229,
       "project": "HILBRE28",
       "psf_signal": 3.86,
       "transaction_count": 55
     },
     {
-      "lat": 1.2878623045580877,
-      "lon": 103.77832262005383,
+      "lat": 1.2878623045580875,
+      "lon": 103.77832262005386,
       "project": "THE ESTIVA",
       "psf_signal": 3.77,
       "transaction_count": 55
@@ -6049,8 +6049,8 @@
       "transaction_count": 55
     },
     {
-      "lat": 1.3254063118714916,
-      "lon": 103.78433699620082,
+      "lat": 1.325406311871492,
+      "lon": 103.78433699620084,
       "project": "EWART PARK",
       "psf_signal": 3.85,
       "transaction_count": 54
@@ -6078,7 +6078,7 @@
     },
     {
       "lat": 1.3393099673689752,
-      "lon": 103.95584663635107,
+      "lon": 103.9558466363511,
       "project": "MISTRAL PARK",
       "psf_signal": 2.44,
       "transaction_count": 53
@@ -6099,7 +6099,7 @@
     },
     {
       "lat": 1.3602112501666708,
-      "lon": 103.86546122845715,
+      "lon": 103.86546122845718,
       "project": "GARDEN VIEW ESTATE",
       "psf_signal": 3.16,
       "transaction_count": 52
@@ -6119,8 +6119,8 @@
       "transaction_count": 52
     },
     {
-      "lat": 1.3183154002026896,
-      "lon": 103.8490006690971,
+      "lat": 1.31831540020269,
+      "lon": 103.84900066909708,
       "project": "SUITES @ SHREWSBURY",
       "psf_signal": 7.51,
       "transaction_count": 51
@@ -6175,8 +6175,8 @@
       "transaction_count": 49
     },
     {
-      "lat": 1.3277173652492564,
-      "lon": 103.8504384219143,
+      "lat": 1.3277173652492567,
+      "lon": 103.85043842191422,
       "project": "BOON TECK TOWER",
       "psf_signal": 2.26,
       "transaction_count": 49
@@ -6204,7 +6204,7 @@
     },
     {
       "lat": 1.3554379589807406,
-      "lon": 103.83408620745399,
+      "lon": 103.834086207454,
       "project": "KELIVILLE",
       "psf_signal": 2.41,
       "transaction_count": 48
@@ -6217,15 +6217,15 @@
       "transaction_count": 47
     },
     {
-      "lat": 1.321012098741208,
+      "lat": 1.3210120987412077,
       "lon": 103.79167655822792,
       "project": "VENTURA HEIGHTS",
       "psf_signal": 2.53,
       "transaction_count": 47
     },
     {
-      "lat": 1.3856983462711963,
-      "lon": 103.85842410564776,
+      "lat": 1.3856983462711958,
+      "lon": 103.85842410564777,
       "project": "SPRINGHILL TERRACE",
       "psf_signal": 2.2,
       "transaction_count": 47
@@ -6252,7 +6252,7 @@
       "transaction_count": 46
     },
     {
-      "lat": 1.3661673302236443,
+      "lat": 1.3661673302236441,
       "lon": 103.88188001232284,
       "project": "ONEROBEY",
       "psf_signal": 3.31,
@@ -6266,7 +6266,7 @@
       "transaction_count": 46
     },
     {
-      "lat": 1.2865074492065036,
+      "lat": 1.2865074492065032,
       "lon": 103.78022143780734,
       "project": "GLORIA MANSION",
       "psf_signal": 2.52,
@@ -6294,7 +6294,7 @@
       "transaction_count": 43
     },
     {
-      "lat": 1.3818700377118092,
+      "lat": 1.3818700377118094,
       "lon": 103.86077654900413,
       "project": "MIMOSA VILLAS",
       "psf_signal": 2.2,
@@ -6308,14 +6308,14 @@
       "transaction_count": 42
     },
     {
-      "lat": 1.3095326311516164,
+      "lat": 1.3095326311516167,
       "lon": 103.87884480712508,
       "project": "NICOLE GREEN",
       "psf_signal": 3.19,
       "transaction_count": 42
     },
     {
-      "lat": 1.4158190252969063,
+      "lat": 1.4158190252969065,
       "lon": 103.90350082516814,
       "project": "NORTHSHORE BUNGALOWS",
       "psf_signal": 2.31,
@@ -6336,7 +6336,7 @@
       "transaction_count": 41
     },
     {
-      "lat": 1.4037879804051387,
+      "lat": 1.4037879804051385,
       "lon": 103.81406095734658,
       "project": "MANDAI GARDEN",
       "psf_signal": 2.18,
@@ -6358,7 +6358,7 @@
     },
     {
       "lat": 1.309147189305929,
-      "lon": 103.8561593679952,
+      "lon": 103.85615936799518,
       "project": "SAM LEONG MANSION",
       "psf_signal": 3.61,
       "transaction_count": 40
@@ -6413,7 +6413,7 @@
       "transaction_count": 39
     },
     {
-      "lat": 1.3657904432543762,
+      "lat": 1.3657904432543766,
       "lon": 103.88449517387149,
       "project": "ISUITES @ TANI",
       "psf_signal": 4.39,
@@ -6421,7 +6421,7 @@
     },
     {
       "lat": 1.329422184865967,
-      "lon": 103.90828840940016,
+      "lon": 103.90828840940014,
       "project": "QUBE SUITES",
       "psf_signal": 4.22,
       "transaction_count": 38
@@ -6434,8 +6434,8 @@
       "transaction_count": 38
     },
     {
-      "lat": 1.3145811451206406,
-      "lon": 103.94184534775518,
+      "lat": 1.3145811451206408,
+      "lon": 103.94184534775519,
       "project": "BALCON EAST",
       "psf_signal": 3.52,
       "transaction_count": 38
@@ -6546,8 +6546,8 @@
       "transaction_count": 34
     },
     {
-      "lat": 1.2781280911107753,
-      "lon": 103.79362284116868,
+      "lat": 1.2781280911107749,
+      "lon": 103.79362284116871,
       "project": "PEPYS HILL CONDOMINIUM",
       "psf_signal": 2.63,
       "transaction_count": 34
@@ -6581,7 +6581,7 @@
       "transaction_count": 33
     },
     {
-      "lat": 1.3357155200971706,
+      "lat": 1.3357155200971704,
       "lon": 103.76592791040703,
       "project": "GOLDEN RISE ESTATE",
       "psf_signal": 2.31,
@@ -6616,8 +6616,8 @@
       "transaction_count": 32
     },
     {
-      "lat": 1.3236015097503153,
-      "lon": 103.79341061942867,
+      "lat": 1.323601509750315,
+      "lon": 103.79341061942866,
       "project": "SELBY GARDENS",
       "psf_signal": 3.15,
       "transaction_count": 31
@@ -6644,7 +6644,7 @@
       "transaction_count": 30
     },
     {
-      "lat": 1.3212672792087052,
+      "lat": 1.3212672792087057,
       "lon": 103.79279880676818,
       "project": "ESTRIVILLAS",
       "psf_signal": 2.3,
@@ -6694,7 +6694,7 @@
     },
     {
       "lat": 1.3812492224631379,
-      "lon": 103.86552461230768,
+      "lon": 103.86552461230771,
       "project": "BELGRAVIA VILLAS",
       "psf_signal": 2.57,
       "transaction_count": 27
@@ -6729,7 +6729,7 @@
     },
     {
       "lat": 1.386839322552712,
-      "lon": 103.8791925021026,
+      "lon": 103.87919250210258,
       "project": "MUGLISTON HILL",
       "psf_signal": 2.12,
       "transaction_count": 26
@@ -6848,7 +6848,7 @@
     },
     {
       "lat": 1.325600985527471,
-      "lon": 103.88190579807116,
+      "lon": 103.88190579807117,
       "project": "MATTAR RESIDENCES",
       "psf_signal": 4.9,
       "transaction_count": 21
@@ -6889,15 +6889,15 @@
       "transaction_count": 20
     },
     {
-      "lat": 1.4034080883674027,
-      "lon": 103.81718369361445,
+      "lat": 1.4034080883674025,
+      "lon": 103.81718369361442,
       "project": "THE ESSENCE",
       "psf_signal": 4.01,
       "transaction_count": 20
     },
     {
       "lat": 1.3266840027874363,
-      "lon": 103.81924122242344,
+      "lon": 103.81924122242341,
       "project": "TUDOR TEN",
       "psf_signal": 3.23,
       "transaction_count": 20
@@ -6931,8 +6931,8 @@
       "transaction_count": 20
     },
     {
-      "lat": 1.3210789223122505,
-      "lon": 103.9509583727181,
+      "lat": 1.3210789223122503,
+      "lon": 103.95095837271808,
       "project": "CASA FLORA",
       "psf_signal": 2.61,
       "transaction_count": 20
@@ -6959,7 +6959,7 @@
       "transaction_count": 20
     },
     {
-      "lat": 1.3640459472222677,
+      "lat": 1.364045947222268,
       "lon": 103.88110563691575,
       "project": "PARRY PARK",
       "psf_signal": 2.46,
@@ -7002,7 +7002,7 @@
     },
     {
       "lat": 1.3283541017632892,
-      "lon": 103.91590960443393,
+      "lon": 103.91590960443392,
       "project": "YONG SENG ESTATE",
       "psf_signal": 2.23,
       "transaction_count": 19
@@ -7064,7 +7064,7 @@
       "transaction_count": 17
     },
     {
-      "lat": 1.3865602635427583,
+      "lat": 1.3865602635427585,
       "lon": 103.87637542356902,
       "project": "GERALD GARDENS",
       "psf_signal": 2.21,
@@ -7099,7 +7099,7 @@
       "transaction_count": 16
     },
     {
-      "lat": 1.3243307600207233,
+      "lat": 1.3243307600207235,
       "lon": 103.9555310387788,
       "project": "BEDOK PESARI",
       "psf_signal": 2.08,
@@ -7226,7 +7226,7 @@
     },
     {
       "lat": 1.320632750872653,
-      "lon": 103.78536573108543,
+      "lon": 103.78536573108545,
       "project": "ASHLEY GREEN",
       "psf_signal": 3.75,
       "transaction_count": 13
@@ -7239,7 +7239,7 @@
       "transaction_count": 13
     },
     {
-      "lat": 1.3213186813689477,
+      "lat": 1.3213186813689473,
       "lon": 103.91852593165484,
       "project": "SIN CHUAN GARDEN",
       "psf_signal": 3.06,
@@ -7247,7 +7247,7 @@
     },
     {
       "lat": 1.3221839361407814,
-      "lon": 103.94827196055924,
+      "lon": 103.94827196055925,
       "project": "LIMAU PARK",
       "psf_signal": 2.78,
       "transaction_count": 13
@@ -7372,8 +7372,8 @@
       "transaction_count": 11
     },
     {
-      "lat": 1.3442952298203876,
-      "lon": 103.86162264944747,
+      "lat": 1.3442952298203874,
+      "lon": 103.86162264944745,
       "project": "DUNSFOLD RESIDENCES",
       "psf_signal": 1.75,
       "transaction_count": 11
@@ -7386,15 +7386,15 @@
       "transaction_count": 10
     },
     {
-      "lat": 1.2827534340390578,
+      "lat": 1.2827534340390576,
       "lon": 103.83009360146309,
       "project": "YONG SIAK VIEW",
       "psf_signal": 4.24,
       "transaction_count": 10
     },
     {
-      "lat": 1.3309281434571054,
-      "lon": 103.78809790660186,
+      "lat": 1.3309281434571056,
+      "lon": 103.78809790660185,
       "project": "Brizay Park",
       "psf_signal": 3.97,
       "transaction_count": 10
@@ -7436,7 +7436,7 @@
     },
     {
       "lat": 1.3113539419612468,
-      "lon": 103.92530519653042,
+      "lon": 103.92530519653045,
       "project": "MARINE GARDEN",
       "psf_signal": 3.22,
       "transaction_count": 9
@@ -7449,7 +7449,7 @@
       "transaction_count": 9
     },
     {
-      "lat": 1.2942688420947166,
+      "lat": 1.2942688420947164,
       "lon": 103.76655913449368,
       "project": "WEST COAST VIEW",
       "psf_signal": 2.59,
@@ -7484,8 +7484,8 @@
       "transaction_count": 8
     },
     {
-      "lat": 1.38774238932728,
-      "lon": 103.87657682679001,
+      "lat": 1.3877423893272798,
+      "lon": 103.87657682679,
       "project": "EATON PARK",
       "psf_signal": 3.06,
       "transaction_count": 8
@@ -7534,7 +7534,7 @@
     },
     {
       "lat": 1.2765734073457762,
-      "lon": 103.82536821535062,
+      "lon": 103.82536821535061,
       "project": "TERESA TERRACE",
       "psf_signal": 1.98,
       "transaction_count": 8
@@ -7652,7 +7652,7 @@
       "transaction_count": 6
     },
     {
-      "lat": 1.3490458475201867,
+      "lat": 1.3490458475201865,
       "lon": 103.88375388072298,
       "project": "ASTON GREEN",
       "psf_signal": 2.34,
@@ -7799,8 +7799,8 @@
       "transaction_count": 4
     },
     {
-      "lat": 1.3755294964956553,
-      "lon": 103.75853673912926,
+      "lat": 1.375529496495655,
+      "lon": 103.75853673912924,
       "project": "HUA MEI GARDENS",
       "psf_signal": 2.24,
       "transaction_count": 4
@@ -8134,10 +8134,10 @@
     "max_count": 3614,
     "max_psf": 9.810570518120755,
     "median_count": 195.0,
-    "mid_psf": 3.7781777639044627,
+    "mid_psf": 3.7781777639044636,
     "min_count": 1,
     "min_psf": 1.2925652856549086,
-    "upper_psf": 5.563675347539458
+    "upper_psf": 5.563675347539459
   },
   "total": 1153,
   "zoom": 15
