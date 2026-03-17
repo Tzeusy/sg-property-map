@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/static-reset-check/sw.js', { scope: '/static-reset-check/' })})}
