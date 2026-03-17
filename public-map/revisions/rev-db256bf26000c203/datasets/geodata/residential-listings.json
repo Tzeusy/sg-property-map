@@ -1,0 +1,5135 @@
+{
+  "items": [
+    {
+      "address": "",
+      "id": 334,
+      "is_deal": false,
+      "latitude": 1.273158244096651,
+      "longitude": 103.8406001229825,
+      "project_name": "1557 Keppel Road",
+      "property_type": "condo",
+      "psf_rent": 13.41
+    },
+    {
+      "address": "",
+      "id": 354,
+      "is_deal": false,
+      "latitude": 1.273158244096651,
+      "longitude": 103.8406001229825,
+      "project_name": "1557 Keppel Road",
+      "property_type": "condo",
+      "psf_rent": 16.39
+    },
+    {
+      "address": "1 Tessensohn Road",
+      "id": 10,
+      "is_deal": false,
+      "latitude": 1.316477524004925,
+      "longitude": 103.8577508499221,
+      "project_name": "1953",
+      "property_type": "apartment",
+      "psf_rent": 0.59
+    },
+    {
+      "address": "Richards Avenue",
+      "id": 153,
+      "is_deal": false,
+      "latitude": 1.362148905206735,
+      "longitude": 103.8815730404128,
+      "project_name": "21 Richards",
+      "property_type": "Condo",
+      "psf_rent": 5.51
+    },
+    {
+      "address": "Chai Chee Road",
+      "id": 106,
+      "is_deal": false,
+      "latitude": 1.325449974100148,
+      "longitude": 103.9232280515202,
+      "project_name": "26A CHAI CHEE ROAD",
+      "property_type": "3 Room",
+      "psf_rent": 5.62
+    },
+    {
+      "address": "28 Race Course Lane",
+      "id": 32,
+      "is_deal": false,
+      "latitude": 1.309981792134702,
+      "longitude": 103.8529520054614,
+      "project_name": "28 RC Suites",
+      "property_type": "apartment",
+      "psf_rent": 7.58
+    },
+    {
+      "address": "Amber Road",
+      "id": 505,
+      "is_deal": false,
+      "latitude": 1.301718887593224,
+      "longitude": 103.9010668629949,
+      "project_name": "38 Amber",
+      "property_type": "Condo",
+      "psf_rent": 4.77
+    },
+    {
+      "address": "",
+      "id": 8,
+      "is_deal": false,
+      "latitude": 1.29364555142086,
+      "longitude": 103.8264426156875,
+      "project_name": "474 River Valley Road",
+      "property_type": "apartment",
+      "psf_rent": 12.5
+    },
+    {
+      "address": "Hougang Avenue 6",
+      "id": 512,
+      "is_deal": false,
+      "latitude": 1.376527739068593,
+      "longitude": 103.8928055451077,
+      "project_name": "524 HOUGANG AVENUE 6",
+      "property_type": "4 Room",
+      "psf_rent": 5.67
+    },
+    {
+      "address": "Pasir Ris Drive 10",
+      "id": 411,
+      "is_deal": false,
+      "latitude": 1.379699831395741,
+      "longitude": 103.9382639796882,
+      "project_name": "739 PASIR RIS DRIVE 10",
+      "property_type": "4 Room",
+      "psf_rent": 5.83
+    },
+    {
+      "address": "Yishun Street 72",
+      "id": 125,
+      "is_deal": false,
+      "latitude": 1.427891752359921,
+      "longitude": 103.8332638211438,
+      "project_name": "761 YISHUN STREET 72",
+      "property_type": "3 Room",
+      "psf_rent": 9.0
+    },
+    {
+      "address": "121 Penang Road",
+      "id": 187,
+      "is_deal": false,
+      "latitude": 1.299466434953884,
+      "longitude": 103.8420471706432,
+      "project_name": "Adina Serviced Apartments Singapore Orchard",
+      "property_type": "apartment",
+      "psf_rent": 11.34
+    },
+    {
+      "address": "Serangoon North Avenue 1",
+      "id": 119,
+      "is_deal": false,
+      "latitude": 1.366471682164077,
+      "longitude": 103.8732518851821,
+      "project_name": "Affinity At Serangoon",
+      "property_type": "Condo",
+      "psf_rent": 6.09
+    },
+    {
+      "address": "Alexandra Road",
+      "id": 124,
+      "is_deal": false,
+      "latitude": 1.291536547926244,
+      "longitude": 103.8152850535028,
+      "project_name": "Alexis",
+      "property_type": "Condo",
+      "psf_rent": 5.73
+    },
+    {
+      "address": "Alkaff Crescent",
+      "id": 144,
+      "is_deal": false,
+      "latitude": 1.33610325672825,
+      "longitude": 103.8737206561374,
+      "project_name": "Alkaff Breeze",
+      "property_type": "4 Room",
+      "psf_rent": 13.0
+    },
+    {
+      "address": "16 Enggor Street",
+      "id": 188,
+      "is_deal": false,
+      "latitude": 1.274617941038219,
+      "longitude": 103.8443195536877,
+      "project_name": "Altez",
+      "property_type": "condo",
+      "psf_rent": 9.05
+    },
+    {
+      "address": "",
+      "id": 357,
+      "is_deal": false,
+      "latitude": 1.274617941038219,
+      "longitude": 103.8443195536877,
+      "project_name": "Altez",
+      "property_type": "condo",
+      "psf_rent": 8.46
+    },
+    {
+      "address": "",
+      "id": 358,
+      "is_deal": false,
+      "latitude": 1.274617941038219,
+      "longitude": 103.8443195536877,
+      "project_name": "Altez",
+      "property_type": "condo",
+      "psf_rent": 6.5
+    },
+    {
+      "address": "Amber Gardens",
+      "id": 441,
+      "is_deal": false,
+      "latitude": 1.301426661457897,
+      "longitude": 103.8993430255868,
+      "project_name": "Amber Park",
+      "property_type": "Condo",
+      "psf_rent": 7.71
+    },
+    {
+      "address": "20 Guillemard Crescent",
+      "id": 35,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Arena Residences",
+      "property_type": "apartment",
+      "psf_rent": 7.17
+    },
+    {
+      "address": "125 Arthur Road",
+      "id": 4,
+      "is_deal": false,
+      "latitude": 1.298901538626466,
+      "longitude": 103.8871515994367,
+      "project_name": "Arthur Mansions",
+      "property_type": "condo",
+      "psf_rent": 8.46
+    },
+    {
+      "address": "Alexandra View",
+      "id": 523,
+      "is_deal": false,
+      "latitude": 1.290301658452144,
+      "longitude": 103.8175490131751,
+      "project_name": "Ascentia Sky",
+      "property_type": "Condo",
+      "psf_rent": 17.0
+    },
+    {
+      "address": "",
+      "id": 268,
+      "is_deal": false,
+      "latitude": 1.294715959334512,
+      "longitude": 103.8400511673633,
+      "project_name": "Aspen Heights",
+      "property_type": "condo",
+      "psf_rent": 5.86
+    },
+    {
+      "address": "",
+      "id": 340,
+      "is_deal": false,
+      "latitude": 1.294715959334512,
+      "longitude": 103.8400511673633,
+      "project_name": "Aspen Heights",
+      "property_type": "condo",
+      "psf_rent": 13.33
+    },
+    {
+      "address": "",
+      "id": 350,
+      "is_deal": false,
+      "latitude": 1.294715959334512,
+      "longitude": 103.8400511673633,
+      "project_name": "Aspen Heights",
+      "property_type": "condo",
+      "psf_rent": 4.87
+    },
+    {
+      "address": "River Valley Road",
+      "id": 400,
+      "is_deal": false,
+      "latitude": 1.293061164956335,
+      "longitude": 103.8264803945401,
+      "project_name": "Aspen Heights",
+      "property_type": "Condo",
+      "psf_rent": 5.86
+    },
+    {
+      "address": "Ava Road",
+      "id": 467,
+      "is_deal": false,
+      "latitude": 1.322301656473028,
+      "longitude": 103.8524431757028,
+      "project_name": "Ava Towers",
+      "property_type": "Condo",
+      "psf_rent": 13.0
+    },
+    {
+      "address": "",
+      "id": 249,
+      "is_deal": false,
+      "latitude": 1.276629534107344,
+      "longitude": 103.8291052120283,
+      "project_name": "Avenue South Residence",
+      "property_type": "condo",
+      "psf_rent": 6.85
+    },
+    {
+      "address": "",
+      "id": 345,
+      "is_deal": false,
+      "latitude": 1.276629534107344,
+      "longitude": 103.8291052120283,
+      "project_name": "Avenue South Residence",
+      "property_type": "condo",
+      "psf_rent": 7.21
+    },
+    {
+      "address": "",
+      "id": 349,
+      "is_deal": false,
+      "latitude": 1.276629534107344,
+      "longitude": 103.8291052120283,
+      "project_name": "Avenue South Residence",
+      "property_type": "condo",
+      "psf_rent": 6.69
+    },
+    {
+      "address": "Silat Avenue",
+      "id": 416,
+      "is_deal": false,
+      "latitude": 1.276494479109947,
+      "longitude": 103.8305429395947,
+      "project_name": "Avenue South Residence",
+      "property_type": "Condo",
+      "psf_rent": 6.85
+    },
+    {
+      "address": "Flora Road",
+      "id": 521,
+      "is_deal": false,
+      "latitude": 1.359801502966432,
+      "longitude": 103.9655322537971,
+      "project_name": "Avila Gardens",
+      "property_type": "Condo",
+      "psf_rent": 3.45
+    },
+    {
+      "address": "50 Bayshore Road",
+      "id": 64,
+      "is_deal": false,
+      "latitude": 1.312149583561488,
+      "longitude": 103.9374682620601,
+      "project_name": "Bayshore Park",
+      "property_type": "condo",
+      "psf_rent": 4.47
+    },
+    {
+      "address": "Bishan Street 12",
+      "id": 95,
+      "is_deal": false,
+      "latitude": 1.345361255823495,
+      "longitude": 103.8508821054391,
+      "project_name": "Bishan Green",
+      "property_type": "4 Room",
+      "psf_rent": 4.41
+    },
+    {
+      "address": "Bishan Street 12",
+      "id": 145,
+      "is_deal": false,
+      "latitude": 1.345361255823495,
+      "longitude": 103.8508821054391,
+      "project_name": "Bishan View",
+      "property_type": "N.a",
+      "psf_rent": 10.0
+    },
+    {
+      "address": "Upper Serangoon View",
+      "id": 472,
+      "is_deal": false,
+      "latitude": 1.374962621881565,
+      "longitude": 103.9031642442391,
+      "project_name": "Boathouse Residences",
+      "property_type": "Condo",
+      "psf_rent": 4.15
+    },
+    {
+      "address": "Boon Lay Avenue",
+      "id": 491,
+      "is_deal": false,
+      "latitude": 1.347047861970866,
+      "longitude": 103.7103674022207,
+      "project_name": "Boon Lay Vista",
+      "property_type": "3 Room",
+      "psf_rent": 4.0
+    },
+    {
+      "address": "Boon Lay Avenue",
+      "id": 492,
+      "is_deal": false,
+      "latitude": 1.347047861970866,
+      "longitude": 103.7103674022207,
+      "project_name": "Boon Lay Vista",
+      "property_type": "3 Room",
+      "psf_rent": 12.0
+    },
+    {
+      "address": "Brizay Park",
+      "id": 135,
+      "is_deal": false,
+      "latitude": 1.331241123666308,
+      "longitude": 103.7877861364095,
+      "project_name": "Brizay Park",
+      "property_type": "Good-class Bungalow",
+      "psf_rent": null
+    },
+    {
+      "address": "Buangkok Link",
+      "id": 524,
+      "is_deal": false,
+      "latitude": 1.382989894253599,
+      "longitude": 103.8822875862665,
+      "project_name": "Buangkok Square",
+      "property_type": "N.a",
+      "psf_rent": 9.0
+    },
+    {
+      "address": "Havelock Road",
+      "id": 108,
+      "is_deal": false,
+      "latitude": 1.293061164956335,
+      "longitude": 103.8264803945401,
+      "project_name": "Bukit Ho Swee Court",
+      "property_type": "N.a",
+      "psf_rent": 10.0
+    },
+    {
+      "address": "Flora Drive",
+      "id": 94,
+      "is_deal": false,
+      "latitude": 1.356478425661016,
+      "longitude": 103.9653854950318,
+      "project_name": "Carissa Park Condominium",
+      "property_type": "Condo",
+      "psf_rent": 3.8
+    },
+    {
+      "address": "Rosewood Drive",
+      "id": 393,
+      "is_deal": false,
+      "latitude": 1.42949746630198,
+      "longitude": 103.7853347858815,
+      "project_name": "Casablanca",
+      "property_type": "Condo",
+      "psf_rent": 4.02
+    },
+    {
+      "address": "Rosewood Drive",
+      "id": 420,
+      "is_deal": false,
+      "latitude": 1.42949746630198,
+      "longitude": 103.7853347858815,
+      "project_name": "Casablanca",
+      "property_type": "Condo",
+      "psf_rent": 3.81
+    },
+    {
+      "address": "Yio Chu Kang Road",
+      "id": 500,
+      "is_deal": false,
+      "latitude": 1.381015273852147,
+      "longitude": 103.8323745244361,
+      "project_name": "Castle Green",
+      "property_type": "Condo",
+      "psf_rent": 7.33
+    },
+    {
+      "address": "Lorong 25 Geylang",
+      "id": 433,
+      "is_deal": false,
+      "latitude": 1.31453971780722,
+      "longitude": 103.8824630571321,
+      "project_name": "Centra Studios",
+      "property_type": "Condo",
+      "psf_rent": 7.33
+    },
+    {
+      "address": "Dunearn Road",
+      "id": 499,
+      "is_deal": false,
+      "latitude": 1.321627200921525,
+      "longitude": 103.8234979613091,
+      "project_name": "Chancery Court (Enbloc)",
+      "property_type": "Condo",
+      "psf_rent": 4.81
+    },
+    {
+      "address": "Upper Changi Road East",
+      "id": 451,
+      "is_deal": false,
+      "latitude": 1.338763747870149,
+      "longitude": 103.9604864115032,
+      "project_name": "Changi Court",
+      "property_type": "Condo",
+      "psf_rent": 11.33
+    },
+    {
+      "address": "Simei Rise",
+      "id": 134,
+      "is_deal": false,
+      "latitude": 1.347593881744102,
+      "longitude": 103.95919377977,
+      "project_name": "Changi Rise Condominium",
+      "property_type": "Condo",
+      "psf_rent": 3.81
+    },
+    {
+      "address": "Ang Mo Kio Avenue 10",
+      "id": 511,
+      "is_deal": false,
+      "latitude": 1.366770402706365,
+      "longitude": 103.8565898295806,
+      "project_name": "Cheng San Green",
+      "property_type": "4 Room",
+      "psf_rent": 6.0
+    },
+    {
+      "address": "120 Arthur Road",
+      "id": 11,
+      "is_deal": false,
+      "latitude": 1.298591283852746,
+      "longitude": 103.8878836226295,
+      "project_name": "Chng Mansions",
+      "property_type": "apartment",
+      "psf_rent": 9.0
+    },
+    {
+      "address": "101 Mergui Road",
+      "id": 73,
+      "is_deal": false,
+      "latitude": 1.318021993877547,
+      "longitude": 103.8515937066344,
+      "project_name": "Cityscape at Farrer Park",
+      "property_type": "condo",
+      "psf_rent": 4.44
+    },
+    {
+      "address": "Clementi Avenue 5",
+      "id": 443,
+      "is_deal": false,
+      "latitude": 1.317220721702289,
+      "longitude": 103.7678580826111,
+      "project_name": "Clementi Avenue 5",
+      "property_type": "4 Room",
+      "psf_rent": 7.5
+    },
+    {
+      "address": "Clementi Avenue 4",
+      "id": 527,
+      "is_deal": false,
+      "latitude": 1.318624095859566,
+      "longitude": 103.766031455589,
+      "project_name": "Clementi Meadows",
+      "property_type": "3 Room",
+      "psf_rent": 4.85
+    },
+    {
+      "address": "Cluny Park Road",
+      "id": 91,
+      "is_deal": false,
+      "latitude": 1.319601242167432,
+      "longitude": 103.8146298264007,
+      "project_name": "CLUNY PARK ROAD",
+      "property_type": "Good-class Bungalow",
+      "psf_rent": 7.11
+    },
+    {
+      "address": "Pasir Ris Grove",
+      "id": 519,
+      "is_deal": false,
+      "latitude": 1.371053499516786,
+      "longitude": 103.9452913385157,
+      "project_name": "Coco Palms",
+      "property_type": "Condo",
+      "psf_rent": 9.33
+    },
+    {
+      "address": "",
+      "id": 333,
+      "is_deal": false,
+      "latitude": 1.294748483564726,
+      "longitude": 103.8419929082784,
+      "project_name": "Coliwoo River Valley 288",
+      "property_type": "condo",
+      "psf_rent": 10.77
+    },
+    {
+      "address": "Commonwealth Drive",
+      "id": 447,
+      "is_deal": false,
+      "latitude": 1.300146985156621,
+      "longitude": 103.7972162595299,
+      "project_name": "Commonwealth 16",
+      "property_type": "3 Room",
+      "psf_rent": 7.8
+    },
+    {
+      "address": "Compassvale Link",
+      "id": 126,
+      "is_deal": false,
+      "latitude": 1.383642260963803,
+      "longitude": 103.8951959541717,
+      "project_name": "COMPASSVALE ARCADIA",
+      "property_type": "4 Room",
+      "psf_rent": 10.47
+    },
+    {
+      "address": "Tengah Garden Walk",
+      "id": 87,
+      "is_deal": false,
+      "latitude": 1.360196374595945,
+      "longitude": 103.730338137569,
+      "project_name": "Copen Grand",
+      "property_type": "Condo",
+      "psf_rent": 12.36
+    },
+    {
+      "address": "",
+      "id": 293,
+      "is_deal": false,
+      "latitude": 1.278031247126998,
+      "longitude": 103.8423879126401,
+      "project_name": "Craig Place",
+      "property_type": "condo",
+      "psf_rent": 6.28
+    },
+    {
+      "address": "Lorong K Telok Kurau",
+      "id": 483,
+      "is_deal": false,
+      "latitude": 1.312979883610526,
+      "longitude": 103.911291785566,
+      "project_name": "Cubik",
+      "property_type": "Condo",
+      "psf_rent": 4.25
+    },
+    {
+      "address": "Leedon Heights",
+      "id": 114,
+      "is_deal": false,
+      "latitude": 1.313764725211268,
+      "longitude": 103.8028839638641,
+      "project_name": "D'Leedon",
+      "property_type": "Condo",
+      "psf_rent": 6.08
+    },
+    {
+      "address": "31 Boon Teck Road",
+      "id": 6,
+      "is_deal": false,
+      "latitude": 1.327518386404429,
+      "longitude": 103.8498539989222,
+      "project_name": "D'Mira",
+      "property_type": "condo",
+      "psf_rent": 11.8
+    },
+    {
+      "address": "",
+      "id": 309,
+      "is_deal": false,
+      "latitude": 1.2800452933183,
+      "longitude": 103.8403586732533,
+      "project_name": "Dorsett Residences",
+      "property_type": "condo",
+      "psf_rent": 11.8
+    },
+    {
+      "address": "",
+      "id": 318,
+      "is_deal": false,
+      "latitude": 1.2800452933183,
+      "longitude": 103.8403586732533,
+      "project_name": "Dorsett Residences",
+      "property_type": "condo",
+      "psf_rent": 7.09
+    },
+    {
+      "address": "Simei Street 4",
+      "id": 471,
+      "is_deal": false,
+      "latitude": 1.341850406357256,
+      "longitude": 103.9561134713569,
+      "project_name": "Double Bay Residences",
+      "property_type": "Condo",
+      "psf_rent": 5.71
+    },
+    {
+      "address": "Dunman Road",
+      "id": 398,
+      "is_deal": false,
+      "latitude": 1.309560057547879,
+      "longitude": 103.8955491543899,
+      "project_name": "Dunman Place",
+      "property_type": "Condo",
+      "psf_rent": 6.66
+    },
+    {
+      "address": "Dunman Road",
+      "id": 507,
+      "is_deal": false,
+      "latitude": 1.309560057547879,
+      "longitude": 103.8955491543899,
+      "project_name": "Dunman Place",
+      "property_type": "Condo",
+      "psf_rent": 10.83
+    },
+    {
+      "address": "Canberra Street",
+      "id": 101,
+      "is_deal": false,
+      "latitude": 1.448341033584673,
+      "longitude": 103.8323674307532,
+      "project_name": "Eastbrook @ Canberra",
+      "property_type": "4 Room",
+      "psf_rent": 3.95
+    },
+    {
+      "address": "Tanah Merah Kechil Road",
+      "id": 446,
+      "is_deal": false,
+      "latitude": 1.328130099862877,
+      "longitude": 103.9437533449577,
+      "project_name": "East Meadows",
+      "property_type": "Condo",
+      "psf_rent": 16.67
+    },
+    {
+      "address": "Alexandra View",
+      "id": 410,
+      "is_deal": false,
+      "latitude": 1.290301658452144,
+      "longitude": 103.8175490131751,
+      "project_name": "Echelon",
+      "property_type": "Condo",
+      "psf_rent": 7.51
+    },
+    {
+      "address": "Jurong West Street 64",
+      "id": 150,
+      "is_deal": false,
+      "latitude": 1.341078466627828,
+      "longitude": 103.7038768216631,
+      "project_name": "Edelweiss@jurong",
+      "property_type": "4 Room",
+      "psf_rent": 7.31
+    },
+    {
+      "address": "Club Street",
+      "id": 142,
+      "is_deal": false,
+      "latitude": 1.282410554188496,
+      "longitude": 103.8462121229274,
+      "project_name": "Emerald Garden",
+      "property_type": "Condo",
+      "psf_rent": 19.0
+    },
+    {
+      "address": "",
+      "id": 325,
+      "is_deal": false,
+      "latitude": 1.281548629244838,
+      "longitude": 103.8464725700609,
+      "project_name": "Emerald Garden",
+      "property_type": "condo",
+      "psf_rent": 19.0
+    },
+    {
+      "address": "Club Street",
+      "id": 154,
+      "is_deal": false,
+      "latitude": 1.282410554188496,
+      "longitude": 103.8462121229274,
+      "project_name": "EMERALD GARDEN",
+      "property_type": "condo",
+      "psf_rent": 16.0
+    },
+    {
+      "address": "70 Shenton Way",
+      "id": 65,
+      "is_deal": false,
+      "latitude": 1.2793,
+      "longitude": 103.8506,
+      "project_name": "Eon Shenton",
+      "property_type": "condo",
+      "psf_rent": 7.97
+    },
+    {
+      "address": "70 Shenton Way",
+      "id": 80,
+      "is_deal": false,
+      "latitude": 1.2793,
+      "longitude": 103.8506,
+      "project_name": "Eon Shenton",
+      "property_type": "condo",
+      "psf_rent": 8.18
+    },
+    {
+      "address": "",
+      "id": 258,
+      "is_deal": false,
+      "latitude": 1.2793,
+      "longitude": 103.8506,
+      "project_name": "Eon Shenton",
+      "property_type": "condo",
+      "psf_rent": 7.59
+    },
+    {
+      "address": "Jalan Eunos",
+      "id": 90,
+      "is_deal": false,
+      "latitude": 1.323545889119285,
+      "longitude": 103.9054544305048,
+      "project_name": "euHabitat",
+      "property_type": "Condo",
+      "psf_rent": 5.74
+    },
+    {
+      "address": "Bedok Reservoir Road",
+      "id": 107,
+      "is_deal": false,
+      "latitude": 1.337019215980536,
+      "longitude": 103.9215765892653,
+      "project_name": "EUNOS GROVE",
+      "property_type": "N.a",
+      "psf_rent": 7.2
+    },
+    {
+      "address": "Bedok Reservoir Road",
+      "id": 413,
+      "is_deal": false,
+      "latitude": 1.337019215980536,
+      "longitude": 103.9215765892653,
+      "project_name": "Eunos Vista",
+      "property_type": "HDB Executive",
+      "psf_rent": 7.08
+    },
+    {
+      "address": "",
+      "id": 335,
+      "is_deal": false,
+      "latitude": 1.294771724478152,
+      "longitude": 103.8376933084597,
+      "project_name": "Euro-Asia Court",
+      "property_type": "condo",
+      "psf_rent": 10.0
+    },
+    {
+      "address": "",
+      "id": 339,
+      "is_deal": false,
+      "latitude": 1.294771724478152,
+      "longitude": 103.8376933084597,
+      "project_name": "Euro-Asia Court",
+      "property_type": "condo",
+      "psf_rent": 12.5
+    },
+    {
+      "address": "31 Hougang Avenue 7",
+      "id": 200,
+      "is_deal": false,
+      "latitude": 1.368493813316481,
+      "longitude": 103.8991176753399,
+      "project_name": "Evergreen Park",
+      "property_type": "condo",
+      "psf_rent": 6.67
+    },
+    {
+      "address": "Lorong 36 Geylang",
+      "id": 401,
+      "is_deal": false,
+      "latitude": 1.313051377908847,
+      "longitude": 103.8884664174675,
+      "project_name": "Evergreen View",
+      "property_type": "Condo",
+      "psf_rent": 3.78
+    },
+    {
+      "address": "Joo Chiat Place",
+      "id": 478,
+      "is_deal": false,
+      "latitude": 1.314425804240032,
+      "longitude": 103.9071856672838,
+      "project_name": "Everitt Edge",
+      "property_type": "Condo",
+      "psf_rent": 4.81
+    },
+    {
+      "address": "8 Angklong Lane",
+      "id": 17,
+      "is_deal": false,
+      "latitude": 1.363373515382338,
+      "longitude": 103.8313099876367,
+      "project_name": "Faber Garden Condominium",
+      "property_type": "condo",
+      "psf_rent": 17.0
+    },
+    {
+      "address": "1 Ang Mo Kio Avenue 9",
+      "id": 9,
+      "is_deal": false,
+      "latitude": 1.383208774450535,
+      "longitude": 103.8385515456974,
+      "project_name": "Far Horizon Gardens",
+      "property_type": "condo",
+      "psf_rent": 9.75
+    },
+    {
+      "address": "Fernvale Link",
+      "id": 123,
+      "is_deal": false,
+      "latitude": 1.394005596255054,
+      "longitude": 103.8790725927071,
+      "project_name": "Fernvale Gardens",
+      "property_type": "4 Room",
+      "psf_rent": 3.43
+    },
+    {
+      "address": "Fernvale Link",
+      "id": 428,
+      "is_deal": false,
+      "latitude": 1.394005596255054,
+      "longitude": 103.8790725927071,
+      "project_name": "Fernvale Lea",
+      "property_type": "N.a",
+      "psf_rent": 3.5
+    },
+    {
+      "address": "Fernvale Street",
+      "id": 448,
+      "is_deal": false,
+      "latitude": 1.398495986146642,
+      "longitude": 103.8784467185967,
+      "project_name": "Fernvale Rivergrove",
+      "property_type": "4 Room",
+      "psf_rent": 15.0
+    },
+    {
+      "address": "Fernvale Road",
+      "id": 435,
+      "is_deal": false,
+      "latitude": 1.393432439217554,
+      "longitude": 103.8758406549005,
+      "project_name": "Fern View",
+      "property_type": "4 Room",
+      "psf_rent": 8.0
+    },
+    {
+      "address": "Woodlands Drive 16",
+      "id": 490,
+      "is_deal": false,
+      "latitude": 1.430174357149012,
+      "longitude": 103.794645441841,
+      "project_name": "Forestville",
+      "property_type": "Condo",
+      "psf_rent": 3.9
+    },
+    {
+      "address": "Strathmore Avenue",
+      "id": 111,
+      "is_deal": false,
+      "latitude": 1.293977630506234,
+      "longitude": 103.809263545465,
+      "project_name": "Forfar Heights",
+      "property_type": "4 Room",
+      "psf_rent": 7.5
+    },
+    {
+      "address": "Jurong West Street 73",
+      "id": 102,
+      "is_deal": false,
+      "latitude": 1.347137193244213,
+      "longitude": 103.6998189234664,
+      "project_name": "Gek Poh Ville",
+      "property_type": "4 Room",
+      "psf_rent": 4.97
+    },
+    {
+      "address": "Hillview Avenue",
+      "id": 493,
+      "is_deal": false,
+      "latitude": 1.35734727348719,
+      "longitude": 103.7624591205815,
+      "project_name": "Glendale Park",
+      "property_type": "Condo",
+      "psf_rent": 10.83
+    },
+    {
+      "address": "Lorong 22 Geylang",
+      "id": 130,
+      "is_deal": false,
+      "latitude": 1.311784735345393,
+      "longitude": 103.8821476320958,
+      "project_name": "Grandview Suites",
+      "property_type": "Condo",
+      "psf_rent": 6.67
+    },
+    {
+      "address": "Greenwood Avenue",
+      "id": 470,
+      "is_deal": false,
+      "latitude": 1.333985333140214,
+      "longitude": 103.8051183558496,
+      "project_name": "Greenwood Mews",
+      "property_type": "Cluster House",
+      "psf_rent": 3.81
+    },
+    {
+      "address": "Lorong 30 Geylang",
+      "id": 474,
+      "is_deal": false,
+      "latitude": 1.312630200851672,
+      "longitude": 103.886319562745,
+      "project_name": "Guillemard Edge",
+      "property_type": "Condo",
+      "psf_rent": 6.85
+    },
+    {
+      "address": "213 Guillemard Road",
+      "id": 19,
+      "is_deal": false,
+      "latitude": 1.310945218527262,
+      "longitude": 103.8827210977206,
+      "project_name": "Guillemard Suites",
+      "property_type": "apartment",
+      "psf_rent": 8.75
+    },
+    {
+      "address": "213 Guillemard Road",
+      "id": 30,
+      "is_deal": false,
+      "latitude": 1.310945218527262,
+      "longitude": 103.8827210977206,
+      "project_name": "Guillemard Suites",
+      "property_type": "apartment",
+      "psf_rent": 4.72
+    },
+    {
+      "address": "522 KAMPONG BAHRU ROAD",
+      "id": 36,
+      "is_deal": false,
+      "latitude": 1.272242892884647,
+      "longitude": 103.827478990765,
+      "project_name": "Harbour Suites @ Kampong Bahru",
+      "property_type": "condo",
+      "psf_rent": 6.26
+    },
+    {
+      "address": "Hougang Avenue 10",
+      "id": 399,
+      "is_deal": false,
+      "latitude": 1.375177521017168,
+      "longitude": 103.8953960520487,
+      "project_name": "Harmony View",
+      "property_type": "4 Room",
+      "psf_rent": 6.5
+    },
+    {
+      "address": "Ardmore Park",
+      "id": 392,
+      "is_deal": false,
+      "latitude": 1.309745257488216,
+      "longitude": 103.8301150360156,
+      "project_name": "Heritage Apartments",
+      "property_type": "Condo",
+      "psf_rent": 5.12
+    },
+    {
+      "address": "",
+      "id": 460,
+      "is_deal": false,
+      "latitude": 1.289988695531654,
+      "longitude": 103.8492171294392,
+      "project_name": "High Street Centre",
+      "property_type": "condo",
+      "psf_rent": 9.49
+    },
+    {
+      "address": "Hillcrest Road",
+      "id": 116,
+      "is_deal": false,
+      "latitude": 1.331671124565281,
+      "longitude": 103.8076490201809,
+      "project_name": "Hillcrest Park",
+      "property_type": "Semi-detached",
+      "psf_rent": 3.33
+    },
+    {
+      "address": "Hillcrest Road",
+      "id": 438,
+      "is_deal": false,
+      "latitude": 1.331671124565281,
+      "longitude": 103.8076490201809,
+      "project_name": "Hillcrest Villa",
+      "property_type": "Condo",
+      "psf_rent": 11.11
+    },
+    {
+      "address": "Jelebu Road",
+      "id": 487,
+      "is_deal": false,
+      "latitude": 1.379451641276318,
+      "longitude": 103.7640941486504,
+      "project_name": "Hillion Residences",
+      "property_type": "Condo",
+      "psf_rent": 6.54
+    },
+    {
+      "address": "",
+      "id": 311,
+      "is_deal": false,
+      "latitude": 1.296739267753688,
+      "longitude": 103.8427018283975,
+      "project_name": "Hollywood Apartments",
+      "property_type": "condo",
+      "psf_rent": 4.55
+    },
+    {
+      "address": "Lorong Pisang Raja",
+      "id": 529,
+      "is_deal": false,
+      "latitude": 1.343044507384365,
+      "longitude": 103.772822284957,
+      "project_name": "Hoover Park",
+      "property_type": "N.a",
+      "psf_rent": 2.31
+    },
+    {
+      "address": "Buangkok Green",
+      "id": 397,
+      "is_deal": false,
+      "latitude": 1.379232916709221,
+      "longitude": 103.8827131963014,
+      "project_name": "Hougang Green",
+      "property_type": "Condo",
+      "psf_rent": 4.45
+    },
+    {
+      "address": "10 Gopeng Street",
+      "id": 66,
+      "is_deal": false,
+      "latitude": 1.275169975779209,
+      "longitude": 103.8444963126445,
+      "project_name": "Icon",
+      "property_type": "apartment",
+      "psf_rent": 6.39
+    },
+    {
+      "address": "10 Gopeng Street",
+      "id": 183,
+      "is_deal": false,
+      "latitude": 1.275169975779209,
+      "longitude": 103.8444963126445,
+      "project_name": "Icon",
+      "property_type": "apartment",
+      "psf_rent": 7.1
+    },
+    {
+      "address": "",
+      "id": 255,
+      "is_deal": false,
+      "latitude": 1.275169975779209,
+      "longitude": 103.8444963126445,
+      "project_name": "Icon",
+      "property_type": "condo",
+      "psf_rent": 8.04
+    },
+    {
+      "address": "",
+      "id": 281,
+      "is_deal": false,
+      "latitude": 1.275169975779209,
+      "longitude": 103.8444963126445,
+      "project_name": "Icon",
+      "property_type": "condo",
+      "psf_rent": 6.08
+    },
+    {
+      "address": "",
+      "id": 284,
+      "is_deal": false,
+      "latitude": 1.275169975779209,
+      "longitude": 103.8444963126445,
+      "project_name": "Icon",
+      "property_type": "condo",
+      "psf_rent": 4.83
+    },
+    {
+      "address": "",
+      "id": 319,
+      "is_deal": false,
+      "latitude": 1.275169975779209,
+      "longitude": 103.8444963126445,
+      "project_name": "Icon",
+      "property_type": "condo",
+      "psf_rent": 6.89
+    },
+    {
+      "address": "",
+      "id": 356,
+      "is_deal": false,
+      "latitude": 1.275169975779209,
+      "longitude": 103.8444963126445,
+      "project_name": "Icon",
+      "property_type": "condo",
+      "psf_rent": 6.85
+    },
+    {
+      "address": "Gopeng Street",
+      "id": 488,
+      "is_deal": false,
+      "latitude": 1.275480145094481,
+      "longitude": 103.8445330001633,
+      "project_name": "Icon",
+      "property_type": "Condo",
+      "psf_rent": 7.43
+    },
+    {
+      "address": "10 Anson Road",
+      "id": 42,
+      "is_deal": false,
+      "latitude": 1.275735681431338,
+      "longitude": 103.8457032186009,
+      "project_name": "International Plaza",
+      "property_type": "apartment",
+      "psf_rent": 8.12
+    },
+    {
+      "address": "",
+      "id": 250,
+      "is_deal": false,
+      "latitude": 1.27588674266837,
+      "longitude": 103.845923793168,
+      "project_name": "International Plaza",
+      "property_type": "condo",
+      "psf_rent": 10.68
+    },
+    {
+      "address": "",
+      "id": 274,
+      "is_deal": false,
+      "latitude": 1.27588674266837,
+      "longitude": 103.845923793168,
+      "project_name": "International Plaza",
+      "property_type": "condo",
+      "psf_rent": 8.92
+    },
+    {
+      "address": "",
+      "id": 283,
+      "is_deal": false,
+      "latitude": 1.27588674266837,
+      "longitude": 103.845923793168,
+      "project_name": "International Plaza",
+      "property_type": "condo",
+      "psf_rent": 10.67
+    },
+    {
+      "address": "",
+      "id": 327,
+      "is_deal": false,
+      "latitude": 1.27588674266837,
+      "longitude": 103.845923793168,
+      "project_name": "International Plaza",
+      "property_type": "condo",
+      "psf_rent": 8.12
+    },
+    {
+      "address": "",
+      "id": 353,
+      "is_deal": false,
+      "latitude": 1.27588674266837,
+      "longitude": 103.845923793168,
+      "project_name": "International Plaza",
+      "property_type": "condo",
+      "psf_rent": 15.0
+    },
+    {
+      "address": "Compassvale Bow",
+      "id": 520,
+      "is_deal": false,
+      "latitude": 1.381481404458773,
+      "longitude": 103.893536162573,
+      "project_name": "Jewel @ Buangkok",
+      "property_type": "Condo",
+      "psf_rent": 6.7
+    },
+    {
+      "address": "Upper Boon Keng Road",
+      "id": 412,
+      "is_deal": false,
+      "latitude": 1.314268217951121,
+      "longitude": 103.8718119279332,
+      "project_name": "Kallang Heights",
+      "property_type": "5 Room",
+      "psf_rent": 6.0
+    },
+    {
+      "address": "Upper Boon Keng Road",
+      "id": 436,
+      "is_deal": false,
+      "latitude": 1.314268217951121,
+      "longitude": 103.8718119279332,
+      "project_name": "Kallang Heights",
+      "property_type": "4 Room",
+      "psf_rent": 7.14
+    },
+    {
+      "address": "King Albert Park",
+      "id": 389,
+      "is_deal": false,
+      "latitude": 1.336573517596939,
+      "longitude": 103.7802972559812,
+      "project_name": "Kap Residences",
+      "property_type": "Condo",
+      "psf_rent": 6.34
+    },
+    {
+      "address": "Kellett Court",
+      "id": 454,
+      "is_deal": false,
+      "latitude": 1.3274603,
+      "longitude": 103.8121311,
+      "project_name": "Kellett Court",
+      "property_type": "Condo",
+      "psf_rent": 5.66
+    },
+    {
+      "address": "Sturdee Road",
+      "id": 396,
+      "is_deal": false,
+      "latitude": 1.312713569316958,
+      "longitude": 103.8586726448454,
+      "project_name": "Kerrisdale",
+      "property_type": "Condo",
+      "psf_rent": 13.04
+    },
+    {
+      "address": "Kheam Hock Road",
+      "id": 129,
+      "is_deal": false,
+      "latitude": 1.322852994090365,
+      "longitude": 103.8199112182506,
+      "project_name": "Kheam Hock Gardens",
+      "property_type": "Condo",
+      "psf_rent": 4.33
+    },
+    {
+      "address": "",
+      "id": 320,
+      "is_deal": false,
+      "latitude": 1.283738407010132,
+      "longitude": 103.8441280036763,
+      "project_name": "Kreta Ayer Conservation Area",
+      "property_type": "condo",
+      "psf_rent": 13.0
+    },
+    {
+      "address": "Lorong K Telok Kurau",
+      "id": 484,
+      "is_deal": false,
+      "latitude": 1.312979883610526,
+      "longitude": 103.911291785566,
+      "project_name": "K Suites",
+      "property_type": "Condo",
+      "psf_rent": 7.38
+    },
+    {
+      "address": "Lorong K Telok Kurau",
+      "id": 485,
+      "is_deal": false,
+      "latitude": 1.312979883610526,
+      "longitude": 103.911291785566,
+      "project_name": "K Suites",
+      "property_type": "Condo",
+      "psf_rent": 8.03
+    },
+    {
+      "address": "Lorong K Telok Kurau",
+      "id": 486,
+      "is_deal": false,
+      "latitude": 1.312979883610526,
+      "longitude": 103.911291785566,
+      "project_name": "K Suites",
+      "property_type": "Condo",
+      "psf_rent": 6.97
+    },
+    {
+      "address": "5000L Marine Parade Road",
+      "id": 12,
+      "is_deal": false,
+      "latitude": 1.309454423339153,
+      "longitude": 103.933490235192,
+      "project_name": "Lagoon View",
+      "property_type": "apartment",
+      "psf_rent": 4.67
+    },
+    {
+      "address": "5000K Marine Parade Road",
+      "id": 18,
+      "is_deal": false,
+      "latitude": 1.309146462806371,
+      "longitude": 103.9327156594235,
+      "project_name": "Lagoon View",
+      "property_type": "apartment",
+      "psf_rent": 7.73
+    },
+    {
+      "address": "MARINE PARADE ROAD",
+      "id": 414,
+      "is_deal": false,
+      "latitude": 1.307475592456415,
+      "longitude": 103.9181091490435,
+      "project_name": "Laguna Park",
+      "property_type": "Condo",
+      "psf_rent": 6.82
+    },
+    {
+      "address": "",
+      "id": 323,
+      "is_deal": false,
+      "latitude": 1.294926036511917,
+      "longitude": 103.8389471849382,
+      "project_name": "Langston Ville",
+      "property_type": "condo",
+      "psf_rent": 10.53
+    },
+    {
+      "address": "Leedon Heights",
+      "id": 482,
+      "is_deal": false,
+      "latitude": 1.313764725211268,
+      "longitude": 103.8028839638641,
+      "project_name": "Leedon Residence",
+      "property_type": "Condo",
+      "psf_rent": 8.31
+    },
+    {
+      "address": "Lentor Central",
+      "id": 45,
+      "is_deal": false,
+      "latitude": 1.38559144181969,
+      "longitude": 103.8340124293166,
+      "project_name": "Lentor Modern",
+      "property_type": "condo",
+      "psf_rent": 6.83
+    },
+    {
+      "address": "Lentor Central",
+      "id": 53,
+      "is_deal": false,
+      "latitude": 1.38559144181969,
+      "longitude": 103.8340124293166,
+      "project_name": "Lentor Modern",
+      "property_type": "condo",
+      "psf_rent": 5.6
+    },
+    {
+      "address": "Pasir Ris Grove",
+      "id": 128,
+      "is_deal": false,
+      "latitude": 1.371053499516786,
+      "longitude": 103.9452913385157,
+      "project_name": "Livia",
+      "property_type": "Condo",
+      "psf_rent": 8.0
+    },
+    {
+      "address": "114A Arthur Road",
+      "id": 77,
+      "is_deal": false,
+      "latitude": 1.300262200579641,
+      "longitude": 103.8880919768421,
+      "project_name": "LIV @ MB",
+      "property_type": "condo",
+      "psf_rent": 8.32
+    },
+    {
+      "address": "2 Mistri Road",
+      "id": 49,
+      "is_deal": false,
+      "latitude": 1.274262456853353,
+      "longitude": 103.8460250873715,
+      "project_name": "Lumiere",
+      "property_type": "apartment",
+      "psf_rent": 7.11
+    },
+    {
+      "address": "Mistri Road",
+      "id": 122,
+      "is_deal": false,
+      "latitude": 1.273984077284879,
+      "longitude": 103.8460861949032,
+      "project_name": "Lumiere",
+      "property_type": "Condo",
+      "psf_rent": 6.78
+    },
+    {
+      "address": "",
+      "id": 324,
+      "is_deal": false,
+      "latitude": 1.274262456853353,
+      "longitude": 103.8460250873715,
+      "project_name": "Lumiere",
+      "property_type": "condo",
+      "psf_rent": 6.78
+    },
+    {
+      "address": "Fernvale Close",
+      "id": 496,
+      "is_deal": false,
+      "latitude": 1.394453209646591,
+      "longitude": 103.8799112710284,
+      "project_name": "Lush Acres",
+      "property_type": "Condo",
+      "psf_rent": 5.5
+    },
+    {
+      "address": "",
+      "id": 252,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Marina Bay Residences",
+      "property_type": "condo",
+      "psf_rent": 7.08
+    },
+    {
+      "address": "MARINA BOULEVARD",
+      "id": 165,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "MARINA BAY RESIDENCES",
+      "property_type": "condo",
+      "psf_rent": 7.84
+    },
+    {
+      "address": "3 Central Boulevard",
+      "id": 189,
+      "is_deal": false,
+      "latitude": 1.280344979995934,
+      "longitude": 103.8521432776714,
+      "project_name": "Marina Bay Suites",
+      "property_type": "condo",
+      "psf_rent": 7.82
+    },
+    {
+      "address": "23 Marina Way",
+      "id": 214,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Marina One Residences",
+      "property_type": "condo",
+      "psf_rent": 6.0
+    },
+    {
+      "address": "21 Marina Way",
+      "id": 218,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Marina One Residences",
+      "property_type": "condo",
+      "psf_rent": 6.43
+    },
+    {
+      "address": "23 Marina Way",
+      "id": 219,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Marina One Residences",
+      "property_type": "condo",
+      "psf_rent": 6.34
+    },
+    {
+      "address": "23 Marina Way",
+      "id": 220,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Marina One Residences",
+      "property_type": "condo",
+      "psf_rent": 6.19
+    },
+    {
+      "address": "21 Marina Way",
+      "id": 224,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Marina One Residences",
+      "property_type": "condo",
+      "psf_rent": 6.76
+    },
+    {
+      "address": "",
+      "id": 280,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Marina One Residences",
+      "property_type": "condo",
+      "psf_rent": 7.4
+    },
+    {
+      "address": "",
+      "id": 344,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Marina One Residences",
+      "property_type": "condo",
+      "psf_rent": 6.97
+    },
+    {
+      "address": "",
+      "id": 466,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Marina One Residences",
+      "property_type": "condo",
+      "psf_rent": 7.14
+    },
+    {
+      "address": "Marina Way",
+      "id": 481,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "Marina One Residences",
+      "property_type": "Condo",
+      "psf_rent": 6.88
+    },
+    {
+      "address": "Marina Way",
+      "id": 167,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "MARINA ONE RESIDENCES",
+      "property_type": "condo",
+      "psf_rent": 7.13
+    },
+    {
+      "address": "Marina Way",
+      "id": 170,
+      "is_deal": false,
+      "latitude": 1.2767,
+      "longitude": 103.8533,
+      "project_name": "MARINA ONE RESIDENCES",
+      "property_type": "condo",
+      "psf_rent": 6.76
+    },
+    {
+      "address": "",
+      "id": 342,
+      "is_deal": false,
+      "latitude": 1.293037367083449,
+      "longitude": 103.8377728112416,
+      "project_name": "Martin Modern",
+      "property_type": "condo",
+      "psf_rent": 8.38
+    },
+    {
+      "address": "",
+      "id": 456,
+      "is_deal": false,
+      "latitude": 1.293037367083449,
+      "longitude": 103.8377728112416,
+      "project_name": "Martin Modern",
+      "property_type": "condo",
+      "psf_rent": 9.62
+    },
+    {
+      "address": "Ang Mo Kio Avenue 4",
+      "id": 139,
+      "is_deal": false,
+      "latitude": 1.376479519345503,
+      "longitude": 103.8394580245111,
+      "project_name": "Mayflower Shopping & Food Centre",
+      "property_type": "3 Room",
+      "psf_rent": 4.04
+    },
+    {
+      "address": "Petir Road",
+      "id": 104,
+      "is_deal": false,
+      "latitude": 1.374821441745834,
+      "longitude": 103.771091373899,
+      "project_name": "Maysprings",
+      "property_type": "Condo",
+      "psf_rent": 9.67
+    },
+    {
+      "address": "Simei Street 1",
+      "id": 152,
+      "is_deal": false,
+      "latitude": 1.345296760141964,
+      "longitude": 103.954074790868,
+      "project_name": "Melville Park",
+      "property_type": "Condo",
+      "psf_rent": 3.9
+    },
+    {
+      "address": "Simei Street 1",
+      "id": 526,
+      "is_deal": false,
+      "latitude": 1.345296760141964,
+      "longitude": 103.954074790868,
+      "project_name": "Melville Park",
+      "property_type": "Condo",
+      "psf_rent": 8.33
+    },
+    {
+      "address": "Meyer Road",
+      "id": 480,
+      "is_deal": false,
+      "latitude": 1.29714903909436,
+      "longitude": 103.8914082597243,
+      "project_name": "Meyerhouse",
+      "property_type": "Condo",
+      "psf_rent": 7.94
+    },
+    {
+      "address": "Meyer Place",
+      "id": 476,
+      "is_deal": false,
+      "latitude": 1.298635423420946,
+      "longitude": 103.8864895793611,
+      "project_name": "Meyer Residence",
+      "property_type": "Condo",
+      "psf_rent": 5.75
+    },
+    {
+      "address": "West Coast Rise",
+      "id": 434,
+      "is_deal": false,
+      "latitude": 1.315747674791568,
+      "longitude": 103.7535879959261,
+      "project_name": "Monterey Park Condominium",
+      "property_type": "Condo",
+      "psf_rent": 8.6
+    },
+    {
+      "address": "Anson Road",
+      "id": 100,
+      "is_deal": false,
+      "latitude": 1.274622454168776,
+      "longitude": 103.8455254265378,
+      "project_name": "Newport Plaza / Newport Residences / Newport Tower",
+      "property_type": "Condo",
+      "psf_rent": 7.1
+    },
+    {
+      "address": "Normanton Park",
+      "id": 503,
+      "is_deal": false,
+      "latitude": 1.287365303763654,
+      "longitude": 103.7921424402376,
+      "project_name": "Normanton Park",
+      "property_type": "Condo",
+      "psf_rent": 6.36
+    },
+    {
+      "address": "Pasir Ris Grove",
+      "id": 437,
+      "is_deal": false,
+      "latitude": 1.371053499516786,
+      "longitude": 103.9452913385157,
+      "project_name": "NV Residences",
+      "property_type": "Condo",
+      "psf_rent": 3.54
+    },
+    {
+      "address": "1 Bernam Street",
+      "id": 63,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "condo",
+      "psf_rent": 9.27
+    },
+    {
+      "address": "1 Bernam Street",
+      "id": 75,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "condo",
+      "psf_rent": 9.29
+    },
+    {
+      "address": "Bernam Street",
+      "id": 110,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "Condo",
+      "psf_rent": 9.29
+    },
+    {
+      "address": "1 Bernam Street",
+      "id": 182,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "condo",
+      "psf_rent": 7.24
+    },
+    {
+      "address": "",
+      "id": 259,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "condo",
+      "psf_rent": 7.43
+    },
+    {
+      "address": "",
+      "id": 262,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "condo",
+      "psf_rent": 8.2
+    },
+    {
+      "address": "",
+      "id": 275,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "condo",
+      "psf_rent": 7.24
+    },
+    {
+      "address": "",
+      "id": 287,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "condo",
+      "psf_rent": 8.8
+    },
+    {
+      "address": "",
+      "id": 299,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "condo",
+      "psf_rent": 9.29
+    },
+    {
+      "address": "",
+      "id": 321,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "condo",
+      "psf_rent": 9.29
+    },
+    {
+      "address": "",
+      "id": 462,
+      "is_deal": false,
+      "latitude": 1.2739,
+      "longitude": 103.8437,
+      "project_name": "One Bernam",
+      "property_type": "condo",
+      "psf_rent": 7.14
+    },
+    {
+      "address": "1 Jalan Dusun",
+      "id": 34,
+      "is_deal": false,
+      "latitude": 1.326965398644829,
+      "longitude": 103.8436742309694,
+      "project_name": "One Dusun Residences",
+      "property_type": "condo",
+      "psf_rent": 7.08
+    },
+    {
+      "address": "Holland Village Way",
+      "id": 415,
+      "is_deal": false,
+      "latitude": 1.310708371448328,
+      "longitude": 103.7938904393706,
+      "project_name": "One Holland Village Residences",
+      "property_type": "Condo",
+      "psf_rent": 8.26
+    },
+    {
+      "address": "1 Pearl Bank",
+      "id": 74,
+      "is_deal": false,
+      "latitude": 1.282961486595894,
+      "longitude": 103.839814598308,
+      "project_name": "One Pearl Bank",
+      "property_type": "condo",
+      "psf_rent": 8.16
+    },
+    {
+      "address": "",
+      "id": 313,
+      "is_deal": false,
+      "latitude": 1.282961486595894,
+      "longitude": 103.839814598308,
+      "project_name": "One Pearl Bank",
+      "property_type": "condo",
+      "psf_rent": 8.92
+    },
+    {
+      "address": "",
+      "id": 326,
+      "is_deal": false,
+      "latitude": 1.282961486595894,
+      "longitude": 103.839814598308,
+      "project_name": "One Pearl Bank",
+      "property_type": "condo",
+      "psf_rent": 8.58
+    },
+    {
+      "address": "",
+      "id": 330,
+      "is_deal": false,
+      "latitude": 1.282961486595894,
+      "longitude": 103.839814598308,
+      "project_name": "One Pearl Bank",
+      "property_type": "condo",
+      "psf_rent": 8.7
+    },
+    {
+      "address": "",
+      "id": 332,
+      "is_deal": false,
+      "latitude": 1.282961486595894,
+      "longitude": 103.839814598308,
+      "project_name": "One Pearl Bank",
+      "property_type": "condo",
+      "psf_rent": 6.94
+    },
+    {
+      "address": "",
+      "id": 363,
+      "is_deal": false,
+      "latitude": 1.282961486595894,
+      "longitude": 103.839814598308,
+      "project_name": "One Pearl Bank",
+      "property_type": "condo",
+      "psf_rent": 8.13
+    },
+    {
+      "address": "Pearl Bank",
+      "id": 429,
+      "is_deal": false,
+      "latitude": 1.282961486595894,
+      "longitude": 103.839814598308,
+      "project_name": "One Pearl Bank",
+      "property_type": "Condo",
+      "psf_rent": 8.13
+    },
+    {
+      "address": "1 Shenton Way",
+      "id": 57,
+      "is_deal": false,
+      "latitude": 1.2793,
+      "longitude": 103.8506,
+      "project_name": "One Shenton",
+      "property_type": "condo",
+      "psf_rent": 7.45
+    },
+    {
+      "address": "1 Shenton Way",
+      "id": 58,
+      "is_deal": false,
+      "latitude": 1.2793,
+      "longitude": 103.8506,
+      "project_name": "One Shenton",
+      "property_type": "condo",
+      "psf_rent": 7.43
+    },
+    {
+      "address": "1 Shenton Way",
+      "id": 76,
+      "is_deal": false,
+      "latitude": 1.2793,
+      "longitude": 103.8506,
+      "project_name": "One Shenton",
+      "property_type": "condo",
+      "psf_rent": 6.99
+    },
+    {
+      "address": "1 Shenton Way",
+      "id": 78,
+      "is_deal": false,
+      "latitude": 1.2793,
+      "longitude": 103.8506,
+      "project_name": "One Shenton",
+      "property_type": "condo",
+      "psf_rent": 7.0
+    },
+    {
+      "address": "",
+      "id": 271,
+      "is_deal": false,
+      "latitude": 1.2793,
+      "longitude": 103.8506,
+      "project_name": "One Shenton",
+      "property_type": "condo",
+      "psf_rent": 7.46
+    },
+    {
+      "address": "Shenton Way",
+      "id": 407,
+      "is_deal": false,
+      "latitude": 1.2793,
+      "longitude": 103.8506,
+      "project_name": "One Shenton",
+      "property_type": "Condo",
+      "psf_rent": 7.46
+    },
+    {
+      "address": "Shenton Way",
+      "id": 171,
+      "is_deal": false,
+      "latitude": 1.2793,
+      "longitude": 103.8506,
+      "project_name": "ONE SHENTON",
+      "property_type": "condo",
+      "psf_rent": 7.45
+    },
+    {
+      "address": "Yishun Avenue 11",
+      "id": 455,
+      "is_deal": false,
+      "latitude": 1.424616890187493,
+      "longitude": 103.8446282668013,
+      "project_name": "Orchid Spring @ Yishun",
+      "property_type": "4 Room",
+      "psf_rent": 3.89
+    },
+    {
+      "address": "Vanda Drive",
+      "id": 425,
+      "is_deal": false,
+      "latitude": 1.332411687013543,
+      "longitude": 103.7998864539583,
+      "project_name": "Orchid Village",
+      "property_type": "Semi-detached",
+      "psf_rent": 3.13
+    },
+    {
+      "address": "Flora Drive",
+      "id": 453,
+      "is_deal": false,
+      "latitude": 1.356478425661016,
+      "longitude": 103.9653854950318,
+      "project_name": "Palm Isles",
+      "property_type": "Condo",
+      "psf_rent": 5.36
+    },
+    {
+      "address": "Pandan Valley",
+      "id": 97,
+      "is_deal": false,
+      "latitude": 1.319141639411651,
+      "longitude": 103.7771271101239,
+      "project_name": "Pandan Valley",
+      "property_type": "Condo",
+      "psf_rent": 13.25
+    },
+    {
+      "address": "Pandan Valley",
+      "id": 98,
+      "is_deal": false,
+      "latitude": 1.319141639411651,
+      "longitude": 103.7771271101239,
+      "project_name": "Pandan Valley",
+      "property_type": "Condo",
+      "psf_rent": 6.09
+    },
+    {
+      "address": "Pandan Valley",
+      "id": 513,
+      "is_deal": false,
+      "latitude": 1.319141639411651,
+      "longitude": 103.7771271101239,
+      "project_name": "Pandan Valley",
+      "property_type": "Condo",
+      "psf_rent": 10.0
+    },
+    {
+      "address": "Pandan Valley",
+      "id": 514,
+      "is_deal": false,
+      "latitude": 1.319141639411651,
+      "longitude": 103.7771271101239,
+      "project_name": "Pandan Valley",
+      "property_type": "Condo",
+      "psf_rent": 6.67
+    },
+    {
+      "address": "Punggol Central",
+      "id": 117,
+      "is_deal": false,
+      "latitude": 1.402261121144083,
+      "longitude": 103.9070528794141,
+      "project_name": "Parc Centros",
+      "property_type": "Condo",
+      "psf_rent": 4.36
+    },
+    {
+      "address": "Tengah Park Avenue",
+      "id": 495,
+      "is_deal": false,
+      "latitude": 1.362572232757731,
+      "longitude": 103.7374273633646,
+      "project_name": "Parc Glen @ Tengah",
+      "property_type": "4 Room",
+      "psf_rent": 9.09
+    },
+    {
+      "address": "12 Lorong Limau",
+      "id": 27,
+      "is_deal": false,
+      "latitude": 1.324368361244383,
+      "longitude": 103.8542194510617,
+      "project_name": "Parc Haven",
+      "property_type": "condo",
+      "psf_rent": 5.75
+    },
+    {
+      "address": "Sembawang Crescent",
+      "id": 421,
+      "is_deal": false,
+      "latitude": 1.444742071767306,
+      "longitude": 103.8167028348471,
+      "project_name": "Parc Life",
+      "property_type": "Condo",
+      "psf_rent": 4.36
+    },
+    {
+      "address": "Hume Avenue",
+      "id": 517,
+      "is_deal": false,
+      "latitude": 1.35720574175945,
+      "longitude": 103.7672424992075,
+      "project_name": "Parc Palais",
+      "property_type": "Condo",
+      "psf_rent": 4.13
+    },
+    {
+      "address": "Lorong 40 Geylang",
+      "id": 475,
+      "is_deal": false,
+      "latitude": 1.313402037665284,
+      "longitude": 103.8898476089255,
+      "project_name": "Park 1 Suites",
+      "property_type": "Condo",
+      "psf_rent": 16.25
+    },
+    {
+      "address": "Pasir Ris Drive 8",
+      "id": 445,
+      "is_deal": false,
+      "latitude": 1.371408144607243,
+      "longitude": 103.9471470667985,
+      "project_name": "Pasir Ris 8",
+      "property_type": "Condo",
+      "psf_rent": 23.0
+    },
+    {
+      "address": "Bassein Road",
+      "id": 388,
+      "is_deal": false,
+      "latitude": 1.323315903551131,
+      "longitude": 103.8480876726349,
+      "project_name": "Pastoral View",
+      "property_type": "Condo",
+      "psf_rent": 5.29
+    },
+    {
+      "address": "Jalan Usaha",
+      "id": 118,
+      "is_deal": false,
+      "latitude": 1.345256830745961,
+      "longitude": 103.8829873273853,
+      "project_name": "Paya Lebar Gardens",
+      "property_type": "Semi-detached",
+      "psf_rent": 12.5
+    },
+    {
+      "address": "",
+      "id": 296,
+      "is_deal": false,
+      "latitude": 1.285770099818055,
+      "longitude": 103.8439801228374,
+      "project_name": "People's Park Centre",
+      "property_type": "condo",
+      "psf_rent": 8.12
+    },
+    {
+      "address": "",
+      "id": 248,
+      "is_deal": false,
+      "latitude": 1.284133971784198,
+      "longitude": 103.8425199726656,
+      "project_name": "People's Park Complex",
+      "property_type": "condo",
+      "psf_rent": 13.8
+    },
+    {
+      "address": "",
+      "id": 253,
+      "is_deal": false,
+      "latitude": 1.284133971784198,
+      "longitude": 103.8425199726656,
+      "project_name": "People's Park Complex",
+      "property_type": "condo",
+      "psf_rent": 12.0
+    },
+    {
+      "address": "",
+      "id": 267,
+      "is_deal": false,
+      "latitude": 1.284133971784198,
+      "longitude": 103.8425199726656,
+      "project_name": "People's Park Complex",
+      "property_type": "condo",
+      "psf_rent": 9.5
+    },
+    {
+      "address": "",
+      "id": 269,
+      "is_deal": false,
+      "latitude": 1.284133971784198,
+      "longitude": 103.8425199726656,
+      "project_name": "People's Park Complex",
+      "property_type": "condo",
+      "psf_rent": 5.43
+    },
+    {
+      "address": "",
+      "id": 289,
+      "is_deal": false,
+      "latitude": 1.284133971784198,
+      "longitude": 103.8425199726656,
+      "project_name": "People's Park Complex",
+      "property_type": "condo",
+      "psf_rent": 9.6
+    },
+    {
+      "address": "",
+      "id": 290,
+      "is_deal": false,
+      "latitude": 1.284133971784198,
+      "longitude": 103.8425199726656,
+      "project_name": "People's Park Complex",
+      "property_type": "condo",
+      "psf_rent": 9.61
+    },
+    {
+      "address": "",
+      "id": 291,
+      "is_deal": false,
+      "latitude": 1.284133971784198,
+      "longitude": 103.8425199726656,
+      "project_name": "People's Park Complex",
+      "property_type": "condo",
+      "psf_rent": 7.67
+    },
+    {
+      "address": "",
+      "id": 300,
+      "is_deal": false,
+      "latitude": 1.284133971784198,
+      "longitude": 103.8425199726656,
+      "project_name": "People's Park Complex",
+      "property_type": "condo",
+      "psf_rent": 9.17
+    },
+    {
+      "address": "",
+      "id": 301,
+      "is_deal": false,
+      "latitude": 1.284133971784198,
+      "longitude": 103.8425199726656,
+      "project_name": "People's Park Complex",
+      "property_type": "condo",
+      "psf_rent": 10.41
+    },
+    {
+      "address": "Park Road",
+      "id": 403,
+      "is_deal": false,
+      "latitude": 1.365024383763953,
+      "longitude": 104.0159817900915,
+      "project_name": "People's Park Complex",
+      "property_type": "Condo",
+      "psf_rent": 5.43
+    },
+    {
+      "address": "Park Road",
+      "id": 406,
+      "is_deal": false,
+      "latitude": 1.365024383763953,
+      "longitude": 104.0159817900915,
+      "project_name": "People's Park Complex",
+      "property_type": "Condo",
+      "psf_rent": 8.0
+    },
+    {
+      "address": "Park Road",
+      "id": 168,
+      "is_deal": false,
+      "latitude": 1.365024383763953,
+      "longitude": 104.0159817900915,
+      "project_name": "PEOPLE'S PARK COMPLEX",
+      "property_type": "condo",
+      "psf_rent": 14.29
+    },
+    {
+      "address": "Park Road",
+      "id": 172,
+      "is_deal": false,
+      "latitude": 1.365024383763953,
+      "longitude": 104.0159817900915,
+      "project_name": "PEOPLE'S PARK COMPLEX",
+      "property_type": "condo",
+      "psf_rent": 13.5
+    },
+    {
+      "address": "",
+      "id": 312,
+      "is_deal": false,
+      "latitude": 1.295352589865749,
+      "longitude": 103.8399049280784,
+      "project_name": "Pine Residences",
+      "property_type": "condo",
+      "psf_rent": 3.8
+    },
+    {
+      "address": "Tengah Drive",
+      "id": 92,
+      "is_deal": false,
+      "latitude": 1.360411010149706,
+      "longitude": 103.7352552181372,
+      "project_name": "Plantation Grove",
+      "property_type": "4 Room",
+      "psf_rent": 5.0
+    },
+    {
+      "address": "1 Tampines Street 86",
+      "id": 174,
+      "is_deal": false,
+      "latitude": 1.350210130287625,
+      "longitude": 103.9272745736649,
+      "project_name": "Q Bay Residences",
+      "property_type": "condo",
+      "psf_rent": 5.17
+    },
+    {
+      "address": "Stirling Road",
+      "id": 426,
+      "is_deal": false,
+      "latitude": 1.297520245176627,
+      "longitude": 103.8033321663798,
+      "project_name": "Queens",
+      "property_type": "Condo",
+      "psf_rent": 7.5
+    },
+    {
+      "address": "Stirling Road",
+      "id": 427,
+      "is_deal": false,
+      "latitude": 1.297520245176627,
+      "longitude": 103.8033321663798,
+      "project_name": "Queens",
+      "property_type": "Condo",
+      "psf_rent": 9.0
+    },
+    {
+      "address": "Stirling Road",
+      "id": 432,
+      "is_deal": false,
+      "latitude": 1.297520245176627,
+      "longitude": 103.8033321663798,
+      "project_name": "Queens",
+      "property_type": "Condo",
+      "psf_rent": 8.0
+    },
+    {
+      "address": "Keppel Bay View",
+      "id": 149,
+      "is_deal": false,
+      "latitude": 1.268461064709976,
+      "longitude": 103.8143717837373,
+      "project_name": "Reflections At Keppel Bay",
+      "property_type": "Condo",
+      "psf_rent": 5.2
+    },
+    {
+      "address": "Keppel Bay View",
+      "id": 424,
+      "is_deal": false,
+      "latitude": 1.268461064709976,
+      "longitude": 103.8143717837373,
+      "project_name": "Reflections At Keppel Bay",
+      "property_type": "Condo",
+      "psf_rent": 16.8
+    },
+    {
+      "address": "Choa Chu Kang North 7",
+      "id": 501,
+      "is_deal": false,
+      "latitude": 1.400719636379003,
+      "longitude": 103.7474478851691,
+      "project_name": "Regent Grove",
+      "property_type": "Condo",
+      "psf_rent": 7.22
+    },
+    {
+      "address": "Bukit Batok East Avenue 5",
+      "id": 85,
+      "is_deal": false,
+      "latitude": 1.35336633955728,
+      "longitude": 103.7549205175359,
+      "project_name": "Regent Heights",
+      "property_type": "Condo",
+      "psf_rent": 10.83
+    },
+    {
+      "address": "39 Lorong 24 Geylang",
+      "id": 41,
+      "is_deal": false,
+      "latitude": 1.311564225009452,
+      "longitude": 103.883576001591,
+      "project_name": "Rezi 24",
+      "property_type": "apartment",
+      "psf_rent": 7.07
+    },
+    {
+      "address": "Sampan Place",
+      "id": 408,
+      "is_deal": false,
+      "latitude": 1.30073700415458,
+      "longitude": 103.8818128062072,
+      "project_name": "RiverEdge",
+      "property_type": "Condo",
+      "psf_rent": 4.28
+    },
+    {
+      "address": "",
+      "id": 277,
+      "is_deal": false,
+      "latitude": 1.29204842022798,
+      "longitude": 103.8363951742219,
+      "project_name": "Rivergate",
+      "property_type": "condo",
+      "psf_rent": 6.97
+    },
+    {
+      "address": "",
+      "id": 461,
+      "is_deal": false,
+      "latitude": 1.289609716468306,
+      "longitude": 103.8412763893458,
+      "project_name": "River Place",
+      "property_type": "condo",
+      "psf_rent": 5.12
+    },
+    {
+      "address": "Upper Serangoon Crescent",
+      "id": 450,
+      "is_deal": false,
+      "latitude": 1.377262769363994,
+      "longitude": 103.9004940422987,
+      "project_name": "Riversails",
+      "property_type": "Condo",
+      "psf_rent": 3.95
+    },
+    {
+      "address": "",
+      "id": 310,
+      "is_deal": false,
+      "latitude": 1.29092617225009,
+      "longitude": 103.839799908617,
+      "project_name": "Riverside 48",
+      "property_type": "condo",
+      "psf_rent": 5.81
+    },
+    {
+      "address": "Rivervale Crescent",
+      "id": 83,
+      "is_deal": false,
+      "latitude": 1.391409072835946,
+      "longitude": 103.9076536406487,
+      "project_name": "Rivervale Arc",
+      "property_type": "5 Room",
+      "psf_rent": 5.0
+    },
+    {
+      "address": "Rivervale Crescent",
+      "id": 141,
+      "is_deal": false,
+      "latitude": 1.391409072835946,
+      "longitude": 103.9076536406487,
+      "project_name": "Rivervale Delta",
+      "property_type": "N.a",
+      "psf_rent": 6.5
+    },
+    {
+      "address": "River Valley Road",
+      "id": 473,
+      "is_deal": false,
+      "latitude": 1.293061164956335,
+      "longitude": 103.8264803945401,
+      "project_name": "River Valley Court",
+      "property_type": "Condo",
+      "psf_rent": 13.5
+    },
+    {
+      "address": "Upper Circular Road",
+      "id": 164,
+      "is_deal": false,
+      "latitude": 1.289275890330913,
+      "longitude": 103.847720654374,
+      "project_name": "RIVERWALK APARTMENTS",
+      "property_type": "condo",
+      "psf_rent": 4.55
+    },
+    {
+      "address": "",
+      "id": 308,
+      "is_deal": false,
+      "latitude": 1.354691171471601,
+      "longitude": 103.8753924087089,
+      "project_name": "Riviere",
+      "property_type": "condo",
+      "psf_rent": 7.98
+    },
+    {
+      "address": "",
+      "id": 343,
+      "is_deal": false,
+      "latitude": 1.354691171471601,
+      "longitude": 103.8753924087089,
+      "project_name": "Riviere",
+      "property_type": "condo",
+      "psf_rent": 9.35
+    },
+    {
+      "address": "",
+      "id": 352,
+      "is_deal": false,
+      "latitude": 1.354691171471601,
+      "longitude": 103.8753924087089,
+      "project_name": "Riviere",
+      "property_type": "condo",
+      "psf_rent": 8.33
+    },
+    {
+      "address": "",
+      "id": 457,
+      "is_deal": false,
+      "latitude": 1.291112089155921,
+      "longitude": 103.8378213443006,
+      "project_name": "Robertson 100",
+      "property_type": "condo",
+      "psf_rent": 5.66
+    },
+    {
+      "address": "",
+      "id": 329,
+      "is_deal": false,
+      "latitude": 1.293092291523265,
+      "longitude": 103.8405385645378,
+      "project_name": "Robertson Edge",
+      "property_type": "condo",
+      "psf_rent": 5.16
+    },
+    {
+      "address": "",
+      "id": 264,
+      "is_deal": false,
+      "latitude": 1.280934744561978,
+      "longitude": 103.8498224657338,
+      "project_name": "Robinson Suites",
+      "property_type": "condo",
+      "psf_rent": 7.44
+    },
+    {
+      "address": "Robin Road",
+      "id": 112,
+      "is_deal": false,
+      "latitude": 1.316877589659463,
+      "longitude": 103.8280634636487,
+      "project_name": "Robin Suites",
+      "property_type": "Condo",
+      "psf_rent": 7.78
+    },
+    {
+      "address": "Pasir Panjang Road",
+      "id": 105,
+      "is_deal": false,
+      "latitude": 1.281187633925685,
+      "longitude": 103.7844141618088,
+      "project_name": "Royal Palm Mansions",
+      "property_type": "Condo",
+      "psf_rent": 5.22
+    },
+    {
+      "address": "2 Shanghai Road",
+      "id": 79,
+      "is_deal": false,
+      "latitude": 1.294883828770997,
+      "longitude": 103.8280873284137,
+      "project_name": "RV Edge",
+      "property_type": "condo",
+      "psf_rent": 6.45
+    },
+    {
+      "address": "Simei Rise",
+      "id": 518,
+      "is_deal": false,
+      "latitude": 1.347593881744102,
+      "longitude": 103.95919377977,
+      "project_name": "Savannah Condopark",
+      "property_type": "Condo",
+      "psf_rent": 3.71
+    },
+    {
+      "address": "16 Siglap Link",
+      "id": 51,
+      "is_deal": false,
+      "latitude": 1.307523216656392,
+      "longitude": 103.9270801217651,
+      "project_name": "Seaside Residences",
+      "property_type": "apartment",
+      "psf_rent": 6.79
+    },
+    {
+      "address": "Jalan Chengam",
+      "id": 96,
+      "is_deal": false,
+      "latitude": 1.372713819161815,
+      "longitude": 103.8319365998013,
+      "project_name": "Sembawang Hills Estate",
+      "property_type": "Semi-detached",
+      "psf_rent": 8.67
+    },
+    {
+      "address": "Sims Drive",
+      "id": 419,
+      "is_deal": false,
+      "latitude": 1.316772228066212,
+      "longitude": 103.8787807935912,
+      "project_name": "SIMS VISTA",
+      "property_type": "3 Room",
+      "psf_rent": 4.51
+    },
+    {
+      "address": "",
+      "id": 243,
+      "is_deal": false,
+      "latitude": 1.275889767875465,
+      "longitude": 103.8381517091216,
+      "project_name": "Sky Everton",
+      "property_type": "condo",
+      "psf_rent": 7.74
+    },
+    {
+      "address": "",
+      "id": 260,
+      "is_deal": false,
+      "latitude": 1.275889767875465,
+      "longitude": 103.8381517091216,
+      "project_name": "Sky Everton",
+      "property_type": "condo",
+      "psf_rent": 8.11
+    },
+    {
+      "address": "",
+      "id": 304,
+      "is_deal": false,
+      "latitude": 1.275889767875465,
+      "longitude": 103.8381517091216,
+      "project_name": "Sky Everton",
+      "property_type": "condo",
+      "psf_rent": 16.0
+    },
+    {
+      "address": "",
+      "id": 307,
+      "is_deal": false,
+      "latitude": 1.275889767875465,
+      "longitude": 103.8381517091216,
+      "project_name": "Sky Everton",
+      "property_type": "condo",
+      "psf_rent": 8.01
+    },
+    {
+      "address": "MARGARET DRIVE",
+      "id": 516,
+      "is_deal": false,
+      "latitude": 1.296817561039604,
+      "longitude": 103.8083948877127,
+      "project_name": "Skyoasis @ Dawson",
+      "property_type": "4 Room",
+      "psf_rent": 9.17
+    },
+    {
+      "address": "MARGARET DRIVE",
+      "id": 148,
+      "is_deal": false,
+      "latitude": 1.296817561039604,
+      "longitude": 103.8083948877127,
+      "project_name": "Skyresidence @ Dawson",
+      "property_type": "3 Room",
+      "psf_rent": 11.18
+    },
+    {
+      "address": "8 Enggor Street",
+      "id": 48,
+      "is_deal": false,
+      "latitude": 1.274643978047123,
+      "longitude": 103.8447415873149,
+      "project_name": "Skysuites @ Anson",
+      "property_type": "condo",
+      "psf_rent": 9.84
+    },
+    {
+      "address": "8 Enggor Street",
+      "id": 175,
+      "is_deal": false,
+      "latitude": 1.274643978047123,
+      "longitude": 103.8447415873149,
+      "project_name": "Skysuites @ Anson",
+      "property_type": "condo",
+      "psf_rent": 10.41
+    },
+    {
+      "address": "",
+      "id": 245,
+      "is_deal": false,
+      "latitude": 1.274643978047123,
+      "longitude": 103.8447415873149,
+      "project_name": "Skysuites @ Anson",
+      "property_type": "condo",
+      "psf_rent": 7.78
+    },
+    {
+      "address": "",
+      "id": 266,
+      "is_deal": false,
+      "latitude": 1.274643978047123,
+      "longitude": 103.8447415873149,
+      "project_name": "Skysuites @ Anson",
+      "property_type": "condo",
+      "psf_rent": 9.62
+    },
+    {
+      "address": "",
+      "id": 317,
+      "is_deal": false,
+      "latitude": 1.274643978047123,
+      "longitude": 103.8447415873149,
+      "project_name": "Skysuites @ Anson",
+      "property_type": "condo",
+      "psf_rent": 9.8
+    },
+    {
+      "address": "",
+      "id": 331,
+      "is_deal": false,
+      "latitude": 1.274643978047123,
+      "longitude": 103.8447415873149,
+      "project_name": "Skysuites @ Anson",
+      "property_type": "condo",
+      "psf_rent": 9.86
+    },
+    {
+      "address": "Farrer Drive",
+      "id": 132,
+      "is_deal": false,
+      "latitude": 1.31454422864628,
+      "longitude": 103.8064791328847,
+      "project_name": "Sommerville Grandeur",
+      "property_type": "Condo",
+      "psf_rent": 8.0
+    },
+    {
+      "address": "18 Spottiswoode Park Road",
+      "id": 38,
+      "is_deal": false,
+      "latitude": 1.275595285272561,
+      "longitude": 103.837559859708,
+      "project_name": "Spottiswoode 18",
+      "property_type": "condo",
+      "psf_rent": 8.76
+    },
+    {
+      "address": "18 Spottiswoode Park Road",
+      "id": 43,
+      "is_deal": false,
+      "latitude": 1.275595285272561,
+      "longitude": 103.837559859708,
+      "project_name": "Spottiswoode 18",
+      "property_type": "condo",
+      "psf_rent": 7.02
+    },
+    {
+      "address": "",
+      "id": 348,
+      "is_deal": false,
+      "latitude": 1.275595285272561,
+      "longitude": 103.837559859708,
+      "project_name": "Spottiswoode 18",
+      "property_type": "condo",
+      "psf_rent": 8.48
+    },
+    {
+      "address": "Spottiswoode Park Road",
+      "id": 444,
+      "is_deal": false,
+      "latitude": 1.273420740691681,
+      "longitude": 103.8379389523004,
+      "project_name": "Spottiswoode Park Road",
+      "property_type": "5 Room",
+      "psf_rent": 6.75
+    },
+    {
+      "address": "48 Spottiswoode Park Road",
+      "id": 71,
+      "is_deal": false,
+      "latitude": 1.275271152231314,
+      "longitude": 103.8368322250497,
+      "project_name": "Spottiswoode Residences",
+      "property_type": "condo",
+      "psf_rent": 6.81
+    },
+    {
+      "address": "",
+      "id": 246,
+      "is_deal": false,
+      "latitude": 1.275271152231314,
+      "longitude": 103.8368322250497,
+      "project_name": "Spottiswoode Residences",
+      "property_type": "condo",
+      "psf_rent": 6.55
+    },
+    {
+      "address": "",
+      "id": 322,
+      "is_deal": false,
+      "latitude": 1.275271152231314,
+      "longitude": 103.8368322250497,
+      "project_name": "Spottiswoode Residences",
+      "property_type": "condo",
+      "psf_rent": 6.73
+    },
+    {
+      "address": "16 Spottiswoode Park Road",
+      "id": 14,
+      "is_deal": false,
+      "latitude": 1.276035116061894,
+      "longitude": 103.8375020463613,
+      "project_name": "Spottiswoode Suites",
+      "property_type": "condo",
+      "psf_rent": 15.5
+    },
+    {
+      "address": "Sembawang Drive",
+      "id": 515,
+      "is_deal": false,
+      "latitude": 1.459104313478021,
+      "longitude": 103.8148134417875,
+      "project_name": "Spring Lodge",
+      "property_type": "4 Room",
+      "psf_rent": 11.0
+    },
+    {
+      "address": "Geylang Serai",
+      "id": 121,
+      "is_deal": false,
+      "latitude": 1.316919789904655,
+      "longitude": 103.8973895711571,
+      "project_name": "Sri Geylang Serai",
+      "property_type": "4 Room",
+      "psf_rent": 8.33
+    },
+    {
+      "address": "",
+      "id": 314,
+      "is_deal": false,
+      "latitude": 1.293715327642058,
+      "longitude": 103.8372767105074,
+      "project_name": "Starlight Suites",
+      "property_type": "condo",
+      "psf_rent": 6.79
+    },
+    {
+      "address": "",
+      "id": 351,
+      "is_deal": false,
+      "latitude": 1.293715327642058,
+      "longitude": 103.8372767105074,
+      "project_name": "Starlight Suites",
+      "property_type": "condo",
+      "psf_rent": 6.23
+    },
+    {
+      "address": "Stirling Road",
+      "id": 510,
+      "is_deal": false,
+      "latitude": 1.297520245176627,
+      "longitude": 103.8033321663798,
+      "project_name": "Stirling Rise",
+      "property_type": "4 Room",
+      "psf_rent": 9.0
+    },
+    {
+      "address": "",
+      "id": 25,
+      "is_deal": false,
+      "latitude": 1.326446,
+      "longitude": 103.8514982,
+      "project_name": "Studio Balestier",
+      "property_type": "apartment",
+      "psf_rent": 10.0
+    },
+    {
+      "address": "Sturdee Road",
+      "id": 225,
+      "is_deal": false,
+      "latitude": 1.312713569316958,
+      "longitude": 103.8586726448454,
+      "project_name": "Sturdee Residences",
+      "property_type": "condo",
+      "psf_rent": 5.28
+    },
+    {
+      "address": "MARNE ROAD",
+      "id": 440,
+      "is_deal": false,
+      "latitude": 1.312703143787841,
+      "longitude": 103.8571125061618,
+      "project_name": "Sturdee Residences",
+      "property_type": "Condo",
+      "psf_rent": 16.67
+    },
+    {
+      "address": "2 Jalan Anak Bukit",
+      "id": 47,
+      "is_deal": false,
+      "latitude": 1.339171697391516,
+      "longitude": 103.7801274433574,
+      "project_name": "Suites De Laurel",
+      "property_type": "condo",
+      "psf_rent": 6.3
+    },
+    {
+      "address": "Surrey Road",
+      "id": 133,
+      "is_deal": false,
+      "latitude": 1.316010254043215,
+      "longitude": 103.842350128566,
+      "project_name": "Suites @ Surrey",
+      "property_type": "Condo",
+      "psf_rent": 5.11
+    },
+    {
+      "address": "Boon Lay Drive",
+      "id": 423,
+      "is_deal": false,
+      "latitude": 1.343491978491707,
+      "longitude": 103.7125145995623,
+      "project_name": "Summerdale",
+      "property_type": "Condo",
+      "psf_rent": 0.96
+    },
+    {
+      "address": "Upper Changi Road East",
+      "id": 151,
+      "is_deal": false,
+      "latitude": 1.338763747870149,
+      "longitude": 103.9604864115032,
+      "project_name": "Sunhaven",
+      "property_type": "Condo",
+      "psf_rent": 3.56
+    },
+    {
+      "address": "51 Sunrise Gardens",
+      "id": 7,
+      "is_deal": false,
+      "latitude": 1.389690730935665,
+      "longitude": 103.8571700175548,
+      "project_name": "Sunrise Gardens",
+      "property_type": "condo",
+      "psf_rent": 4.0
+    },
+    {
+      "address": "Yishun Close",
+      "id": 417,
+      "is_deal": false,
+      "latitude": 1.434537430369799,
+      "longitude": 103.844831194221,
+      "project_name": "Symphony Suites",
+      "property_type": "Condo",
+      "psf_rent": 8.67
+    },
+    {
+      "address": "Tampines Avenue 9",
+      "id": 442,
+      "is_deal": false,
+      "latitude": 1.360575654314086,
+      "longitude": 103.947725887411,
+      "project_name": "Tampines Avenue 9",
+      "property_type": "5 Room",
+      "psf_rent": 2.64
+    },
+    {
+      "address": "Tampines Street 91",
+      "id": 138,
+      "is_deal": false,
+      "latitude": 1.348376256298315,
+      "longitude": 103.9393784078209,
+      "project_name": "TAMPINES PALMSPRING",
+      "property_type": "3 Room",
+      "psf_rent": 5.0
+    },
+    {
+      "address": "Pari Dedap Walk",
+      "id": 131,
+      "is_deal": false,
+      "latitude": 1.33160291699053,
+      "longitude": 103.9423727322043,
+      "project_name": "Tanamera Crest",
+      "property_type": "Condo",
+      "psf_rent": 3.61
+    },
+    {
+      "address": "121 Tanjong Rhu Road",
+      "id": 31,
+      "is_deal": false,
+      "latitude": 1.296624037088693,
+      "longitude": 103.874304548932,
+      "project_name": "Tanjong Ria Condominium",
+      "property_type": "condo",
+      "psf_rent": 6.46
+    },
+    {
+      "address": "Tanjong Rhu Road",
+      "id": 452,
+      "is_deal": false,
+      "latitude": 1.297418665462754,
+      "longitude": 103.8766206255042,
+      "project_name": "Tanjong Ria Condominium",
+      "property_type": "Condo",
+      "psf_rent": 14.0
+    },
+    {
+      "address": "370 Thomson Road",
+      "id": 26,
+      "is_deal": false,
+      "latitude": 1.327767198935214,
+      "longitude": 103.8416144528799,
+      "project_name": "Tan Tong Meng Tower",
+      "property_type": "condo",
+      "psf_rent": 6.57
+    },
+    {
+      "address": "Ang Mo Kio Avenue 10",
+      "id": 140,
+      "is_deal": false,
+      "latitude": 1.366770402706365,
+      "longitude": 103.8565898295806,
+      "project_name": "Teck Ghee Heartlands",
+      "property_type": "4 Room",
+      "psf_rent": 8.0
+    },
+    {
+      "address": "Ang Mo Kio Avenue 1",
+      "id": 109,
+      "is_deal": false,
+      "latitude": 1.36370657540916,
+      "longitude": 103.8472358324289,
+      "project_name": "Teck Ghee View",
+      "property_type": "3 Room",
+      "psf_rent": 3.6
+    },
+    {
+      "address": "Tembeling Road",
+      "id": 146,
+      "is_deal": false,
+      "latitude": 1.310585855293146,
+      "longitude": 103.9027641779997,
+      "project_name": "Tembeling Lodge",
+      "property_type": "Bungalow",
+      "psf_rent": 9.0
+    },
+    {
+      "address": "Jalan Tembusu",
+      "id": 147,
+      "is_deal": false,
+      "latitude": 1.304966995864521,
+      "longitude": 103.8988328116274,
+      "project_name": "Tembusu Grand",
+      "property_type": "Condo",
+      "psf_rent": 8.34
+    },
+    {
+      "address": "Amber Road",
+      "id": 99,
+      "is_deal": false,
+      "latitude": 1.301718887593224,
+      "longitude": 103.9010668629949,
+      "project_name": "The Aristo @ Amber",
+      "property_type": "Condo",
+      "psf_rent": 5.11
+    },
+    {
+      "address": "",
+      "id": 265,
+      "is_deal": false,
+      "latitude": 1.275501068821503,
+      "longitude": 103.8415960229412,
+      "project_name": "The Arris",
+      "property_type": "condo",
+      "psf_rent": 6.3
+    },
+    {
+      "address": "",
+      "id": 338,
+      "is_deal": false,
+      "latitude": 1.275874835214168,
+      "longitude": 103.8404809943486,
+      "project_name": "The Beacon",
+      "property_type": "condo",
+      "psf_rent": 14.5
+    },
+    {
+      "address": "Bencoolen Street",
+      "id": 525,
+      "is_deal": false,
+      "latitude": 1.300150219854671,
+      "longitude": 103.8513879895135,
+      "project_name": "The Bencoolen",
+      "property_type": "Condo",
+      "psf_rent": 28.0
+    },
+    {
+      "address": "Ocean Drive",
+      "id": 498,
+      "is_deal": false,
+      "latitude": 1.249585641477956,
+      "longitude": 103.841621053394,
+      "project_name": "The Berth By The Cove",
+      "property_type": "Condo",
+      "psf_rent": 4.24
+    },
+    {
+      "address": "Canberra Drive",
+      "id": 449,
+      "is_deal": false,
+      "latitude": 1.441485285868378,
+      "longitude": 103.8281946549066,
+      "project_name": "The Brownstone",
+      "property_type": "Condo",
+      "psf_rent": 4.34
+    },
+    {
+      "address": "MAR THOMA ROAD",
+      "id": 395,
+      "is_deal": false,
+      "latitude": 1.327799188633204,
+      "longitude": 103.8626697659039,
+      "project_name": "The Callista",
+      "property_type": "Condo",
+      "psf_rent": 3.98
+    },
+    {
+      "address": "1 Lorong 27 Geylang",
+      "id": 24,
+      "is_deal": false,
+      "latitude": 1.313939830425819,
+      "longitude": 103.8835609512522,
+      "project_name": "The Centren",
+      "property_type": "apartment",
+      "psf_rent": 11.0
+    },
+    {
+      "address": "Claymore Road",
+      "id": 391,
+      "is_deal": false,
+      "latitude": 1.307685952518994,
+      "longitude": 103.8301853474525,
+      "project_name": "The Claymore",
+      "property_type": "Condo",
+      "psf_rent": 4.85
+    },
+    {
+      "address": "21 McCallum Street",
+      "id": 67,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "apartment",
+      "psf_rent": 7.97
+    },
+    {
+      "address": "21 McCallum Street",
+      "id": 68,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "apartment",
+      "psf_rent": 8.3
+    },
+    {
+      "address": "21 McCallum Street",
+      "id": 176,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "apartment",
+      "psf_rent": 7.88
+    },
+    {
+      "address": "21 McCallum Street",
+      "id": 177,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "condo",
+      "psf_rent": 8.16
+    },
+    {
+      "address": "21 McCallum Street",
+      "id": 179,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "apartment",
+      "psf_rent": 6.94
+    },
+    {
+      "address": "21 McCallum Street",
+      "id": 180,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "apartment",
+      "psf_rent": 6.84
+    },
+    {
+      "address": "21 McCallum Street",
+      "id": 181,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "apartment",
+      "psf_rent": 7.03
+    },
+    {
+      "address": "21 McCallum Street",
+      "id": 184,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "apartment",
+      "psf_rent": 7.95
+    },
+    {
+      "address": "21 McCallum Street",
+      "id": 186,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "apartment",
+      "psf_rent": 6.69
+    },
+    {
+      "address": "",
+      "id": 235,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "condo",
+      "psf_rent": 8.08
+    },
+    {
+      "address": "",
+      "id": 236,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "condo",
+      "psf_rent": 7.1
+    },
+    {
+      "address": "",
+      "id": 237,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "condo",
+      "psf_rent": 8.3
+    },
+    {
+      "address": "",
+      "id": 238,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "condo",
+      "psf_rent": 6.94
+    },
+    {
+      "address": "",
+      "id": 239,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "condo",
+      "psf_rent": 7.88
+    },
+    {
+      "address": "",
+      "id": 240,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "condo",
+      "psf_rent": 6.69
+    },
+    {
+      "address": "",
+      "id": 241,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "condo",
+      "psf_rent": 7.97
+    },
+    {
+      "address": "",
+      "id": 242,
+      "is_deal": false,
+      "latitude": 1.279400142886165,
+      "longitude": 103.8473295791477,
+      "project_name": "The Clift",
+      "property_type": "condo",
+      "psf_rent": 6.52
+    },
+    {
+      "address": "McCallum Street",
+      "id": 155,
+      "is_deal": false,
+      "latitude": 1.279061489966205,
+      "longitude": 103.848368853255,
+      "project_name": "THE CLIFT",
+      "property_type": "condo",
+      "psf_rent": 9.09
+    },
+    {
+      "address": "McCallum Street",
+      "id": 156,
+      "is_deal": false,
+      "latitude": 1.279061489966205,
+      "longitude": 103.848368853255,
+      "project_name": "THE CLIFT",
+      "property_type": "condo",
+      "psf_rent": 7.1
+    },
+    {
+      "address": "Mount Elizabeth Link",
+      "id": 468,
+      "is_deal": false,
+      "latitude": 1.305522487609996,
+      "longitude": 103.8364955916004,
+      "project_name": "The Compass At Elizabeth",
+      "property_type": "Condo",
+      "psf_rent": 11.36
+    },
+    {
+      "address": "Yishun Street 51",
+      "id": 497,
+      "is_deal": false,
+      "latitude": 1.416345097614021,
+      "longitude": 103.8434069957606,
+      "project_name": "The Criterion",
+      "property_type": "Condo",
+      "psf_rent": 5.75
+    },
+    {
+      "address": "Tampines Street 34",
+      "id": 127,
+      "is_deal": false,
+      "latitude": 1.356048340987168,
+      "longitude": 103.9600036539796,
+      "project_name": "The Eden At Tampines",
+      "property_type": "Condo",
+      "psf_rent": 13.95
+    },
+    {
+      "address": "72 Flora Road",
+      "id": 37,
+      "is_deal": false,
+      "latitude": 1.358549519862478,
+      "longitude": 103.9672975883389,
+      "project_name": "The Gale",
+      "property_type": "condo",
+      "psf_rent": 4.79
+    },
+    {
+      "address": "Flora Road",
+      "id": 44,
+      "is_deal": false,
+      "latitude": 1.359801502966432,
+      "longitude": 103.9655322537971,
+      "project_name": "The Gale",
+      "property_type": "condo",
+      "psf_rent": 3.93
+    },
+    {
+      "address": "Lakeside Drive",
+      "id": 422,
+      "is_deal": false,
+      "latitude": 1.342666126481888,
+      "longitude": 103.7201609070894,
+      "project_name": "The Lakefront Residences",
+      "property_type": "Condo",
+      "psf_rent": 5.88
+    },
+    {
+      "address": "",
+      "id": 244,
+      "is_deal": false,
+      "latitude": 1.286170844858286,
+      "longitude": 103.8395676266433,
+      "project_name": "The Landmark",
+      "property_type": "condo",
+      "psf_rent": 8.69
+    },
+    {
+      "address": "",
+      "id": 247,
+      "is_deal": false,
+      "latitude": 1.286170844858286,
+      "longitude": 103.8395676266433,
+      "project_name": "The Landmark",
+      "property_type": "condo",
+      "psf_rent": 6.54
+    },
+    {
+      "address": "",
+      "id": 256,
+      "is_deal": false,
+      "latitude": 1.286170844858286,
+      "longitude": 103.8395676266433,
+      "project_name": "The Landmark",
+      "property_type": "condo",
+      "psf_rent": 7.14
+    },
+    {
+      "address": "",
+      "id": 272,
+      "is_deal": false,
+      "latitude": 1.286170844858286,
+      "longitude": 103.8395676266433,
+      "project_name": "The Landmark",
+      "property_type": "condo",
+      "psf_rent": 7.37
+    },
+    {
+      "address": "",
+      "id": 336,
+      "is_deal": false,
+      "latitude": 1.286170844858286,
+      "longitude": 103.8395676266433,
+      "project_name": "The Landmark",
+      "property_type": "condo",
+      "psf_rent": 7.04
+    },
+    {
+      "address": "121 Meyer Road",
+      "id": 16,
+      "is_deal": false,
+      "latitude": 1.297692663028706,
+      "longitude": 103.8944460700699,
+      "project_name": "The Makena",
+      "property_type": "condo",
+      "psf_rent": 11.33
+    },
+    {
+      "address": "Jurong East Street 32",
+      "id": 439,
+      "is_deal": false,
+      "latitude": 1.346948495451689,
+      "longitude": 103.7338253831018,
+      "project_name": "The Mayfair",
+      "property_type": "Condo",
+      "psf_rent": 6.4
+    },
+    {
+      "address": "Alexandra View",
+      "id": 477,
+      "is_deal": false,
+      "latitude": 1.290301658452144,
+      "longitude": 103.8175490131751,
+      "project_name": "The Metropolitan Condominium",
+      "property_type": "Condo",
+      "psf_rent": 7.11
+    },
+    {
+      "address": "Mohamed Sultan Road",
+      "id": 405,
+      "is_deal": false,
+      "latitude": 1.29221386678278,
+      "longitude": 103.8408294162945,
+      "project_name": "The Pier at Robertson",
+      "property_type": "Condo",
+      "psf_rent": 5.71
+    },
+    {
+      "address": "Mohamed Sultan Road",
+      "id": 479,
+      "is_deal": false,
+      "latitude": 1.29221386678278,
+      "longitude": 103.8408294162945,
+      "project_name": "The Pier at Robertson",
+      "property_type": "Condo",
+      "psf_rent": 6.36
+    },
+    {
+      "address": "",
+      "id": 270,
+      "is_deal": false,
+      "latitude": 1.291286508170154,
+      "longitude": 103.8404801668337,
+      "project_name": "The Pier At Robertson",
+      "property_type": "condo",
+      "psf_rent": 5.71
+    },
+    {
+      "address": "7500A Beach Road",
+      "id": 21,
+      "is_deal": false,
+      "latitude": 1.299453744714289,
+      "longitude": 103.8600702226088,
+      "project_name": "The Plaza",
+      "property_type": "apartment",
+      "psf_rent": 18.0
+    },
+    {
+      "address": "Beach Road",
+      "id": 137,
+      "is_deal": false,
+      "latitude": 1.299524810427497,
+      "longitude": 103.8593035316664,
+      "project_name": "The Plaza",
+      "property_type": "Condo",
+      "psf_rent": 10.0
+    },
+    {
+      "address": "Beach Road",
+      "id": 409,
+      "is_deal": false,
+      "latitude": 1.299524810427497,
+      "longitude": 103.8593035316664,
+      "project_name": "The Plaza",
+      "property_type": "Condo",
+      "psf_rent": 8.4
+    },
+    {
+      "address": "",
+      "id": 302,
+      "is_deal": false,
+      "latitude": 1.290083395764093,
+      "longitude": 103.8391992196089,
+      "project_name": "The Quayside",
+      "property_type": "condo",
+      "psf_rent": 18.67
+    },
+    {
+      "address": "",
+      "id": 346,
+      "is_deal": false,
+      "latitude": 1.290083395764093,
+      "longitude": 103.8391992196089,
+      "project_name": "The Quayside",
+      "property_type": "condo",
+      "psf_rent": 6.52
+    },
+    {
+      "address": "",
+      "id": 347,
+      "is_deal": false,
+      "latitude": 1.288486200031616,
+      "longitude": 103.8440494413625,
+      "project_name": "The Riverside Piazza",
+      "property_type": "condo",
+      "psf_rent": 8.55
+    },
+    {
+      "address": "",
+      "id": 359,
+      "is_deal": false,
+      "latitude": 1.288486200031616,
+      "longitude": 103.8440494413625,
+      "project_name": "The Riverside Piazza",
+      "property_type": "condo",
+      "psf_rent": 12.9
+    },
+    {
+      "address": "Upper Circular Road",
+      "id": 394,
+      "is_deal": false,
+      "latitude": 1.289275890330913,
+      "longitude": 103.847720654374,
+      "project_name": "The Riverwalk / Riverwalk Apartments",
+      "property_type": "Condo",
+      "psf_rent": 4.55
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 20,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 12.0
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 22,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 9.25
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 23,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 12.67
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 81,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.6
+    },
+    {
+      "address": "Marina Boulevard",
+      "id": 115,
+      "is_deal": false,
+      "latitude": 1.285370305289835,
+      "longitude": 103.8608711547011,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "Condo",
+      "psf_rent": 7.98
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 178,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 6.64
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 190,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 20.0
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 191,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 15.0
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 192,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 18.75
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 193,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 16.67
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 194,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 16.0
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 195,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 13.85
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 196,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 18.5
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 197,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 15.83
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 198,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 23.75
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 199,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 13.33
+    },
+    {
+      "address": "4 Marina Boulevard",
+      "id": 201,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 12.95
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 202,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 8.67
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 203,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 12.73
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 204,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 11.2
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 205,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 14.5
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 206,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 11.6
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 207,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 13.33
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 208,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.09
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 209,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.89
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 210,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.62
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 211,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.17
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 212,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.17
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 213,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.64
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 215,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 7.33
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 216,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 6.64
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 217,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 6.75
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 221,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 7.77
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 222,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 7.15
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 223,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.15
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 226,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.98
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 227,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.98
+    },
+    {
+      "address": "4 Marina Boulevard",
+      "id": 228,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 6.62
+    },
+    {
+      "address": "4 Marina Boulevard",
+      "id": 229,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.74
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 230,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 6.72
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 231,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "apartment",
+      "psf_rent": 6.94
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 232,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.36
+    },
+    {
+      "address": "2 Marina Boulevard",
+      "id": 233,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.55
+    },
+    {
+      "address": "6 Marina Boulevard",
+      "id": 234,
+      "is_deal": false,
+      "latitude": 1.280769435042204,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.9
+    },
+    {
+      "address": "",
+      "id": 251,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 20.0
+    },
+    {
+      "address": "",
+      "id": 257,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 12.5
+    },
+    {
+      "address": "",
+      "id": 273,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.69
+    },
+    {
+      "address": "",
+      "id": 278,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.98
+    },
+    {
+      "address": "",
+      "id": 279,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.23
+    },
+    {
+      "address": "",
+      "id": 282,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 8.04
+    },
+    {
+      "address": "",
+      "id": 285,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 11.94
+    },
+    {
+      "address": "",
+      "id": 286,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 8.7
+    },
+    {
+      "address": "",
+      "id": 295,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 20.0
+    },
+    {
+      "address": "",
+      "id": 298,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 12.2
+    },
+    {
+      "address": "",
+      "id": 306,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.15
+    },
+    {
+      "address": "",
+      "id": 315,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.17
+    },
+    {
+      "address": "",
+      "id": 316,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 13.33
+    },
+    {
+      "address": "",
+      "id": 328,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 12.67
+    },
+    {
+      "address": "",
+      "id": 341,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 8.14
+    },
+    {
+      "address": "",
+      "id": 361,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 25.0
+    },
+    {
+      "address": "",
+      "id": 364,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 15.91
+    },
+    {
+      "address": "",
+      "id": 365,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 15.83
+    },
+    {
+      "address": "",
+      "id": 366,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.26
+    },
+    {
+      "address": "",
+      "id": 367,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.73
+    },
+    {
+      "address": "",
+      "id": 368,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.55
+    },
+    {
+      "address": "",
+      "id": 369,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.01
+    },
+    {
+      "address": "",
+      "id": 370,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 11.2
+    },
+    {
+      "address": "",
+      "id": 371,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 11.56
+    },
+    {
+      "address": "",
+      "id": 372,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.56
+    },
+    {
+      "address": "",
+      "id": 374,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.89
+    },
+    {
+      "address": "",
+      "id": 375,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.63
+    },
+    {
+      "address": "",
+      "id": 376,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 8.11
+    },
+    {
+      "address": "",
+      "id": 377,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.76
+    },
+    {
+      "address": "",
+      "id": 378,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.62
+    },
+    {
+      "address": "",
+      "id": 379,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.84
+    },
+    {
+      "address": "",
+      "id": 380,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 13.85
+    },
+    {
+      "address": "",
+      "id": 381,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.94
+    },
+    {
+      "address": "",
+      "id": 382,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 6.75
+    },
+    {
+      "address": "",
+      "id": 383,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.87
+    },
+    {
+      "address": "",
+      "id": 384,
+      "is_deal": false,
+      "latitude": 1.28076943476847,
+      "longitude": 103.8526585621514,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "condo",
+      "psf_rent": 7.65
+    },
+    {
+      "address": "Marina Boulevard",
+      "id": 431,
+      "is_deal": false,
+      "latitude": 1.285370305289835,
+      "longitude": 103.8608711547011,
+      "project_name": "The Sail @ Marina Bay",
+      "property_type": "Condo",
+      "psf_rent": 11.0
+    },
+    {
+      "address": "Marina Boulevard",
+      "id": 159,
+      "is_deal": false,
+      "latitude": 1.285370305289835,
+      "longitude": 103.8608711547011,
+      "project_name": "THE SAIL @ MARINA BAY",
+      "property_type": "condo",
+      "psf_rent": 6.5
+    },
+    {
+      "address": "Marina Boulevard",
+      "id": 160,
+      "is_deal": false,
+      "latitude": 1.285370305289835,
+      "longitude": 103.8608711547011,
+      "project_name": "THE SAIL @ MARINA BAY",
+      "property_type": "condo",
+      "psf_rent": 7.26
+    },
+    {
+      "address": "Marina Boulevard",
+      "id": 161,
+      "is_deal": false,
+      "latitude": 1.285370305289835,
+      "longitude": 103.8608711547011,
+      "project_name": "THE SAIL @ MARINA BAY",
+      "property_type": "condo",
+      "psf_rent": 6.63
+    },
+    {
+      "address": "Marina Boulevard",
+      "id": 162,
+      "is_deal": false,
+      "latitude": 1.285370305289835,
+      "longitude": 103.8608711547011,
+      "project_name": "THE SAIL @ MARINA BAY",
+      "property_type": "condo",
+      "psf_rent": 8.14
+    },
+    {
+      "address": "Marina Boulevard",
+      "id": 163,
+      "is_deal": false,
+      "latitude": 1.285370305289835,
+      "longitude": 103.8608711547011,
+      "project_name": "THE SAIL @ MARINA BAY",
+      "property_type": "condo",
+      "psf_rent": 2.67
+    },
+    {
+      "address": "Marina Boulevard",
+      "id": 169,
+      "is_deal": false,
+      "latitude": 1.285370305289835,
+      "longitude": 103.8608711547011,
+      "project_name": "THE SAIL @ MARINA BAY",
+      "property_type": "condo",
+      "psf_rent": 8.27
+    },
+    {
+      "address": "Marina Boulevard",
+      "id": 173,
+      "is_deal": false,
+      "latitude": 1.285370305289835,
+      "longitude": 103.8608711547011,
+      "project_name": "THE SAIL @ MARINA BAY",
+      "property_type": "condo",
+      "psf_rent": 12.67
+    },
+    {
+      "address": "Miltonia Close",
+      "id": 494,
+      "is_deal": false,
+      "latitude": 1.417849600827174,
+      "longitude": 103.8477946161797,
+      "project_name": "The Shaughnessy",
+      "property_type": "Cluster House",
+      "psf_rent": 10.91
+    },
+    {
+      "address": "Miltonia Close",
+      "id": 506,
+      "is_deal": false,
+      "latitude": 1.417849600827174,
+      "longitude": 103.8477946161797,
+      "project_name": "The Shaughnessy",
+      "property_type": "N.a",
+      "psf_rent": 12.31
+    },
+    {
+      "address": "81 Amber Road",
+      "id": 59,
+      "is_deal": false,
+      "latitude": 1.302807688244061,
+      "longitude": 103.900988897666,
+      "project_name": "The Shore Residences",
+      "property_type": "condo",
+      "psf_rent": 6.76
+    },
+    {
+      "address": "Bukit Timah Road",
+      "id": 143,
+      "is_deal": false,
+      "latitude": 1.353493109004659,
+      "longitude": 103.7878681177191,
+      "project_name": "The Sterling",
+      "property_type": "Condo",
+      "psf_rent": 5.0
+    },
+    {
+      "address": "Sunshine Terrace",
+      "id": 93,
+      "is_deal": false,
+      "latitude": 1.34594798359391,
+      "longitude": 103.8720706102245,
+      "project_name": "The Sunshine",
+      "property_type": "Condo",
+      "psf_rent": 10.83
+    },
+    {
+      "address": "Sunshine Terrace",
+      "id": 136,
+      "is_deal": false,
+      "latitude": 1.34594798359391,
+      "longitude": 103.8720706102245,
+      "project_name": "The Sunshine",
+      "property_type": "Condo",
+      "psf_rent": 9.75
+    },
+    {
+      "address": "51 Lorong 40 Geylang",
+      "id": 13,
+      "is_deal": false,
+      "latitude": 1.312830056608237,
+      "longitude": 103.8901939555932,
+      "project_name": "The Waterina",
+      "property_type": "apartment",
+      "psf_rent": 10.33
+    },
+    {
+      "address": "",
+      "id": 459,
+      "is_deal": false,
+      "latitude": 1.293328528228973,
+      "longitude": 103.8403721392343,
+      "project_name": "The Wharf Residence",
+      "property_type": "condo",
+      "psf_rent": 6.57
+    },
+    {
+      "address": "1 Kim Seng Walk",
+      "id": 15,
+      "is_deal": false,
+      "latitude": 1.295238545694759,
+      "longitude": 103.8310123861223,
+      "project_name": "Tiara",
+      "property_type": "apartment",
+      "psf_rent": 6.8
+    },
+    {
+      "address": "",
+      "id": 305,
+      "is_deal": false,
+      "latitude": 1.283234715432599,
+      "longitude": 103.8336810749611,
+      "project_name": "Tiong Bahru Estate",
+      "property_type": "condo",
+      "psf_rent": 5.27
+    },
+    {
+      "address": "",
+      "id": 337,
+      "is_deal": false,
+      "latitude": 1.283234715432599,
+      "longitude": 103.8336810749611,
+      "project_name": "Tiong Bahru Estate",
+      "property_type": "condo",
+      "psf_rent": 4.71
+    },
+    {
+      "address": "Lorong 8 Toa Payoh",
+      "id": 508,
+      "is_deal": false,
+      "latitude": 1.340216008576239,
+      "longitude": 103.8548725644398,
+      "project_name": "Toa Payoh Eight",
+      "property_type": "4 Room",
+      "psf_rent": 7.33
+    },
+    {
+      "address": "Lorong 1 Toa Payoh",
+      "id": 430,
+      "is_deal": false,
+      "latitude": 1.336988166800255,
+      "longitude": 103.8435344610493,
+      "project_name": "Toa Payoh Green",
+      "property_type": "3 Room",
+      "psf_rent": 4.57
+    },
+    {
+      "address": "Lorong 4 Toa Payoh",
+      "id": 489,
+      "is_deal": false,
+      "latitude": 1.335559427013216,
+      "longitude": 103.8507398413472,
+      "project_name": "Toa Payoh Vista",
+      "property_type": "4 Room",
+      "psf_rent": 7.5
+    },
+    {
+      "address": "Toh Guan Road",
+      "id": 82,
+      "is_deal": false,
+      "latitude": 1.336700851566303,
+      "longitude": 103.7476153935622,
+      "project_name": "Toh Guan View",
+      "property_type": "5 Room",
+      "psf_rent": 3.0
+    },
+    {
+      "address": "",
+      "id": 276,
+      "is_deal": false,
+      "latitude": 1.292086780325757,
+      "longitude": 103.842729086168,
+      "project_name": "UE Square",
+      "property_type": "condo",
+      "psf_rent": 8.0
+    },
+    {
+      "address": "5 Jalan Kemaman",
+      "id": 70,
+      "is_deal": false,
+      "latitude": 1.3272751,
+      "longitude": 103.851064,
+      "project_name": "Verticus",
+      "property_type": "condo",
+      "psf_rent": 6.0
+    },
+    {
+      "address": "",
+      "id": 185,
+      "is_deal": false,
+      "latitude": 1.291239609839895,
+      "longitude": 103.841280608041,
+      "project_name": "Village Residence Robertson Quay",
+      "property_type": "apartment",
+      "psf_rent": 7.54
+    },
+    {
+      "address": "Bukit Sedap Road",
+      "id": 469,
+      "is_deal": false,
+      "latitude": 1.319684541616779,
+      "longitude": 103.7844385976282,
+      "project_name": "Villas Holland",
+      "property_type": "N.a",
+      "psf_rent": 2.8
+    },
+    {
+      "address": "366 Upper East Coast Road",
+      "id": 1,
+      "is_deal": false,
+      "latitude": 1.314209973742511,
+      "longitude": 103.9386139206477,
+      "project_name": "Villas Laguna",
+      "property_type": "condo",
+      "psf_rent": 0.59
+    },
+    {
+      "address": "366 Upper East Coast Road",
+      "id": 5,
+      "is_deal": false,
+      "latitude": 1.314209973742511,
+      "longitude": 103.9386139206477,
+      "project_name": "Villas Laguna",
+      "property_type": "condo",
+      "psf_rent": 7.67
+    },
+    {
+      "address": "",
+      "id": 464,
+      "is_deal": false,
+      "latitude": 1.296324255923244,
+      "longitude": 103.8414516137018,
+      "project_name": "Ville Royale",
+      "property_type": "condo",
+      "psf_rent": 6.15
+    },
+    {
+      "address": "5 Shenton Way",
+      "id": 28,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 20.8
+    },
+    {
+      "address": "5A Shenton Way",
+      "id": 29,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 2.49
+    },
+    {
+      "address": "5A Shenton Way",
+      "id": 33,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 10.45
+    },
+    {
+      "address": "5A Shenton Way",
+      "id": 39,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 7.94
+    },
+    {
+      "address": "5A Shenton Way",
+      "id": 40,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 7.83
+    },
+    {
+      "address": "5 Shenton Way",
+      "id": 46,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 8.16
+    },
+    {
+      "address": "5 Shenton Way",
+      "id": 50,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 7.78
+    },
+    {
+      "address": "5A Shenton Way",
+      "id": 52,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 8.41
+    },
+    {
+      "address": "5 Shenton Way",
+      "id": 54,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 8.33
+    },
+    {
+      "address": "5 Shenton Way",
+      "id": 55,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 8.85
+    },
+    {
+      "address": "5 Shenton Way",
+      "id": 56,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 8.85
+    },
+    {
+      "address": "5A Shenton Way",
+      "id": 62,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 8.47
+    },
+    {
+      "address": "5 Shenton Way",
+      "id": 72,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 8.88
+    },
+    {
+      "address": "",
+      "id": 292,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 7.78
+    },
+    {
+      "address": "",
+      "id": 360,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V on Shenton",
+      "property_type": "condo",
+      "psf_rent": 8.41
+    },
+    {
+      "address": "",
+      "id": 254,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V On Shenton",
+      "property_type": "condo",
+      "psf_rent": 6.69
+    },
+    {
+      "address": "",
+      "id": 294,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V On Shenton",
+      "property_type": "condo",
+      "psf_rent": 6.27
+    },
+    {
+      "address": "",
+      "id": 303,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V On Shenton",
+      "property_type": "condo",
+      "psf_rent": 6.46
+    },
+    {
+      "address": "",
+      "id": 362,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V On Shenton",
+      "property_type": "condo",
+      "psf_rent": 8.16
+    },
+    {
+      "address": "Shenton Way",
+      "id": 158,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V ON SHENTON",
+      "property_type": "condo",
+      "psf_rent": 8.85
+    },
+    {
+      "address": "Shenton Way",
+      "id": 166,
+      "is_deal": false,
+      "latitude": 1.2777,
+      "longitude": 103.8496,
+      "project_name": "V ON SHENTON",
+      "property_type": "condo",
+      "psf_rent": 6.58
+    },
+    {
+      "address": "Farrer Road",
+      "id": 113,
+      "is_deal": false,
+      "latitude": 1.312094955149397,
+      "longitude": 103.8512736487193,
+      "project_name": "Waterfall Gardens",
+      "property_type": "Condo",
+      "psf_rent": 6.28
+    },
+    {
+      "address": "",
+      "id": 355,
+      "is_deal": false,
+      "latitude": 1.289847269495555,
+      "longitude": 103.8379051198382,
+      "project_name": "Watermark Robertson Quay",
+      "property_type": "condo",
+      "psf_rent": 5.75
+    },
+    {
+      "address": "",
+      "id": 458,
+      "is_deal": false,
+      "latitude": 1.289847269495555,
+      "longitude": 103.8379051198382,
+      "project_name": "Watermark Robertson Quay",
+      "property_type": "condo",
+      "psf_rent": 6.0
+    },
+    {
+      "address": "",
+      "id": 465,
+      "is_deal": false,
+      "latitude": 1.289847269495555,
+      "longitude": 103.8379051198382,
+      "project_name": "Watermark Robertson Quay",
+      "property_type": "condo",
+      "psf_rent": 5.7
+    },
+    {
+      "address": "Punggol Central",
+      "id": 103,
+      "is_deal": false,
+      "latitude": 1.402261121144083,
+      "longitude": 103.9070528794141,
+      "project_name": "Watertown",
+      "property_type": "Condo",
+      "psf_rent": 5.42
+    },
+    {
+      "address": "Punggol Central",
+      "id": 418,
+      "is_deal": false,
+      "latitude": 1.402261121144083,
+      "longitude": 103.9070528794141,
+      "project_name": "Watertown",
+      "property_type": "Condo",
+      "psf_rent": 7.25
+    },
+    {
+      "address": "Punggol Central",
+      "id": 509,
+      "is_deal": false,
+      "latitude": 1.402261121144083,
+      "longitude": 103.9070528794141,
+      "project_name": "Watertown",
+      "property_type": "Condo",
+      "psf_rent": 5.79
+    },
+    {
+      "address": "Punggol Drive",
+      "id": 502,
+      "is_deal": false,
+      "latitude": 1.421619529035873,
+      "longitude": 103.8797278877984,
+      "project_name": "Waterway Brooks",
+      "property_type": "N.a",
+      "psf_rent": 9.0
+    },
+    {
+      "address": "Punggol East",
+      "id": 84,
+      "is_deal": false,
+      "latitude": 1.396176104174516,
+      "longitude": 103.918381977611,
+      "project_name": "Waterway Sunray",
+      "property_type": "4 Room",
+      "psf_rent": 3.5
+    },
+    {
+      "address": "Punggol East",
+      "id": 504,
+      "is_deal": false,
+      "latitude": 1.396176104174516,
+      "longitude": 103.918381977611,
+      "project_name": "Waterway Sunray",
+      "property_type": "3 Room",
+      "psf_rent": 7.08
+    },
+    {
+      "address": "10 West Coast Crescent",
+      "id": 69,
+      "is_deal": false,
+      "latitude": 1.297520894805002,
+      "longitude": 103.7663316874607,
+      "project_name": "Westcove Condo",
+      "property_type": "condo",
+      "psf_rent": 3.68
+    },
+    {
+      "address": "Pasir Panjang Road",
+      "id": 390,
+      "is_deal": false,
+      "latitude": 1.281187633925685,
+      "longitude": 103.7844141618088,
+      "project_name": "Whitehaven",
+      "property_type": "Condo",
+      "psf_rent": 6.32
+    },
+    {
+      "address": "Farrer Road",
+      "id": 120,
+      "is_deal": false,
+      "latitude": 1.312094955149397,
+      "longitude": 103.8512736487193,
+      "project_name": "Wilshire Residences",
+      "property_type": "Condo",
+      "psf_rent": 6.66
+    },
+    {
+      "address": "Lorong 14 Geylang",
+      "id": 402,
+      "is_deal": false,
+      "latitude": 1.31123149020159,
+      "longitude": 103.8791601056388,
+      "project_name": "Wing Fong Mansions",
+      "property_type": "Condo",
+      "psf_rent": 6.33
+    },
+    {
+      "address": "Lorong 14 Geylang",
+      "id": 404,
+      "is_deal": false,
+      "latitude": 1.31123149020159,
+      "longitude": 103.8791601056388,
+      "project_name": "Wing Fong Mansions",
+      "property_type": "Condo",
+      "psf_rent": 5.43
+    },
+    {
+      "address": "Woodlands Street 82",
+      "id": 528,
+      "is_deal": false,
+      "latitude": 1.443283721887566,
+      "longitude": 103.7914481782476,
+      "project_name": "Woodlands Street 82",
+      "property_type": "5 Room",
+      "psf_rent": 4.64
+    },
+    {
+      "address": "Yishun Street 21",
+      "id": 522,
+      "is_deal": false,
+      "latitude": 1.433185739127268,
+      "longitude": 103.836757599856,
+      "project_name": "Yishun Gardens",
+      "property_type": "3 Room",
+      "psf_rent": 5.56
+    },
+    {
+      "address": "60 Zion Road",
+      "id": 61,
+      "is_deal": false,
+      "latitude": 1.292636800363054,
+      "longitude": 103.8305680787023,
+      "project_name": "Zenith @ Zion",
+      "property_type": "apartment",
+      "psf_rent": 7.14
+    }
+  ],
+  "total": 513
+}
