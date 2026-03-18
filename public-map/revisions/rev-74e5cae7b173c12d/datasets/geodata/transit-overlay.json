@@ -1,0 +1,8114 @@
+{
+  "as_of": "2026-03-19",
+  "bbox": null,
+  "include_construction": false,
+  "lines": [
+    {
+      "color_hex": "#7C8792",
+      "line_code": "BPL",
+      "metadata": {
+        "returned_segments": 13,
+        "total_active_segments": 13,
+        "truncated_by_bbox": false
+      },
+      "name": "Bukit Panjang LRT",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.3814,
+          "end_lon": 103.7457,
+          "path": [
+            [
+              103.7444,
+              1.3853
+            ],
+            [
+              103.7457,
+              1.3814
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.3853,
+          "start_lon": 103.7444,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3789,
+          "end_lon": 103.7471,
+          "path": [
+            [
+              103.7457,
+              1.3814
+            ],
+            [
+              103.7471,
+              1.3789
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.3814,
+          "start_lon": 103.7457,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3773,
+          "end_lon": 103.7549,
+          "path": [
+            [
+              103.7471,
+              1.3789
+            ],
+            [
+              103.7549,
+              1.3773
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 3,
+          "start_lat": 1.3789,
+          "start_lon": 103.7471,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3785,
+          "end_lon": 103.7674,
+          "path": [
+            [
+              103.7549,
+              1.3773
+            ],
+            [
+              103.7674,
+              1.3785
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 4,
+          "start_lat": 1.3773,
+          "start_lon": 103.7549,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3788,
+          "end_lon": 103.7764,
+          "path": [
+            [
+              103.7674,
+              1.3785
+            ],
+            [
+              103.7764,
+              1.3788
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 5,
+          "start_lat": 1.3785,
+          "start_lon": 103.7674,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.38,
+          "end_lon": 103.7689,
+          "path": [
+            [
+              103.7764,
+              1.3788
+            ],
+            [
+              103.7689,
+              1.38
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 6,
+          "start_lat": 1.3788,
+          "start_lon": 103.7764,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3797,
+          "end_lon": 103.7613,
+          "path": [
+            [
+              103.7689,
+              1.38
+            ],
+            [
+              103.7613,
+              1.3797
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 7,
+          "start_lat": 1.38,
+          "start_lon": 103.7689,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3813,
+          "end_lon": 103.7761,
+          "path": [
+            [
+              103.7613,
+              1.3797
+            ],
+            [
+              103.7761,
+              1.3813
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 8,
+          "start_lat": 1.3797,
+          "start_lon": 103.7613,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.384,
+          "end_lon": 103.7744,
+          "path": [
+            [
+              103.7761,
+              1.3813
+            ],
+            [
+              103.7744,
+              1.384
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 9,
+          "start_lat": 1.3813,
+          "start_lon": 103.7761,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3852,
+          "end_lon": 103.7722,
+          "path": [
+            [
+              103.7744,
+              1.384
+            ],
+            [
+              103.7722,
+              1.3852
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 10,
+          "start_lat": 1.384,
+          "start_lon": 103.7744,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3847,
+          "end_lon": 103.7636,
+          "path": [
+            [
+              103.7722,
+              1.3852
+            ],
+            [
+              103.7636,
+              1.3847
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 11,
+          "start_lat": 1.3852,
+          "start_lon": 103.7722,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3823,
+          "end_lon": 103.7558,
+          "path": [
+            [
+              103.7636,
+              1.3847
+            ],
+            [
+              103.7558,
+              1.3823
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 12,
+          "start_lat": 1.3847,
+          "start_lon": 103.7636,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3853,
+          "end_lon": 103.7444,
+          "path": [
+            [
+              103.7558,
+              1.3823
+            ],
+            [
+              103.7444,
+              1.3853
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 13,
+          "start_lat": 1.3823,
+          "start_lon": 103.7558,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    },
+    {
+      "color_hex": "#FA9E0D",
+      "line_code": "CCL",
+      "metadata": {
+        "returned_segments": 28,
+        "total_active_segments": 28,
+        "truncated_by_bbox": false
+      },
+      "name": "Circle Line",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.2966,
+          "end_lon": 103.8509,
+          "path": [
+            [
+              103.8458,
+              1.2993
+            ],
+            [
+              103.8509,
+              1.2966
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.2993,
+          "start_lon": 103.8458,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2936,
+          "end_lon": 103.8554,
+          "path": [
+            [
+              103.8509,
+              1.2966
+            ],
+            [
+              103.8554,
+              1.2936
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.2966,
+          "start_lon": 103.8509,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2935,
+          "end_lon": 103.861,
+          "path": [
+            [
+              103.8554,
+              1.2936
+            ],
+            [
+              103.861,
+              1.2935
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 3,
+          "start_lat": 1.2936,
+          "start_lon": 103.8554,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2995,
+          "end_lon": 103.8634,
+          "path": [
+            [
+              103.861,
+              1.2935
+            ],
+            [
+              103.8634,
+              1.2995
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 4,
+          "start_lat": 1.2935,
+          "start_lon": 103.861,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3029,
+          "end_lon": 103.875,
+          "path": [
+            [
+              103.8634,
+              1.2995
+            ],
+            [
+              103.875,
+              1.3029
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 5,
+          "start_lat": 1.2995,
+          "start_lon": 103.8634,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3066,
+          "end_lon": 103.8825,
+          "path": [
+            [
+              103.875,
+              1.3029
+            ],
+            [
+              103.8825,
+              1.3066
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 6,
+          "start_lat": 1.3029,
+          "start_lon": 103.875,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3084,
+          "end_lon": 103.8888,
+          "path": [
+            [
+              103.8825,
+              1.3066
+            ],
+            [
+              103.8888,
+              1.3084
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 7,
+          "start_lat": 1.3066,
+          "start_lon": 103.8825,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3179,
+          "end_lon": 103.8924,
+          "path": [
+            [
+              103.8888,
+              1.3084
+            ],
+            [
+              103.8924,
+              1.3179
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 8,
+          "start_lat": 1.3084,
+          "start_lon": 103.8888,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3263,
+          "end_lon": 103.8899,
+          "path": [
+            [
+              103.8924,
+              1.3179
+            ],
+            [
+              103.8899,
+              1.3263
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 9,
+          "start_lat": 1.3179,
+          "start_lon": 103.8924,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3356,
+          "end_lon": 103.8877,
+          "path": [
+            [
+              103.8899,
+              1.3263
+            ],
+            [
+              103.8877,
+              1.3356
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 10,
+          "start_lat": 1.3263,
+          "start_lon": 103.8899,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3424,
+          "end_lon": 103.8798,
+          "path": [
+            [
+              103.8877,
+              1.3356
+            ],
+            [
+              103.8798,
+              1.3424
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 11,
+          "start_lat": 1.3356,
+          "start_lon": 103.8877,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3499,
+          "end_lon": 103.8731,
+          "path": [
+            [
+              103.8798,
+              1.3424
+            ],
+            [
+              103.8731,
+              1.3499
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 12,
+          "start_lat": 1.3424,
+          "start_lon": 103.8798,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3517,
+          "end_lon": 103.8642,
+          "path": [
+            [
+              103.8731,
+              1.3499
+            ],
+            [
+              103.8642,
+              1.3517
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 13,
+          "start_lat": 1.3499,
+          "start_lon": 103.8731,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.351,
+          "end_lon": 103.8485,
+          "path": [
+            [
+              103.8642,
+              1.3517
+            ],
+            [
+              103.8485,
+              1.351
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 14,
+          "start_lat": 1.3517,
+          "start_lon": 103.8642,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3488,
+          "end_lon": 103.8394,
+          "path": [
+            [
+              103.8485,
+              1.351
+            ],
+            [
+              103.8394,
+              1.3488
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 15,
+          "start_lat": 1.351,
+          "start_lon": 103.8485,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3374,
+          "end_lon": 103.8392,
+          "path": [
+            [
+              103.8394,
+              1.3488
+            ],
+            [
+              103.8392,
+              1.3374
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 16,
+          "start_lat": 1.3488,
+          "start_lon": 103.8394,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3225,
+          "end_lon": 103.8154,
+          "path": [
+            [
+              103.8392,
+              1.3374
+            ],
+            [
+              103.8154,
+              1.3225
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 17,
+          "start_lat": 1.3374,
+          "start_lon": 103.8392,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3175,
+          "end_lon": 103.8077,
+          "path": [
+            [
+              103.8154,
+              1.3225
+            ],
+            [
+              103.8077,
+              1.3175
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 18,
+          "start_lat": 1.3225,
+          "start_lon": 103.8154,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3118,
+          "end_lon": 103.7958,
+          "path": [
+            [
+              103.8077,
+              1.3175
+            ],
+            [
+              103.7958,
+              1.3118
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 19,
+          "start_lat": 1.3175,
+          "start_lon": 103.8077,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3072,
+          "end_lon": 103.79,
+          "path": [
+            [
+              103.7958,
+              1.3118
+            ],
+            [
+              103.79,
+              1.3072
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 20,
+          "start_lat": 1.3118,
+          "start_lon": 103.7958,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2993,
+          "end_lon": 103.7873,
+          "path": [
+            [
+              103.79,
+              1.3072
+            ],
+            [
+              103.7873,
+              1.2993
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 21,
+          "start_lat": 1.3072,
+          "start_lon": 103.79,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.294,
+          "end_lon": 103.7848,
+          "path": [
+            [
+              103.7873,
+              1.2993
+            ],
+            [
+              103.7848,
+              1.294
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 22,
+          "start_lat": 1.2993,
+          "start_lon": 103.7873,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2826,
+          "end_lon": 103.7824,
+          "path": [
+            [
+              103.7848,
+              1.294
+            ],
+            [
+              103.7824,
+              1.2826
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 23,
+          "start_lat": 1.294,
+          "start_lon": 103.7848,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2762,
+          "end_lon": 103.7919,
+          "path": [
+            [
+              103.7824,
+              1.2826
+            ],
+            [
+              103.7919,
+              1.2762
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 24,
+          "start_lat": 1.2826,
+          "start_lon": 103.7824,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2724,
+          "end_lon": 103.8023,
+          "path": [
+            [
+              103.7919,
+              1.2762
+            ],
+            [
+              103.8023,
+              1.2724
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 25,
+          "start_lat": 1.2762,
+          "start_lon": 103.7919,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2706,
+          "end_lon": 103.8096,
+          "path": [
+            [
+              103.8023,
+              1.2724
+            ],
+            [
+              103.8096,
+              1.2706
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 26,
+          "start_lat": 1.2724,
+          "start_lon": 103.8023,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2651,
+          "end_lon": 103.8196,
+          "path": [
+            [
+              103.8096,
+              1.2706
+            ],
+            [
+              103.8196,
+              1.2651
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 27,
+          "start_lat": 1.2706,
+          "start_lon": 103.8096,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2993,
+          "end_lon": 103.8458,
+          "path": [
+            [
+              103.8196,
+              1.2651
+            ],
+            [
+              103.8458,
+              1.2993
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 28,
+          "start_lat": 1.2651,
+          "start_lon": 103.8196,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    },
+    {
+      "color_hex": "#FA9E0D",
+      "line_code": "CEL",
+      "metadata": {
+        "returned_segments": 2,
+        "total_active_segments": 2,
+        "truncated_by_bbox": false
+      },
+      "name": "Circle Line Extension",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.2821,
+          "end_lon": 103.8592,
+          "path": [
+            [
+              103.861,
+              1.2935
+            ],
+            [
+              103.8592,
+              1.2821
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.2935,
+          "start_lon": 103.861,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2765,
+          "end_lon": 103.8545,
+          "path": [
+            [
+              103.8592,
+              1.2821
+            ],
+            [
+              103.8545,
+              1.2765
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.2821,
+          "start_lon": 103.8592,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    },
+    {
+      "color_hex": "#009645",
+      "line_code": "CGL",
+      "metadata": {
+        "returned_segments": 2,
+        "total_active_segments": 2,
+        "truncated_by_bbox": false
+      },
+      "name": "Changi Airport Branch",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.3353,
+          "end_lon": 103.9615,
+          "path": [
+            [
+              103.9462,
+              1.3273
+            ],
+            [
+              103.9615,
+              1.3353
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.3273,
+          "start_lon": 103.9462,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3572,
+          "end_lon": 103.9886,
+          "path": [
+            [
+              103.9615,
+              1.3353
+            ],
+            [
+              103.9886,
+              1.3572
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.3353,
+          "start_lon": 103.9615,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    },
+    {
+      "color_hex": "#005EC4",
+      "line_code": "DTL",
+      "metadata": {
+        "returned_segments": 34,
+        "total_active_segments": 34,
+        "truncated_by_bbox": false
+      },
+      "name": "Downtown Line",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.37,
+          "end_lon": 103.7739,
+          "path": [
+            [
+              103.7764,
+              1.3788
+            ],
+            [
+              103.7739,
+              1.37
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.3788,
+          "start_lon": 103.7764,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3626,
+          "end_lon": 103.7675,
+          "path": [
+            [
+              103.7739,
+              1.37
+            ],
+            [
+              103.7675,
+              1.3626
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.37,
+          "start_lon": 103.7739,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3526,
+          "end_lon": 103.7629,
+          "path": [
+            [
+              103.7675,
+              1.3626
+            ],
+            [
+              103.7629,
+              1.3526
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 3,
+          "start_lat": 1.3626,
+          "start_lon": 103.7675,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3408,
+          "end_lon": 103.7752,
+          "path": [
+            [
+              103.7629,
+              1.3526
+            ],
+            [
+              103.7752,
+              1.3408
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 4,
+          "start_lat": 1.3526,
+          "start_lon": 103.7629,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3347,
+          "end_lon": 103.7842,
+          "path": [
+            [
+              103.7752,
+              1.3408
+            ],
+            [
+              103.7842,
+              1.3347
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 5,
+          "start_lat": 1.3408,
+          "start_lon": 103.7752,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.33,
+          "end_lon": 103.7956,
+          "path": [
+            [
+              103.7842,
+              1.3347
+            ],
+            [
+              103.7956,
+              1.33
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 6,
+          "start_lat": 1.3347,
+          "start_lon": 103.7842,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3256,
+          "end_lon": 103.8075,
+          "path": [
+            [
+              103.7956,
+              1.33
+            ],
+            [
+              103.8075,
+              1.3256
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 7,
+          "start_lat": 1.33,
+          "start_lon": 103.7956,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3225,
+          "end_lon": 103.8154,
+          "path": [
+            [
+              103.8075,
+              1.3256
+            ],
+            [
+              103.8154,
+              1.3225
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 8,
+          "start_lat": 1.3256,
+          "start_lon": 103.8075,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.32,
+          "end_lon": 103.8263,
+          "path": [
+            [
+              103.8154,
+              1.3225
+            ],
+            [
+              103.8263,
+              1.32
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 9,
+          "start_lat": 1.3225,
+          "start_lon": 103.8154,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3125,
+          "end_lon": 103.8385,
+          "path": [
+            [
+              103.8263,
+              1.32
+            ],
+            [
+              103.8385,
+              1.3125
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 10,
+          "start_lat": 1.32,
+          "start_lon": 103.8263,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3066,
+          "end_lon": 103.8495,
+          "path": [
+            [
+              103.8385,
+              1.3125
+            ],
+            [
+              103.8495,
+              1.3066
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 11,
+          "start_lat": 1.3125,
+          "start_lon": 103.8385,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.304,
+          "end_lon": 103.8525,
+          "path": [
+            [
+              103.8495,
+              1.3066
+            ],
+            [
+              103.8525,
+              1.304
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 12,
+          "start_lat": 1.3066,
+          "start_lon": 103.8495,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3009,
+          "end_lon": 103.8563,
+          "path": [
+            [
+              103.8525,
+              1.304
+            ],
+            [
+              103.8563,
+              1.3009
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 13,
+          "start_lat": 1.304,
+          "start_lon": 103.8525,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2935,
+          "end_lon": 103.861,
+          "path": [
+            [
+              103.8563,
+              1.3009
+            ],
+            [
+              103.861,
+              1.2935
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 14,
+          "start_lat": 1.3009,
+          "start_lon": 103.8563,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2821,
+          "end_lon": 103.8592,
+          "path": [
+            [
+              103.861,
+              1.2935
+            ],
+            [
+              103.8592,
+              1.2821
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 15,
+          "start_lat": 1.2935,
+          "start_lon": 103.861,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2796,
+          "end_lon": 103.8523,
+          "path": [
+            [
+              103.8592,
+              1.2821
+            ],
+            [
+              103.8523,
+              1.2796
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 16,
+          "start_lat": 1.2821,
+          "start_lon": 103.8592,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2815,
+          "end_lon": 103.8476,
+          "path": [
+            [
+              103.8523,
+              1.2796
+            ],
+            [
+              103.8476,
+              1.2815
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 17,
+          "start_lat": 1.2796,
+          "start_lon": 103.8523,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2845,
+          "end_lon": 103.8444,
+          "path": [
+            [
+              103.8476,
+              1.2815
+            ],
+            [
+              103.8444,
+              1.2845
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 18,
+          "start_lat": 1.2815,
+          "start_lon": 103.8476,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2921,
+          "end_lon": 103.8447,
+          "path": [
+            [
+              103.8444,
+              1.2845
+            ],
+            [
+              103.8447,
+              1.2921
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 19,
+          "start_lat": 1.2845,
+          "start_lon": 103.8444,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.298,
+          "end_lon": 103.8497,
+          "path": [
+            [
+              103.8447,
+              1.2921
+            ],
+            [
+              103.8497,
+              1.298
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 20,
+          "start_lat": 1.2921,
+          "start_lon": 103.8447,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3055,
+          "end_lon": 103.8559,
+          "path": [
+            [
+              103.8497,
+              1.298
+            ],
+            [
+              103.8559,
+              1.3055
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 21,
+          "start_lat": 1.298,
+          "start_lon": 103.8497,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3136,
+          "end_lon": 103.8618,
+          "path": [
+            [
+              103.8559,
+              1.3055
+            ],
+            [
+              103.8618,
+              1.3136
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 22,
+          "start_lat": 1.3055,
+          "start_lon": 103.8559,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3218,
+          "end_lon": 103.8715,
+          "path": [
+            [
+              103.8618,
+              1.3136
+            ],
+            [
+              103.8715,
+              1.3218
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 23,
+          "start_lat": 1.3136,
+          "start_lon": 103.8618,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3262,
+          "end_lon": 103.883,
+          "path": [
+            [
+              103.8715,
+              1.3218
+            ],
+            [
+              103.883,
+              1.3262
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 24,
+          "start_lat": 1.3218,
+          "start_lon": 103.8715,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3263,
+          "end_lon": 103.8899,
+          "path": [
+            [
+              103.883,
+              1.3262
+            ],
+            [
+              103.8899,
+              1.3263
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 25,
+          "start_lat": 1.3262,
+          "start_lon": 103.883,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3296,
+          "end_lon": 103.8976,
+          "path": [
+            [
+              103.8899,
+              1.3263
+            ],
+            [
+              103.8976,
+              1.3296
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 26,
+          "start_lat": 1.3263,
+          "start_lon": 103.8899,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3348,
+          "end_lon": 103.9083,
+          "path": [
+            [
+              103.8976,
+              1.3296
+            ],
+            [
+              103.9083,
+              1.3348
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 27,
+          "start_lat": 1.3296,
+          "start_lon": 103.8976,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.334,
+          "end_lon": 103.919,
+          "path": [
+            [
+              103.9083,
+              1.3348
+            ],
+            [
+              103.919,
+              1.334
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 28,
+          "start_lat": 1.3348,
+          "start_lon": 103.9083,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3361,
+          "end_lon": 103.9321,
+          "path": [
+            [
+              103.919,
+              1.334
+            ],
+            [
+              103.9321,
+              1.3361
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 29,
+          "start_lat": 1.334,
+          "start_lon": 103.919,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3456,
+          "end_lon": 103.938,
+          "path": [
+            [
+              103.9321,
+              1.3361
+            ],
+            [
+              103.938,
+              1.3456
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 30,
+          "start_lat": 1.3361,
+          "start_lon": 103.9321,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3527,
+          "end_lon": 103.9452,
+          "path": [
+            [
+              103.938,
+              1.3456
+            ],
+            [
+              103.9452,
+              1.3527
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 31,
+          "start_lat": 1.3456,
+          "start_lon": 103.938,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3561,
+          "end_lon": 103.9539,
+          "path": [
+            [
+              103.9452,
+              1.3527
+            ],
+            [
+              103.9539,
+              1.3561
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 32,
+          "start_lat": 1.3527,
+          "start_lon": 103.9452,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3415,
+          "end_lon": 103.9616,
+          "path": [
+            [
+              103.9539,
+              1.3561
+            ],
+            [
+              103.9616,
+              1.3415
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 33,
+          "start_lat": 1.3561,
+          "start_lon": 103.9539,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3353,
+          "end_lon": 103.9615,
+          "path": [
+            [
+              103.9616,
+              1.3415
+            ],
+            [
+              103.9615,
+              1.3353
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 34,
+          "start_lat": 1.3415,
+          "start_lon": 103.9616,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    },
+    {
+      "color_hex": "#009645",
+      "line_code": "EWL",
+      "metadata": {
+        "returned_segments": 32,
+        "total_active_segments": 32,
+        "truncated_by_bbox": false
+      },
+      "name": "East West Line",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.3527,
+          "end_lon": 103.9452,
+          "path": [
+            [
+              103.9494,
+              1.3731
+            ],
+            [
+              103.9452,
+              1.3527
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.3731,
+          "start_lon": 103.9494,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.343,
+          "end_lon": 103.953,
+          "path": [
+            [
+              103.9452,
+              1.3527
+            ],
+            [
+              103.953,
+              1.343
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.3527,
+          "start_lon": 103.9452,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3273,
+          "end_lon": 103.9462,
+          "path": [
+            [
+              103.953,
+              1.343
+            ],
+            [
+              103.9462,
+              1.3273
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 3,
+          "start_lat": 1.343,
+          "start_lon": 103.953,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.324,
+          "end_lon": 103.9299,
+          "path": [
+            [
+              103.9462,
+              1.3273
+            ],
+            [
+              103.9299,
+              1.324
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 4,
+          "start_lat": 1.3273,
+          "start_lon": 103.9462,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3209,
+          "end_lon": 103.9128,
+          "path": [
+            [
+              103.9299,
+              1.324
+            ],
+            [
+              103.9128,
+              1.3209
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 5,
+          "start_lat": 1.324,
+          "start_lon": 103.9299,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3196,
+          "end_lon": 103.903,
+          "path": [
+            [
+              103.9128,
+              1.3209
+            ],
+            [
+              103.903,
+              1.3196
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 6,
+          "start_lat": 1.3209,
+          "start_lon": 103.9128,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3179,
+          "end_lon": 103.8924,
+          "path": [
+            [
+              103.903,
+              1.3196
+            ],
+            [
+              103.8924,
+              1.3179
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 7,
+          "start_lat": 1.3196,
+          "start_lon": 103.903,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3161,
+          "end_lon": 103.8829,
+          "path": [
+            [
+              103.8924,
+              1.3179
+            ],
+            [
+              103.8829,
+              1.3161
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 8,
+          "start_lat": 1.3179,
+          "start_lon": 103.8924,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3111,
+          "end_lon": 103.8716,
+          "path": [
+            [
+              103.8829,
+              1.3161
+            ],
+            [
+              103.8716,
+              1.3111
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 9,
+          "start_lat": 1.3161,
+          "start_lon": 103.8829,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3073,
+          "end_lon": 103.8633,
+          "path": [
+            [
+              103.8716,
+              1.3111
+            ],
+            [
+              103.8633,
+              1.3073
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 10,
+          "start_lat": 1.3111,
+          "start_lon": 103.8716,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3009,
+          "end_lon": 103.8563,
+          "path": [
+            [
+              103.8633,
+              1.3073
+            ],
+            [
+              103.8563,
+              1.3009
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 11,
+          "start_lat": 1.3073,
+          "start_lon": 103.8633,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2931,
+          "end_lon": 103.852,
+          "path": [
+            [
+              103.8563,
+              1.3009
+            ],
+            [
+              103.852,
+              1.2931
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 12,
+          "start_lat": 1.3009,
+          "start_lon": 103.8563,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2838,
+          "end_lon": 103.8515,
+          "path": [
+            [
+              103.852,
+              1.2931
+            ],
+            [
+              103.8515,
+              1.2838
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 13,
+          "start_lat": 1.2931,
+          "start_lon": 103.852,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2763,
+          "end_lon": 103.8456,
+          "path": [
+            [
+              103.8515,
+              1.2838
+            ],
+            [
+              103.8456,
+              1.2763
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 14,
+          "start_lat": 1.2838,
+          "start_lon": 103.8515,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2801,
+          "end_lon": 103.8395,
+          "path": [
+            [
+              103.8456,
+              1.2763
+            ],
+            [
+              103.8395,
+              1.2801
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 15,
+          "start_lat": 1.2763,
+          "start_lon": 103.8456,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2863,
+          "end_lon": 103.8274,
+          "path": [
+            [
+              103.8395,
+              1.2801
+            ],
+            [
+              103.8274,
+              1.2863
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 16,
+          "start_lat": 1.2801,
+          "start_lon": 103.8395,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2896,
+          "end_lon": 103.8172,
+          "path": [
+            [
+              103.8274,
+              1.2863
+            ],
+            [
+              103.8172,
+              1.2896
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 17,
+          "start_lat": 1.2863,
+          "start_lon": 103.8274,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2943,
+          "end_lon": 103.8061,
+          "path": [
+            [
+              103.8172,
+              1.2896
+            ],
+            [
+              103.8061,
+              1.2943
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 18,
+          "start_lat": 1.2896,
+          "start_lon": 103.8172,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3023,
+          "end_lon": 103.798,
+          "path": [
+            [
+              103.8061,
+              1.2943
+            ],
+            [
+              103.798,
+              1.3023
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 19,
+          "start_lat": 1.2943,
+          "start_lon": 103.8061,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3072,
+          "end_lon": 103.79,
+          "path": [
+            [
+              103.798,
+              1.3023
+            ],
+            [
+              103.79,
+              1.3072
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 20,
+          "start_lat": 1.3023,
+          "start_lon": 103.798,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3113,
+          "end_lon": 103.7788,
+          "path": [
+            [
+              103.79,
+              1.3072
+            ],
+            [
+              103.7788,
+              1.3113
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 21,
+          "start_lat": 1.3072,
+          "start_lon": 103.79,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3152,
+          "end_lon": 103.7654,
+          "path": [
+            [
+              103.7788,
+              1.3113
+            ],
+            [
+              103.7654,
+              1.3152
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 22,
+          "start_lat": 1.3113,
+          "start_lon": 103.7788,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3331,
+          "end_lon": 103.742,
+          "path": [
+            [
+              103.7654,
+              1.3152
+            ],
+            [
+              103.742,
+              1.3331
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 23,
+          "start_lat": 1.3152,
+          "start_lon": 103.7654,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3425,
+          "end_lon": 103.7325,
+          "path": [
+            [
+              103.742,
+              1.3331
+            ],
+            [
+              103.7325,
+              1.3425
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 24,
+          "start_lat": 1.3331,
+          "start_lon": 103.742,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3441,
+          "end_lon": 103.7209,
+          "path": [
+            [
+              103.7325,
+              1.3425
+            ],
+            [
+              103.7209,
+              1.3441
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 25,
+          "start_lat": 1.3425,
+          "start_lon": 103.7325,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3387,
+          "end_lon": 103.7057,
+          "path": [
+            [
+              103.7209,
+              1.3441
+            ],
+            [
+              103.7057,
+              1.3387
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 26,
+          "start_lat": 1.3441,
+          "start_lon": 103.7209,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3376,
+          "end_lon": 103.6971,
+          "path": [
+            [
+              103.7057,
+              1.3387
+            ],
+            [
+              103.6971,
+              1.3376
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 27,
+          "start_lat": 1.3387,
+          "start_lon": 103.7057,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3277,
+          "end_lon": 103.6783,
+          "path": [
+            [
+              103.6971,
+              1.3376
+            ],
+            [
+              103.6783,
+              1.3277
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 28,
+          "start_lat": 1.3376,
+          "start_lon": 103.6971,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.319,
+          "end_lon": 103.6606,
+          "path": [
+            [
+              103.6783,
+              1.3277
+            ],
+            [
+              103.6606,
+              1.319
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 29,
+          "start_lat": 1.3277,
+          "start_lon": 103.6783,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3217,
+          "end_lon": 103.6489,
+          "path": [
+            [
+              103.6606,
+              1.319
+            ],
+            [
+              103.6489,
+              1.3217
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 30,
+          "start_lat": 1.319,
+          "start_lon": 103.6606,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.331,
+          "end_lon": 103.6396,
+          "path": [
+            [
+              103.6489,
+              1.3217
+            ],
+            [
+              103.6396,
+              1.331
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 31,
+          "start_lat": 1.3217,
+          "start_lon": 103.6489,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3404,
+          "end_lon": 103.6372,
+          "path": [
+            [
+              103.6396,
+              1.331
+            ],
+            [
+              103.6372,
+              1.3404
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 32,
+          "start_lat": 1.331,
+          "start_lon": 103.6396,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    },
+    {
+      "color_hex": "#9900AA",
+      "line_code": "NEL",
+      "metadata": {
+        "returned_segments": 15,
+        "total_active_segments": 15,
+        "truncated_by_bbox": false
+      },
+      "name": "North East Line",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.2801,
+          "end_lon": 103.8395,
+          "path": [
+            [
+              103.8196,
+              1.2651
+            ],
+            [
+              103.8395,
+              1.2801
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.2651,
+          "start_lon": 103.8196,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2845,
+          "end_lon": 103.8444,
+          "path": [
+            [
+              103.8395,
+              1.2801
+            ],
+            [
+              103.8444,
+              1.2845
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.2801,
+          "start_lon": 103.8395,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2885,
+          "end_lon": 103.8467,
+          "path": [
+            [
+              103.8444,
+              1.2845
+            ],
+            [
+              103.8467,
+              1.2885
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 3,
+          "start_lat": 1.2845,
+          "start_lon": 103.8444,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2993,
+          "end_lon": 103.8458,
+          "path": [
+            [
+              103.8467,
+              1.2885
+            ],
+            [
+              103.8458,
+              1.2993
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 4,
+          "start_lat": 1.2885,
+          "start_lon": 103.8467,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3066,
+          "end_lon": 103.8495,
+          "path": [
+            [
+              103.8458,
+              1.2993
+            ],
+            [
+              103.8495,
+              1.3066
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 5,
+          "start_lat": 1.2993,
+          "start_lon": 103.8458,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3124,
+          "end_lon": 103.8543,
+          "path": [
+            [
+              103.8495,
+              1.3066
+            ],
+            [
+              103.8543,
+              1.3124
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 6,
+          "start_lat": 1.3066,
+          "start_lon": 103.8495,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3197,
+          "end_lon": 103.8617,
+          "path": [
+            [
+              103.8543,
+              1.3124
+            ],
+            [
+              103.8617,
+              1.3197
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 7,
+          "start_lat": 1.3124,
+          "start_lon": 103.8543,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3315,
+          "end_lon": 103.8688,
+          "path": [
+            [
+              103.8617,
+              1.3197
+            ],
+            [
+              103.8688,
+              1.3315
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 8,
+          "start_lat": 1.3197,
+          "start_lon": 103.8617,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3394,
+          "end_lon": 103.8712,
+          "path": [
+            [
+              103.8688,
+              1.3315
+            ],
+            [
+              103.8712,
+              1.3394
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 9,
+          "start_lat": 1.3315,
+          "start_lon": 103.8688,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3499,
+          "end_lon": 103.8731,
+          "path": [
+            [
+              103.8712,
+              1.3394
+            ],
+            [
+              103.8731,
+              1.3499
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 10,
+          "start_lat": 1.3394,
+          "start_lon": 103.8712,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3596,
+          "end_lon": 103.8854,
+          "path": [
+            [
+              103.8731,
+              1.3499
+            ],
+            [
+              103.8854,
+              1.3596
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 11,
+          "start_lat": 1.3499,
+          "start_lon": 103.8731,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3713,
+          "end_lon": 103.8921,
+          "path": [
+            [
+              103.8854,
+              1.3596
+            ],
+            [
+              103.8921,
+              1.3713
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 12,
+          "start_lat": 1.3596,
+          "start_lon": 103.8854,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3832,
+          "end_lon": 103.8929,
+          "path": [
+            [
+              103.8921,
+              1.3713
+            ],
+            [
+              103.8929,
+              1.3832
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 13,
+          "start_lat": 1.3713,
+          "start_lon": 103.8921,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3915,
+          "end_lon": 103.8953,
+          "path": [
+            [
+              103.8929,
+              1.3832
+            ],
+            [
+              103.8953,
+              1.3915
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 14,
+          "start_lat": 1.3832,
+          "start_lon": 103.8929,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4054,
+          "end_lon": 103.9024,
+          "path": [
+            [
+              103.8953,
+              1.3915
+            ],
+            [
+              103.9024,
+              1.4054
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 15,
+          "start_lat": 1.3915,
+          "start_lon": 103.8953,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    },
+    {
+      "color_hex": "#D42E12",
+      "line_code": "NSL",
+      "metadata": {
+        "returned_segments": 27,
+        "total_active_segments": 27,
+        "truncated_by_bbox": false
+      },
+      "name": "North South Line",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.349,
+          "end_lon": 103.7496,
+          "path": [
+            [
+              103.742,
+              1.3331
+            ],
+            [
+              103.7496,
+              1.349
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.3331,
+          "start_lon": 103.742,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3588,
+          "end_lon": 103.7517,
+          "path": [
+            [
+              103.7496,
+              1.349
+            ],
+            [
+              103.7517,
+              1.3588
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.349,
+          "start_lon": 103.7496,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3853,
+          "end_lon": 103.7444,
+          "path": [
+            [
+              103.7517,
+              1.3588
+            ],
+            [
+              103.7444,
+              1.3853
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 3,
+          "start_lat": 1.3588,
+          "start_lon": 103.7517,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3972,
+          "end_lon": 103.7474,
+          "path": [
+            [
+              103.7444,
+              1.3853
+            ],
+            [
+              103.7474,
+              1.3972
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 4,
+          "start_lat": 1.3853,
+          "start_lon": 103.7444,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4126,
+          "end_lon": 103.774,
+          "path": [
+            [
+              103.7474,
+              1.3972
+            ],
+            [
+              103.774,
+              1.4126
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 5,
+          "start_lat": 1.3972,
+          "start_lon": 103.7474,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4252,
+          "end_lon": 103.7619,
+          "path": [
+            [
+              103.774,
+              1.4126
+            ],
+            [
+              103.7619,
+              1.4252
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 6,
+          "start_lat": 1.4126,
+          "start_lon": 103.774,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4326,
+          "end_lon": 103.7743,
+          "path": [
+            [
+              103.7619,
+              1.4252
+            ],
+            [
+              103.7743,
+              1.4326
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 7,
+          "start_lat": 1.4252,
+          "start_lon": 103.7619,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.437,
+          "end_lon": 103.7864,
+          "path": [
+            [
+              103.7743,
+              1.4326
+            ],
+            [
+              103.7864,
+              1.437
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 8,
+          "start_lat": 1.4326,
+          "start_lon": 103.7743,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4408,
+          "end_lon": 103.8008,
+          "path": [
+            [
+              103.7864,
+              1.437
+            ],
+            [
+              103.8008,
+              1.4408
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 9,
+          "start_lat": 1.437,
+          "start_lon": 103.7864,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.449,
+          "end_lon": 103.8199,
+          "path": [
+            [
+              103.8008,
+              1.4408
+            ],
+            [
+              103.8199,
+              1.449
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 10,
+          "start_lat": 1.4408,
+          "start_lon": 103.8008,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4432,
+          "end_lon": 103.8298,
+          "path": [
+            [
+              103.8199,
+              1.449
+            ],
+            [
+              103.8298,
+              1.4432
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 11,
+          "start_lat": 1.449,
+          "start_lon": 103.8199,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4294,
+          "end_lon": 103.8354,
+          "path": [
+            [
+              103.8298,
+              1.4432
+            ],
+            [
+              103.8354,
+              1.4294
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 12,
+          "start_lat": 1.4432,
+          "start_lon": 103.8298,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4176,
+          "end_lon": 103.8329,
+          "path": [
+            [
+              103.8354,
+              1.4294
+            ],
+            [
+              103.8329,
+              1.4176
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 13,
+          "start_lat": 1.4294,
+          "start_lon": 103.8354,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3816,
+          "end_lon": 103.8449,
+          "path": [
+            [
+              103.8329,
+              1.4176
+            ],
+            [
+              103.8449,
+              1.3816
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 14,
+          "start_lat": 1.4176,
+          "start_lon": 103.8329,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.37,
+          "end_lon": 103.8496,
+          "path": [
+            [
+              103.8449,
+              1.3816
+            ],
+            [
+              103.8496,
+              1.37
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 15,
+          "start_lat": 1.3816,
+          "start_lon": 103.8449,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.351,
+          "end_lon": 103.8485,
+          "path": [
+            [
+              103.8496,
+              1.37
+            ],
+            [
+              103.8485,
+              1.351
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 16,
+          "start_lat": 1.37,
+          "start_lon": 103.8496,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3404,
+          "end_lon": 103.8468,
+          "path": [
+            [
+              103.8485,
+              1.351
+            ],
+            [
+              103.8468,
+              1.3404
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 17,
+          "start_lat": 1.351,
+          "start_lon": 103.8485,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3326,
+          "end_lon": 103.8471,
+          "path": [
+            [
+              103.8468,
+              1.3404
+            ],
+            [
+              103.8471,
+              1.3326
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 18,
+          "start_lat": 1.3404,
+          "start_lon": 103.8468,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3204,
+          "end_lon": 103.8436,
+          "path": [
+            [
+              103.8471,
+              1.3326
+            ],
+            [
+              103.8436,
+              1.3204
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 19,
+          "start_lat": 1.3326,
+          "start_lon": 103.8471,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3125,
+          "end_lon": 103.8385,
+          "path": [
+            [
+              103.8436,
+              1.3204
+            ],
+            [
+              103.8385,
+              1.3125
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 20,
+          "start_lat": 1.3204,
+          "start_lon": 103.8436,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3045,
+          "end_lon": 103.832,
+          "path": [
+            [
+              103.8385,
+              1.3125
+            ],
+            [
+              103.832,
+              1.3045
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 21,
+          "start_lat": 1.3125,
+          "start_lon": 103.8385,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3006,
+          "end_lon": 103.8387,
+          "path": [
+            [
+              103.832,
+              1.3045
+            ],
+            [
+              103.8387,
+              1.3006
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 22,
+          "start_lat": 1.3045,
+          "start_lon": 103.832,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2993,
+          "end_lon": 103.8458,
+          "path": [
+            [
+              103.8387,
+              1.3006
+            ],
+            [
+              103.8458,
+              1.2993
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 23,
+          "start_lat": 1.3006,
+          "start_lon": 103.8387,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2931,
+          "end_lon": 103.852,
+          "path": [
+            [
+              103.8458,
+              1.2993
+            ],
+            [
+              103.852,
+              1.2931
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 24,
+          "start_lat": 1.2993,
+          "start_lon": 103.8458,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2838,
+          "end_lon": 103.8515,
+          "path": [
+            [
+              103.852,
+              1.2931
+            ],
+            [
+              103.8515,
+              1.2838
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 25,
+          "start_lat": 1.2931,
+          "start_lon": 103.852,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2765,
+          "end_lon": 103.8545,
+          "path": [
+            [
+              103.8515,
+              1.2838
+            ],
+            [
+              103.8545,
+              1.2765
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 26,
+          "start_lat": 1.2838,
+          "start_lon": 103.8515,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2708,
+          "end_lon": 103.8633,
+          "path": [
+            [
+              103.8545,
+              1.2765
+            ],
+            [
+              103.8633,
+              1.2708
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 27,
+          "start_lat": 1.2765,
+          "start_lon": 103.8545,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    },
+    {
+      "color_hex": "#7C8792",
+      "line_code": "PGL",
+      "metadata": {
+        "returned_segments": 16,
+        "total_active_segments": 16,
+        "truncated_by_bbox": false
+      },
+      "name": "Punggol LRT",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.4032,
+          "end_lon": 103.9095,
+          "path": [
+            [
+              103.9024,
+              1.4054
+            ],
+            [
+              103.9095,
+              1.4032
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.4054,
+          "start_lon": 103.9024,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4009,
+          "end_lon": 103.9155,
+          "path": [
+            [
+              103.9095,
+              1.4032
+            ],
+            [
+              103.9155,
+              1.4009
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.4032,
+          "start_lon": 103.9095,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4,
+          "end_lon": 103.9228,
+          "path": [
+            [
+              103.9155,
+              1.4009
+            ],
+            [
+              103.9228,
+              1.4
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 3,
+          "start_lat": 1.4009,
+          "start_lon": 103.9155,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4027,
+          "end_lon": 103.9252,
+          "path": [
+            [
+              103.9228,
+              1.4
+            ],
+            [
+              103.9252,
+              1.4027
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 4,
+          "start_lat": 1.4,
+          "start_lon": 103.9228,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4062,
+          "end_lon": 103.923,
+          "path": [
+            [
+              103.9252,
+              1.4027
+            ],
+            [
+              103.923,
+              1.4062
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 5,
+          "start_lat": 1.4027,
+          "start_lon": 103.9252,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4089,
+          "end_lon": 103.9168,
+          "path": [
+            [
+              103.923,
+              1.4062
+            ],
+            [
+              103.9168,
+              1.4089
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 6,
+          "start_lat": 1.4062,
+          "start_lon": 103.923,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4077,
+          "end_lon": 103.9098,
+          "path": [
+            [
+              103.9168,
+              1.4089
+            ],
+            [
+              103.9098,
+              1.4077
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 7,
+          "start_lat": 1.4089,
+          "start_lon": 103.9168,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4032,
+          "end_lon": 103.9095,
+          "path": [
+            [
+              103.9098,
+              1.4077
+            ],
+            [
+              103.9095,
+              1.4032
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 8,
+          "start_lat": 1.4077,
+          "start_lon": 103.9098,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4117,
+          "end_lon": 103.902,
+          "path": [
+            [
+              103.9024,
+              1.4054
+            ],
+            [
+              103.902,
+              1.4117
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 9,
+          "start_lat": 1.4054,
+          "start_lon": 103.9024,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4158,
+          "end_lon": 103.8978,
+          "path": [
+            [
+              103.902,
+              1.4117
+            ],
+            [
+              103.8978,
+              1.4158
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 10,
+          "start_lat": 1.4117,
+          "start_lon": 103.902,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4197,
+          "end_lon": 103.9051,
+          "path": [
+            [
+              103.8978,
+              1.4158
+            ],
+            [
+              103.9051,
+              1.4197
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 11,
+          "start_lat": 1.4158,
+          "start_lon": 103.8978,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4173,
+          "end_lon": 103.9109,
+          "path": [
+            [
+              103.9051,
+              1.4197
+            ],
+            [
+              103.9109,
+              1.4173
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 12,
+          "start_lat": 1.4197,
+          "start_lon": 103.9051,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4147,
+          "end_lon": 103.9145,
+          "path": [
+            [
+              103.9109,
+              1.4173
+            ],
+            [
+              103.9145,
+              1.4147
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 13,
+          "start_lat": 1.4173,
+          "start_lon": 103.9109,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4121,
+          "end_lon": 103.9143,
+          "path": [
+            [
+              103.9145,
+              1.4147
+            ],
+            [
+              103.9143,
+              1.4121
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 14,
+          "start_lat": 1.4147,
+          "start_lon": 103.9145,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4085,
+          "end_lon": 103.9082,
+          "path": [
+            [
+              103.9143,
+              1.4121
+            ],
+            [
+              103.9082,
+              1.4085
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 15,
+          "start_lat": 1.4121,
+          "start_lon": 103.9143,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4054,
+          "end_lon": 103.9024,
+          "path": [
+            [
+              103.9082,
+              1.4085
+            ],
+            [
+              103.9024,
+              1.4054
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 16,
+          "start_lat": 1.4085,
+          "start_lon": 103.9082,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    },
+    {
+      "color_hex": "#7C8792",
+      "line_code": "SKL",
+      "metadata": {
+        "returned_segments": 15,
+        "total_active_segments": 15,
+        "truncated_by_bbox": false
+      },
+      "name": "Sengkang LRT",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.3963,
+          "end_lon": 103.9026,
+          "path": [
+            [
+              103.8953,
+              1.3915
+            ],
+            [
+              103.9026,
+              1.3963
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.3915,
+          "start_lon": 103.8953,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3955,
+          "end_lon": 103.9107,
+          "path": [
+            [
+              103.9026,
+              1.3963
+            ],
+            [
+              103.9107,
+              1.3955
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.3963,
+          "start_lon": 103.9026,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3946,
+          "end_lon": 103.9162,
+          "path": [
+            [
+              103.9107,
+              1.3955
+            ],
+            [
+              103.9162,
+              1.3946
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 3,
+          "start_lat": 1.3955,
+          "start_lon": 103.9107,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3929,
+          "end_lon": 103.9212,
+          "path": [
+            [
+              103.9162,
+              1.3946
+            ],
+            [
+              103.9212,
+              1.3929
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 4,
+          "start_lat": 1.3946,
+          "start_lon": 103.9162,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3904,
+          "end_lon": 103.9162,
+          "path": [
+            [
+              103.9212,
+              1.3929
+            ],
+            [
+              103.9162,
+              1.3904
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 5,
+          "start_lat": 1.3929,
+          "start_lon": 103.9212,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3963,
+          "end_lon": 103.9026,
+          "path": [
+            [
+              103.9162,
+              1.3904
+            ],
+            [
+              103.9026,
+              1.3963
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 6,
+          "start_lat": 1.3904,
+          "start_lon": 103.9162,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3973,
+          "end_lon": 103.8912,
+          "path": [
+            [
+              103.8953,
+              1.3915
+            ],
+            [
+              103.8912,
+              1.3973
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 7,
+          "start_lat": 1.3915,
+          "start_lon": 103.8953,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3998,
+          "end_lon": 103.8879,
+          "path": [
+            [
+              103.8912,
+              1.3973
+            ],
+            [
+              103.8879,
+              1.3998
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 8,
+          "start_lat": 1.3973,
+          "start_lon": 103.8912,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4025,
+          "end_lon": 103.8889,
+          "path": [
+            [
+              103.8879,
+              1.3998
+            ],
+            [
+              103.8889,
+              1.4025
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 9,
+          "start_lat": 1.3998,
+          "start_lon": 103.8879,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4021,
+          "end_lon": 103.8957,
+          "path": [
+            [
+              103.8889,
+              1.4025
+            ],
+            [
+              103.8957,
+              1.4021
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 10,
+          "start_lat": 1.4025,
+          "start_lon": 103.8889,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3991,
+          "end_lon": 103.8968,
+          "path": [
+            [
+              103.8957,
+              1.4021
+            ],
+            [
+              103.8968,
+              1.3991
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 11,
+          "start_lat": 1.4021,
+          "start_lon": 103.8957,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3965,
+          "end_lon": 103.8988,
+          "path": [
+            [
+              103.8968,
+              1.3991
+            ],
+            [
+              103.8988,
+              1.3965
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 12,
+          "start_lat": 1.3991,
+          "start_lon": 103.8968,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3935,
+          "end_lon": 103.897,
+          "path": [
+            [
+              103.8988,
+              1.3965
+            ],
+            [
+              103.897,
+              1.3935
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 13,
+          "start_lat": 1.3965,
+          "start_lon": 103.8988,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3926,
+          "end_lon": 103.8953,
+          "path": [
+            [
+              103.897,
+              1.3935
+            ],
+            [
+              103.8953,
+              1.3926
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 14,
+          "start_lat": 1.3935,
+          "start_lon": 103.897,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3915,
+          "end_lon": 103.8953,
+          "path": [
+            [
+              103.8953,
+              1.3926
+            ],
+            [
+              103.8953,
+              1.3915
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 15,
+          "start_lat": 1.3926,
+          "start_lon": 103.8953,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    },
+    {
+      "color_hex": "#9D5B25",
+      "line_code": "TEL",
+      "metadata": {
+        "returned_segments": 29,
+        "total_active_segments": 29,
+        "truncated_by_bbox": false
+      },
+      "name": "Thomson-East Coast Line",
+      "render_state": "operational",
+      "segments": [
+        {
+          "end_lat": 1.437,
+          "end_lon": 103.7864,
+          "path": [
+            [
+              103.786,
+              1.4487
+            ],
+            [
+              103.7864,
+              1.437
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 1,
+          "start_lat": 1.4487,
+          "start_lon": 103.786,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4266,
+          "end_lon": 103.799,
+          "path": [
+            [
+              103.7864,
+              1.437
+            ],
+            [
+              103.799,
+              1.4266
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 2,
+          "start_lat": 1.437,
+          "start_lon": 103.7864,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.4033,
+          "end_lon": 103.8192,
+          "path": [
+            [
+              103.799,
+              1.4266
+            ],
+            [
+              103.8192,
+              1.4033
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 3,
+          "start_lat": 1.4266,
+          "start_lon": 103.799,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3916,
+          "end_lon": 103.8366,
+          "path": [
+            [
+              103.8192,
+              1.4033
+            ],
+            [
+              103.8366,
+              1.3916
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 4,
+          "start_lat": 1.4033,
+          "start_lon": 103.8192,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3786,
+          "end_lon": 103.8389,
+          "path": [
+            [
+              103.8366,
+              1.3916
+            ],
+            [
+              103.8389,
+              1.3786
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 5,
+          "start_lat": 1.3916,
+          "start_lon": 103.8366,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3625,
+          "end_lon": 103.8399,
+          "path": [
+            [
+              103.8389,
+              1.3786
+            ],
+            [
+              103.8399,
+              1.3625
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 6,
+          "start_lat": 1.3786,
+          "start_lon": 103.8389,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3548,
+          "end_lon": 103.8328,
+          "path": [
+            [
+              103.8399,
+              1.3625
+            ],
+            [
+              103.8328,
+              1.3548
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 7,
+          "start_lat": 1.3625,
+          "start_lon": 103.8399,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3374,
+          "end_lon": 103.8392,
+          "path": [
+            [
+              103.8328,
+              1.3548
+            ],
+            [
+              103.8392,
+              1.3374
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 8,
+          "start_lat": 1.3548,
+          "start_lon": 103.8328,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3282,
+          "end_lon": 103.8295,
+          "path": [
+            [
+              103.8392,
+              1.3374
+            ],
+            [
+              103.8295,
+              1.3282
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 9,
+          "start_lat": 1.3374,
+          "start_lon": 103.8392,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.32,
+          "end_lon": 103.8263,
+          "path": [
+            [
+              103.8295,
+              1.3282
+            ],
+            [
+              103.8263,
+              1.32
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 10,
+          "start_lat": 1.3282,
+          "start_lon": 103.8295,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3066,
+          "end_lon": 103.8177,
+          "path": [
+            [
+              103.8263,
+              1.32
+            ],
+            [
+              103.8177,
+              1.3066
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 11,
+          "start_lat": 1.32,
+          "start_lon": 103.8263,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3059,
+          "end_lon": 103.8236,
+          "path": [
+            [
+              103.8177,
+              1.3066
+            ],
+            [
+              103.8236,
+              1.3059
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 12,
+          "start_lat": 1.3066,
+          "start_lon": 103.8177,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3045,
+          "end_lon": 103.832,
+          "path": [
+            [
+              103.8236,
+              1.3059
+            ],
+            [
+              103.832,
+              1.3045
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 13,
+          "start_lat": 1.3059,
+          "start_lon": 103.8236,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2952,
+          "end_lon": 103.828,
+          "path": [
+            [
+              103.832,
+              1.3045
+            ],
+            [
+              103.828,
+              1.2952
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 14,
+          "start_lat": 1.3045,
+          "start_lon": 103.832,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2893,
+          "end_lon": 103.8323,
+          "path": [
+            [
+              103.828,
+              1.2952
+            ],
+            [
+              103.8323,
+              1.2893
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 15,
+          "start_lat": 1.2952,
+          "start_lon": 103.828,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2801,
+          "end_lon": 103.8395,
+          "path": [
+            [
+              103.8323,
+              1.2893
+            ],
+            [
+              103.8395,
+              1.2801
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 16,
+          "start_lat": 1.2893,
+          "start_lon": 103.8323,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2794,
+          "end_lon": 103.8446,
+          "path": [
+            [
+              103.8395,
+              1.2801
+            ],
+            [
+              103.8446,
+              1.2794
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 17,
+          "start_lat": 1.2801,
+          "start_lon": 103.8395,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2793,
+          "end_lon": 103.8497,
+          "path": [
+            [
+              103.8446,
+              1.2794
+            ],
+            [
+              103.8497,
+              1.2793
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 18,
+          "start_lat": 1.2794,
+          "start_lon": 103.8446,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2765,
+          "end_lon": 103.8545,
+          "path": [
+            [
+              103.8497,
+              1.2793
+            ],
+            [
+              103.8545,
+              1.2765
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 19,
+          "start_lat": 1.2793,
+          "start_lon": 103.8497,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.2816,
+          "end_lon": 103.8638,
+          "path": [
+            [
+              103.8545,
+              1.2765
+            ],
+            [
+              103.8638,
+              1.2816
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 20,
+          "start_lat": 1.2765,
+          "start_lon": 103.8545,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.297364,
+          "end_lon": 103.873443,
+          "path": [
+            [
+              103.8638,
+              1.2816
+            ],
+            [
+              103.873443,
+              1.297364
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 21,
+          "start_lat": 1.2816,
+          "start_lon": 103.8638,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3028,
+          "end_lon": 103.8828,
+          "path": [
+            [
+              103.873443,
+              1.297364
+            ],
+            [
+              103.8828,
+              1.3028
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 22,
+          "start_lat": 1.297364,
+          "start_lon": 103.873443,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3057,
+          "end_lon": 103.8918,
+          "path": [
+            [
+              103.8828,
+              1.3028
+            ],
+            [
+              103.8918,
+              1.3057
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 23,
+          "start_lat": 1.3028,
+          "start_lon": 103.8828,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3022,
+          "end_lon": 103.901,
+          "path": [
+            [
+              103.8918,
+              1.3057
+            ],
+            [
+              103.901,
+              1.3022
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 24,
+          "start_lat": 1.3057,
+          "start_lon": 103.8918,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3056,
+          "end_lon": 103.9082,
+          "path": [
+            [
+              103.901,
+              1.3022
+            ],
+            [
+              103.9082,
+              1.3056
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 25,
+          "start_lat": 1.3022,
+          "start_lon": 103.901,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3145,
+          "end_lon": 103.9261,
+          "path": [
+            [
+              103.9082,
+              1.3056
+            ],
+            [
+              103.9261,
+              1.3145
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 26,
+          "start_lat": 1.3056,
+          "start_lon": 103.9082,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3194,
+          "end_lon": 103.9382,
+          "path": [
+            [
+              103.9261,
+              1.3145
+            ],
+            [
+              103.9382,
+              1.3194
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 27,
+          "start_lat": 1.3145,
+          "start_lon": 103.9261,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.3283,
+          "end_lon": 103.9479,
+          "path": [
+            [
+              103.9382,
+              1.3194
+            ],
+            [
+              103.9479,
+              1.3283
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 28,
+          "start_lat": 1.3194,
+          "start_lon": 103.9382,
+          "status": "operational"
+        },
+        {
+          "end_lat": 1.336,
+          "end_lon": 103.9596,
+          "path": [
+            [
+              103.9479,
+              1.3283
+            ],
+            [
+              103.9596,
+              1.336
+            ]
+          ],
+          "render_state": "operational",
+          "segment_order": 29,
+          "start_lat": 1.3283,
+          "start_lon": 103.9479,
+          "status": "operational"
+        }
+      ],
+      "status": "operational"
+    }
+  ],
+  "stations": [
+    {
+      "is_interchange": false,
+      "lat": 1.4408,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8008,
+      "name": "Admiralty",
+      "render_state": "operational",
+      "station_code": "NS10",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3161,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8829,
+      "name": "Aljunied",
+      "render_state": "operational",
+      "station_code": "EW9",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.37,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8496,
+      "name": "Ang Mo Kio",
+      "render_state": "operational",
+      "station_code": "NS16",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3946,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9162,
+      "name": "Bakau",
+      "render_state": "operational",
+      "station_code": "SE3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3813,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7761,
+      "name": "Bangkit",
+      "render_state": "operational",
+      "station_code": "BP9",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3424,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8798,
+      "name": "Bartley",
+      "render_state": "operational",
+      "station_code": "CC12",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2821,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8592,
+      "name": "Bayfront",
+      "render_state": "operational",
+      "station_code": "DT16",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2821,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CEL",
+          "line_name": "Circle Line Extension",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8592,
+      "name": "Bayfront",
+      "render_state": "operational",
+      "station_code": "CE1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3194,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9382,
+      "name": "Bayshore",
+      "render_state": "operational",
+      "station_code": "TE29",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3408,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7752,
+      "name": "Beauty World",
+      "render_state": "operational",
+      "station_code": "DT5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.324,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9299,
+      "name": "Bedok",
+      "render_state": "operational",
+      "station_code": "EW5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.334,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.919,
+      "name": "Bedok North",
+      "render_state": "operational",
+      "station_code": "DT29",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3361,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9321,
+      "name": "Bedok Reservoir",
+      "render_state": "operational",
+      "station_code": "DT30",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3283,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9479,
+      "name": "Bedok South",
+      "render_state": "operational",
+      "station_code": "TE30",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.298,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8497,
+      "name": "Bencoolen",
+      "render_state": "operational",
+      "station_code": "DT21",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3136,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8618,
+      "name": "Bendemeer",
+      "render_state": "operational",
+      "station_code": "DT23",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.351,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8485,
+      "name": "Bishan",
+      "render_state": "operational",
+      "station_code": "CC15",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.351,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": true,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8485,
+      "name": "Bishan",
+      "render_state": "operational",
+      "station_code": "NS17",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3197,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": false,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8617,
+      "name": "Boon Keng",
+      "render_state": "operational",
+      "station_code": "NE9",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3387,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7057,
+      "name": "Boon Lay",
+      "render_state": "operational",
+      "station_code": "EW27",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3225,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8154,
+      "name": "Botanic Gardens",
+      "render_state": "operational",
+      "station_code": "CC19",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3225,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8154,
+      "name": "Botanic Gardens",
+      "render_state": "operational",
+      "station_code": "DT9",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3404,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8468,
+      "name": "Braddell",
+      "render_state": "operational",
+      "station_code": "NS18",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2966,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8509,
+      "name": "Bras Basah",
+      "render_state": "operational",
+      "station_code": "CC2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3625,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8399,
+      "name": "Bright Hill",
+      "render_state": "operational",
+      "station_code": "TE7",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3832,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": false,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8929,
+      "name": "Buangkok",
+      "render_state": "operational",
+      "station_code": "NE15",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3009,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8563,
+      "name": "Bugis",
+      "render_state": "operational",
+      "station_code": "EW12",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3009,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8563,
+      "name": "Bugis",
+      "render_state": "operational",
+      "station_code": "DT14",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.349,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7496,
+      "name": "Bukit Batok",
+      "render_state": "operational",
+      "station_code": "NS2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3588,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7517,
+      "name": "Bukit Gombak",
+      "render_state": "operational",
+      "station_code": "NS3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3788,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": true,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7764,
+      "name": "Bukit Panjang",
+      "render_state": "operational",
+      "station_code": "BP6",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3788,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7764,
+      "name": "Bukit Panjang",
+      "render_state": "operational",
+      "station_code": "DT1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3072,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.79,
+      "name": "Buona Vista",
+      "render_state": "operational",
+      "station_code": "CC22",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3072,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.79,
+      "name": "Buona Vista",
+      "render_state": "operational",
+      "station_code": "EW21",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3374,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8392,
+      "name": "Caldecott",
+      "render_state": "operational",
+      "station_code": "CC17",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3374,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": true,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8392,
+      "name": "Caldecott",
+      "render_state": "operational",
+      "station_code": "TE9",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4432,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8298,
+      "name": "Canberra",
+      "render_state": "operational",
+      "station_code": "NS12",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.37,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7739,
+      "name": "Cashew",
+      "render_state": "operational",
+      "station_code": "DT2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3572,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "CGL",
+          "line_name": "Changi Airport Branch",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9886,
+      "name": "Changi Airport",
+      "render_state": "operational",
+      "station_code": "CG2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3973,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8912,
+      "name": "Cheng Lim",
+      "render_state": "operational",
+      "station_code": "SW1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2845,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8444,
+      "name": "Chinatown",
+      "render_state": "operational",
+      "station_code": "DT19",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2845,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": true,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8444,
+      "name": "Chinatown",
+      "render_state": "operational",
+      "station_code": "NE4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3425,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7325,
+      "name": "Chinese Garden",
+      "render_state": "operational",
+      "station_code": "EW25",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3853,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": true,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7444,
+      "name": "Choa Chu Kang",
+      "render_state": "operational",
+      "station_code": "BP1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3853,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": true,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7444,
+      "name": "Choa Chu Kang",
+      "render_state": "operational",
+      "station_code": "NS4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2931,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.852,
+      "name": "City Hall",
+      "render_state": "operational",
+      "station_code": "EW13",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2931,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": true,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.852,
+      "name": "City Hall",
+      "render_state": "operational",
+      "station_code": "NS25",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2885,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": false,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8467,
+      "name": "Clarke Quay",
+      "render_state": "operational",
+      "station_code": "NE5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3152,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7654,
+      "name": "Clementi",
+      "render_state": "operational",
+      "station_code": "EW23",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3023,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.798,
+      "name": "Commonwealth",
+      "render_state": "operational",
+      "station_code": "EW20",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3963,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9026,
+      "name": "Compassvale",
+      "render_state": "operational",
+      "station_code": "SE1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9228,
+      "name": "Coral Edge",
+      "render_state": "operational",
+      "station_code": "PE3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4032,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9095,
+      "name": "Cove",
+      "render_state": "operational",
+      "station_code": "PE1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3084,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8888,
+      "name": "Dakota",
+      "render_state": "operational",
+      "station_code": "CC8",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4077,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9098,
+      "name": "Damai",
+      "render_state": "operational",
+      "station_code": "PE7",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2993,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": true,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8458,
+      "name": "Dhoby Ghaut",
+      "render_state": "operational",
+      "station_code": "NE6",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2993,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": true,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8458,
+      "name": "Dhoby Ghaut",
+      "render_state": "operational",
+      "station_code": "NS24",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2993,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8458,
+      "name": "Dhoby Ghaut",
+      "render_state": "operational",
+      "station_code": "CC1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3113,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7788,
+      "name": "Dover",
+      "render_state": "operational",
+      "station_code": "EW22",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2796,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8523,
+      "name": "Downtown",
+      "render_state": "operational",
+      "station_code": "DT17",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2936,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8554,
+      "name": "Esplanade",
+      "render_state": "operational",
+      "station_code": "CC3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3196,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.903,
+      "name": "Eunos",
+      "render_state": "operational",
+      "station_code": "EW7",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3353,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9615,
+      "name": "Expo",
+      "render_state": "operational",
+      "station_code": "DT35",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3353,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "CGL",
+          "line_name": "Changi Airport Branch",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9615,
+      "name": "Expo",
+      "render_state": "operational",
+      "station_code": "CG1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.384,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7744,
+      "name": "Fajar",
+      "render_state": "operational",
+      "station_code": "BP10",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3998,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8879,
+      "name": "Farmway",
+      "render_state": "operational",
+      "station_code": "SW2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3124,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": false,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8543,
+      "name": "Farrer Park",
+      "render_state": "operational",
+      "station_code": "NE8",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3175,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8077,
+      "name": "Farrer Road",
+      "render_state": "operational",
+      "station_code": "CC20",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3991,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8968,
+      "name": "Fernvale",
+      "render_state": "operational",
+      "station_code": "SW5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2921,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8447,
+      "name": "Fort Canning",
+      "render_state": "operational",
+      "station_code": "DT20",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2816,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8638,
+      "name": "Gardens by the Bay",
+      "render_state": "operational",
+      "station_code": "TE22",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3218,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8715,
+      "name": "Geylang Bahru",
+      "render_state": "operational",
+      "station_code": "DT24",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2952,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.828,
+      "name": "Great World",
+      "render_state": "operational",
+      "station_code": "TE15",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.319,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.6606,
+      "name": "Gul Circle",
+      "render_state": "operational",
+      "station_code": "EW30",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2651,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": true,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8196,
+      "name": "HarbourFront",
+      "render_state": "operational",
+      "station_code": "NE1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2651,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8196,
+      "name": "HarbourFront",
+      "render_state": "operational",
+      "station_code": "CC29",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2893,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8323,
+      "name": "Havelock",
+      "render_state": "operational",
+      "station_code": "TE16",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2826,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7824,
+      "name": "Haw Par Villa",
+      "render_state": "operational",
+      "station_code": "CC25",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3626,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7675,
+      "name": "Hillview",
+      "render_state": "operational",
+      "station_code": "DT3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3118,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7958,
+      "name": "Holland Village",
+      "render_state": "operational",
+      "station_code": "CC21",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3713,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": false,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8921,
+      "name": "Hougang",
+      "render_state": "operational",
+      "station_code": "NE14",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3526,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7629,
+      "name": "Hume",
+      "render_state": "operational",
+      "station_code": "DT4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3055,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8559,
+      "name": "Jalan Besar",
+      "render_state": "operational",
+      "station_code": "DT22",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3847,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7636,
+      "name": "Jelapang",
+      "render_state": "operational",
+      "station_code": "BP12",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3277,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.6783,
+      "name": "Joo Koon",
+      "render_state": "operational",
+      "station_code": "EW29",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3331,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": true,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.742,
+      "name": "Jurong East",
+      "render_state": "operational",
+      "station_code": "NS1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3331,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.742,
+      "name": "Jurong East",
+      "render_state": "operational",
+      "station_code": "EW24",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4062,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.923,
+      "name": "Kadaloor",
+      "render_state": "operational",
+      "station_code": "PE5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3348,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9083,
+      "name": "Kaki Bukit",
+      "render_state": "operational",
+      "station_code": "DT28",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3111,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8716,
+      "name": "Kallang",
+      "render_state": "operational",
+      "station_code": "EW10",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3929,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9212,
+      "name": "Kangkar",
+      "render_state": "operational",
+      "station_code": "SE4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3028,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8828,
+      "name": "Katong Park",
+      "render_state": "operational",
+      "station_code": "TE24",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3789,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7471,
+      "name": "Keat Hong",
+      "render_state": "operational",
+      "station_code": "BP3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3209,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9128,
+      "name": "Kembangan",
+      "render_state": "operational",
+      "station_code": "EW6",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.294,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7848,
+      "name": "Kent Ridge",
+      "render_state": "operational",
+      "station_code": "CC24",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4176,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8329,
+      "name": "Khatib",
+      "render_state": "operational",
+      "station_code": "NS14",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3347,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7842,
+      "name": "King Albert Park",
+      "render_state": "operational",
+      "station_code": "DT6",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3596,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": false,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8854,
+      "name": "Kovan",
+      "render_state": "operational",
+      "station_code": "NE13",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4252,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7619,
+      "name": "Kranji",
+      "render_state": "operational",
+      "station_code": "NS7",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4025,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8889,
+      "name": "Kupang",
+      "render_state": "operational",
+      "station_code": "SW3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2724,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8023,
+      "name": "Labrador Park",
+      "render_state": "operational",
+      "station_code": "CC27",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3441,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7209,
+      "name": "Lakeside",
+      "render_state": "operational",
+      "station_code": "EW26",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3073,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8633,
+      "name": "Lavender",
+      "render_state": "operational",
+      "station_code": "EW11",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3965,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8988,
+      "name": "Layar",
+      "render_state": "operational",
+      "station_code": "SW6",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3916,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8366,
+      "name": "Lentor",
+      "render_state": "operational",
+      "station_code": "TE5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3066,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": true,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8495,
+      "name": "Little India",
+      "render_state": "operational",
+      "station_code": "NE7",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3066,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8495,
+      "name": "Little India",
+      "render_state": "operational",
+      "station_code": "DT12",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3517,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8642,
+      "name": "Lorong Chuan",
+      "render_state": "operational",
+      "station_code": "CC14",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3263,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8899,
+      "name": "MacPherson",
+      "render_state": "operational",
+      "station_code": "DT26",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3263,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8899,
+      "name": "MacPherson",
+      "render_state": "operational",
+      "station_code": "CC10",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2765,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CEL",
+          "line_name": "Circle Line Extension",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8545,
+      "name": "Marina Bay",
+      "render_state": "operational",
+      "station_code": "CE2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2765,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": true,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8545,
+      "name": "Marina Bay",
+      "render_state": "operational",
+      "station_code": "TE20",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2765,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": true,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8545,
+      "name": "Marina Bay",
+      "render_state": "operational",
+      "station_code": "NS27",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2708,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8633,
+      "name": "Marina South Pier",
+      "render_state": "operational",
+      "station_code": "NS28",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3022,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.901,
+      "name": "Marine Parade",
+      "render_state": "operational",
+      "station_code": "TE26",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3056,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9082,
+      "name": "Marine Terrace",
+      "render_state": "operational",
+      "station_code": "TE27",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4326,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7743,
+      "name": "Marsiling",
+      "render_state": "operational",
+      "station_code": "NS8",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4126,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.774,
+      "name": "Marsiling",
+      "render_state": "operational",
+      "station_code": "NS6",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3488,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8394,
+      "name": "Marymount",
+      "render_state": "operational",
+      "station_code": "CC16",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3262,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.883,
+      "name": "Mattar",
+      "render_state": "operational",
+      "station_code": "DT25",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2794,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8446,
+      "name": "Maxwell",
+      "render_state": "operational",
+      "station_code": "TE18",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3786,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8389,
+      "name": "Mayflower",
+      "render_state": "operational",
+      "station_code": "TE6",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4009,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9155,
+      "name": "Meridian",
+      "render_state": "operational",
+      "station_code": "PE2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3066,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8825,
+      "name": "Mountbatten",
+      "render_state": "operational",
+      "station_code": "CC7",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3282,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8295,
+      "name": "Mount Pleasant",
+      "render_state": "operational",
+      "station_code": "TE10",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3066,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8177,
+      "name": "Napier",
+      "render_state": "operational",
+      "station_code": "TE12",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3125,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8385,
+      "name": "Newton",
+      "render_state": "operational",
+      "station_code": "DT11",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3125,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": true,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8385,
+      "name": "Newton",
+      "render_state": "operational",
+      "station_code": "NS21",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4147,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9145,
+      "name": "Nibong",
+      "render_state": "operational",
+      "station_code": "PW5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2995,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8634,
+      "name": "Nicoll Highway",
+      "render_state": "operational",
+      "station_code": "CC5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3204,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8436,
+      "name": "Novena",
+      "render_state": "operational",
+      "station_code": "NS20",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4089,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9168,
+      "name": "Oasis",
+      "render_state": "operational",
+      "station_code": "PE6",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2993,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7873,
+      "name": "one-north",
+      "render_state": "operational",
+      "station_code": "CC23",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3045,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": true,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.832,
+      "name": "Orchard",
+      "render_state": "operational",
+      "station_code": "NS22",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3045,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": true,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.832,
+      "name": "Orchard",
+      "render_state": "operational",
+      "station_code": "TE14",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2801,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": true,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8395,
+      "name": "Outram Park",
+      "render_state": "operational",
+      "station_code": "NE3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2801,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": true,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8395,
+      "name": "Outram Park",
+      "render_state": "operational",
+      "station_code": "TE17",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2801,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8395,
+      "name": "Outram Park",
+      "render_state": "operational",
+      "station_code": "EW16",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2762,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7919,
+      "name": "Pasir Panjang",
+      "render_state": "operational",
+      "station_code": "CC26",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3731,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9494,
+      "name": "Pasir Ris",
+      "render_state": "operational",
+      "station_code": "EW1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3179,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8924,
+      "name": "Paya Lebar",
+      "render_state": "operational",
+      "station_code": "EW8",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3179,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8924,
+      "name": "Paya Lebar",
+      "render_state": "operational",
+      "station_code": "CC9",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3797,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7613,
+      "name": "Pending",
+      "render_state": "operational",
+      "station_code": "BP8",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.38,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7689,
+      "name": "Petir",
+      "render_state": "operational",
+      "station_code": "BP7",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3785,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7674,
+      "name": "Phoenix",
+      "render_state": "operational",
+      "station_code": "BP5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3376,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.6971,
+      "name": "Pioneer",
+      "render_state": "operational",
+      "station_code": "EW28",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3315,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": false,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8688,
+      "name": "Potong Pasir",
+      "render_state": "operational",
+      "station_code": "NE10",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2935,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        },
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CEL",
+          "line_name": "Circle Line Extension",
+          "line_order": null
+        }
+      ],
+      "lon": 103.861,
+      "name": "Promenade",
+      "render_state": "operational",
+      "station_code": "CC4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2935,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.861,
+      "name": "Promenade",
+      "render_state": "operational",
+      "station_code": "DT15",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.4054,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": true,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9024,
+      "name": "Punggol",
+      "render_state": "operational",
+      "station_code": "PTC",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.4054,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": true,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9024,
+      "name": "Punggol",
+      "render_state": "operational",
+      "station_code": "NE17",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4197,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9051,
+      "name": "Punggol Point",
+      "render_state": "operational",
+      "station_code": "PW3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2943,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8061,
+      "name": "Queenstown",
+      "render_state": "operational",
+      "station_code": "EW19",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2838,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": true,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8515,
+      "name": "Raffles Place",
+      "render_state": "operational",
+      "station_code": "NS26",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.2838,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8515,
+      "name": "Raffles Place",
+      "render_state": "operational",
+      "station_code": "EW14",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3904,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9162,
+      "name": "Ranggung",
+      "render_state": "operational",
+      "station_code": "SE5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2896,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8172,
+      "name": "Redhill",
+      "render_state": "operational",
+      "station_code": "EW18",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3926,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8953,
+      "name": "Renjong",
+      "render_state": "operational",
+      "station_code": "SW8",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4027,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9252,
+      "name": "Riviera",
+      "render_state": "operational",
+      "station_code": "PE4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.304,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8525,
+      "name": "Rochor",
+      "render_state": "operational",
+      "station_code": "DT13",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3955,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9107,
+      "name": "Rumbia",
+      "render_state": "operational",
+      "station_code": "SE2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4117,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.902,
+      "name": "Sam Kee",
+      "render_state": "operational",
+      "station_code": "PW1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4173,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9109,
+      "name": "Samudera",
+      "render_state": "operational",
+      "station_code": "PW4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3852,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7722,
+      "name": "Segar",
+      "render_state": "operational",
+      "station_code": "BP11",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.449,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8199,
+      "name": "Sembawang",
+      "render_state": "operational",
+      "station_code": "NS11",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3915,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": true,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8953,
+      "name": "Sengkang",
+      "render_state": "operational",
+      "station_code": "STC",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3915,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": true,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8953,
+      "name": "Sengkang",
+      "render_state": "operational",
+      "station_code": "NE16",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3823,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7558,
+      "name": "Senja",
+      "render_state": "operational",
+      "station_code": "BP13",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3499,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": true,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8731,
+      "name": "Serangoon",
+      "render_state": "operational",
+      "station_code": "NE12",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3499,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": true,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8731,
+      "name": "Serangoon",
+      "render_state": "operational",
+      "station_code": "CC13",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2793,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8497,
+      "name": "Shenton Way",
+      "render_state": "operational",
+      "station_code": "TE19",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3145,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9261,
+      "name": "Siglap",
+      "render_state": "operational",
+      "station_code": "TE28",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.343,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.953,
+      "name": "Simei",
+      "render_state": "operational",
+      "station_code": "EW3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.33,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7956,
+      "name": "Sixth Avenue",
+      "render_state": "operational",
+      "station_code": "DT7",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3006,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8387,
+      "name": "Somerset",
+      "render_state": "operational",
+      "station_code": "NS23",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4085,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9082,
+      "name": "Soo Teck",
+      "render_state": "operational",
+      "station_code": "PW7",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3814,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7457,
+      "name": "South View",
+      "render_state": "operational",
+      "station_code": "BP2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4033,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8192,
+      "name": "Springleaf",
+      "render_state": "operational",
+      "station_code": "TE4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3029,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.875,
+      "name": "Stadium",
+      "render_state": "operational",
+      "station_code": "CC6",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.32,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8263,
+      "name": "Stevens",
+      "render_state": "operational",
+      "station_code": "DT10",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.32,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": true,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8263,
+      "name": "Stevens",
+      "render_state": "operational",
+      "station_code": "TE11",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4121,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9143,
+      "name": "Sumang",
+      "render_state": "operational",
+      "station_code": "PW6",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.336,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9596,
+      "name": "Sungei Bedok",
+      "render_state": "operational",
+      "station_code": "TE31",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3356,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8877,
+      "name": "Tai Seng",
+      "render_state": "operational",
+      "station_code": "CC11",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3527,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": true,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9452,
+      "name": "Tampines",
+      "render_state": "operational",
+      "station_code": "DT32",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3527,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9452,
+      "name": "Tampines",
+      "render_state": "operational",
+      "station_code": "EW2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3561,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9539,
+      "name": "Tampines East",
+      "render_state": "operational",
+      "station_code": "DT33",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3456,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.938,
+      "name": "Tampines West",
+      "render_state": "operational",
+      "station_code": "DT31",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.3273,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "CGL",
+          "line_name": "Changi Airport Branch",
+          "line_order": null
+        },
+        {
+          "color_hex": "#009645",
+          "is_interchange": true,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9462,
+      "name": "Tanah Merah",
+      "render_state": "operational",
+      "station_code": "EW4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3059,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8236,
+      "name": "Tanglin",
+      "render_state": "operational",
+      "station_code": "TE13",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3057,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8918,
+      "name": "Tanjong Katong",
+      "render_state": "operational",
+      "station_code": "TE25",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2763,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8456,
+      "name": "Tanjong Pagar",
+      "render_state": "operational",
+      "station_code": "EW15",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.297364,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.873443,
+      "name": "Tanjong Rhu",
+      "render_state": "operational",
+      "station_code": "TE23",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3256,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8075,
+      "name": "Tan Kah Kee",
+      "render_state": "operational",
+      "station_code": "DT8",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4158,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "PGL",
+          "line_name": "Punggol LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8978,
+      "name": "Teck Lee",
+      "render_state": "operational",
+      "station_code": "PW2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3773,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "BPL",
+          "line_name": "Bukit Panjang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7549,
+      "name": "Teck Whye",
+      "render_state": "operational",
+      "station_code": "BP4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2815,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8476,
+      "name": "Telok Ayer",
+      "render_state": "operational",
+      "station_code": "DT18",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2706,
+      "lines": [
+        {
+          "color_hex": "#FA9E0D",
+          "is_interchange": false,
+          "line_code": "CCL",
+          "line_name": "Circle Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8096,
+      "name": "Telok Blangah",
+      "render_state": "operational",
+      "station_code": "CC28",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4021,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8957,
+      "name": "Thanggam",
+      "render_state": "operational",
+      "station_code": "SW4",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.2863,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8274,
+      "name": "Tiong Bahru",
+      "render_state": "operational",
+      "station_code": "EW17",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3326,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8471,
+      "name": "Toa Payoh",
+      "render_state": "operational",
+      "station_code": "NS19",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3935,
+      "lines": [
+        {
+          "color_hex": "#7C8792",
+          "is_interchange": false,
+          "line_code": "SKL",
+          "line_name": "Sengkang LRT",
+          "line_order": null
+        }
+      ],
+      "lon": 103.897,
+      "name": "Tongkang",
+      "render_state": "operational",
+      "station_code": "SW7",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3217,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.6489,
+      "name": "Tuas Crescent",
+      "render_state": "operational",
+      "station_code": "EW31",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3404,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.6372,
+      "name": "Tuas Link",
+      "render_state": "operational",
+      "station_code": "EW33",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.331,
+      "lines": [
+        {
+          "color_hex": "#009645",
+          "is_interchange": false,
+          "line_code": "EWL",
+          "line_name": "East West Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.6396,
+      "name": "Tuas West Road",
+      "render_state": "operational",
+      "station_code": "EW32",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3296,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8976,
+      "name": "Ubi",
+      "render_state": "operational",
+      "station_code": "DT27",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3415,
+      "lines": [
+        {
+          "color_hex": "#005EC4",
+          "is_interchange": false,
+          "line_code": "DTL",
+          "line_name": "Downtown Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.9616,
+      "name": "Upper Changi",
+      "render_state": "operational",
+      "station_code": "DT34",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3548,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8328,
+      "name": "Upper Thomson",
+      "render_state": "operational",
+      "station_code": "TE8",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.437,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": true,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7864,
+      "name": "Woodlands",
+      "render_state": "operational",
+      "station_code": "NS9",
+      "status": "operational"
+    },
+    {
+      "is_interchange": true,
+      "lat": 1.437,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": true,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7864,
+      "name": "Woodlands",
+      "render_state": "operational",
+      "station_code": "TE2",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4487,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.786,
+      "name": "Woodlands North",
+      "render_state": "operational",
+      "station_code": "TE1",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4266,
+      "lines": [
+        {
+          "color_hex": "#9D5B25",
+          "is_interchange": false,
+          "line_code": "TEL",
+          "line_name": "Thomson-East Coast Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.799,
+      "name": "Woodlands South",
+      "render_state": "operational",
+      "station_code": "TE3",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3394,
+      "lines": [
+        {
+          "color_hex": "#9900AA",
+          "is_interchange": false,
+          "line_code": "NEL",
+          "line_name": "North East Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8712,
+      "name": "Woodleigh",
+      "render_state": "operational",
+      "station_code": "NE11",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3972,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.7474,
+      "name": "Yew Tee",
+      "render_state": "operational",
+      "station_code": "NS5",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.3816,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8449,
+      "name": "Yio Chu Kang",
+      "render_state": "operational",
+      "station_code": "NS15",
+      "status": "operational"
+    },
+    {
+      "is_interchange": false,
+      "lat": 1.4294,
+      "lines": [
+        {
+          "color_hex": "#D42E12",
+          "is_interchange": false,
+          "line_code": "NSL",
+          "line_name": "North South Line",
+          "line_order": null
+        }
+      ],
+      "lon": 103.8354,
+      "name": "Yishun",
+      "render_state": "operational",
+      "station_code": "NS13",
+      "status": "operational"
+    }
+  ],
+  "total_lines": 11,
+  "total_stations": 216
+}
