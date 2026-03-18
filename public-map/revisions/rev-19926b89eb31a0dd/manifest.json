@@ -1,0 +1,50 @@
+{
+  "capabilities": {
+    "features": {
+      "geo_overlays": {
+        "reason": "This static-public revision does not publish both amenities and transit-overlay datasets.",
+        "state": "unsupported"
+      },
+      "heatmap_advanced_filters": {
+        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
+        "state": "unsupported"
+      },
+      "heatmap_layer": {
+        "reason": "This static-public revision does not publish a transactions heatmap snapshot.",
+        "state": "unsupported"
+      },
+      "listing_surface": {
+        "reason": "Static-public mode does not expose live listing queries, annotations, or user-scoped listing workflows.",
+        "state": "unsupported"
+      }
+    },
+    "schema_version": 1
+  },
+  "datasets": {
+    "accessibility_signals": {
+      "bytes": 1454613,
+      "content_encoding": "gzip",
+      "contract": {
+        "id": "static-public/accessibility-signals",
+        "version": "1.0.0"
+      },
+      "contract_id": "static-public/accessibility-signals",
+      "contract_version": "1.0.0",
+      "path": "datasets/accessibility-signals.json.gz",
+      "revision": {
+        "as_of": "2026-03-18",
+        "dimension_count": 20,
+        "git_commit": "cbe3c8f26d5e2f0b2b544b6b649912cf22711602",
+        "record_count": 10673,
+        "run_id": 13
+      },
+      "sha256": "07aeb916f43c303b6bc70ae7707bb8b2e78ac6f1d3113ca3696bc1114de242ca"
+    }
+  },
+  "route_snapshots": {
+    "policies": {},
+    "supported": {},
+    "unsupported": {}
+  },
+  "version": 1
+}
