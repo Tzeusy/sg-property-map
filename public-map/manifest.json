@@ -5,8 +5,7 @@
         "state": "supported"
       },
       "heatmap_advanced_filters": {
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "state": "unsupported"
+        "state": "supported"
       },
       "heatmap_layer": {
         "state": "supported"
@@ -20,20 +19,20 @@
   },
   "datasets": {
     "amenities": {
-      "bytes": 3135003,
+      "bytes": 7062397,
       "contract": {
         "id": "static-public/geo-amenities",
         "version": "1.0.0"
       },
       "contract_id": "static-public/geo-amenities",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/geodata/amenities.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/geodata/amenities.json",
       "revision": {
         "as_of": "2026-03-18",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
-        "record_count": 6754
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
+        "record_count": 14477
       },
-      "sha256": "293ed02ec0dcd06915955cf37403ff9458b9948ac18a92d51a9f1266be0fab5b"
+      "sha256": "9ca32ff5bf7f42a03ce794289fb25783ae9162312f5c5c3459e17be677fcc42c"
     },
     "geodata_freshness": {
       "bytes": 3955,
@@ -48,35 +47,35 @@
         "latest_published_at": null,
         "stale_families": 12
       },
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/geodata/freshness.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/geodata/freshness.json",
       "revision": {
         "family_count": 12,
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
         "latest_published_at": null,
         "stale_family_count": 12
       },
       "sha256": "0e65bba6176b979b3aa4b7455e5d381e70dc41ebadc08e526ca53e7a281001c8"
     },
     "heatmap": {
-      "bytes": 208011,
+      "bytes": 350868,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap.json",
       "revision": {
-        "as_of": "2026-03-07",
+        "as_of": "2026-03-18",
         "dataset": "all",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
-        "max_fetched_at": "2026-03-07T03:52:44.006050",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
+        "max_fetched_at": "2026-03-18T05:17:37.233315",
         "max_points": 2000,
         "metric": "psf",
-        "record_count": 535807,
+        "record_count": 758273,
         "zoom": 15
       },
-      "sha256": "49907d0a2f846fe3fa6492d29fa73220f968f64bdfccca267a641fbc05ddf7ea"
+      "sha256": "c5062b40b88b79bae2688468e7ad91e48bb566bc29bcab504f78268675849f72"
     },
     "heatmap_accessibility": {
       "bytes": 789,
@@ -86,11 +85,11 @@
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-accessibility.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-accessibility.json",
       "revision": {
         "as_of": null,
         "dataset": "all",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
         "max_fetched_at": null,
         "max_points": 2000,
         "metric": "accessibility",
@@ -107,11 +106,11 @@
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-accessibility-rental.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-accessibility-rental.json",
       "revision": {
         "as_of": null,
         "dataset": "rental",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
         "max_fetched_at": null,
         "max_points": 2000,
         "metric": "accessibility",
@@ -128,11 +127,11 @@
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-accessibility-sale.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-accessibility-sale.json",
       "revision": {
         "as_of": null,
         "dataset": "sale",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
         "max_fetched_at": null,
         "max_points": 2000,
         "metric": "accessibility",
@@ -141,89 +140,146 @@
       },
       "sha256": "f1ce53d4415efa89a5923d5c12cc11a1a6dc864682b0146e245e2d406a4dcacf"
     },
+    "heatmap_bootstrap": {
+      "bytes": 135377,
+      "contract": {
+        "id": "static-public/transactions-heatmap-bootstrap-index",
+        "version": "1.0.0"
+      },
+      "contract_id": "static-public/transactions-heatmap-bootstrap-index",
+      "contract_version": "1.0.0",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-bootstrap-index.json",
+      "revision": {
+        "chunk_count": 171,
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
+        "record_count": 737156,
+        "scope_count": 2,
+        "startup_budget_bytes": 26214400,
+        "startup_bytes": 1035311
+      },
+      "sha256": "355a6b0f38880c060d8b197b806be9da0994f22ff2eb338a535ece0ee3470e3a"
+    },
+    "heatmap_filterable_rental": {
+      "bytes": 11521796,
+      "content_encoding": "gzip",
+      "contract": {
+        "id": "static-public/transactions-heatmap-filterable",
+        "version": "1.0.0"
+      },
+      "contract_id": "static-public/transactions-heatmap-filterable",
+      "contract_version": "1.0.0",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-filterable-rental.json.gz",
+      "revision": {
+        "as_of": "2026-03-07",
+        "dataset": "rental",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
+        "max_fetched_at": "2026-03-07T03:52:44.006050",
+        "record_count": 388154
+      },
+      "sha256": "d2440b24d34a6d4c8ca1dfce5966520d6ff6731682b3817ebb11156c4ccef336"
+    },
+    "heatmap_filterable_sale": {
+      "bytes": 14593048,
+      "content_encoding": "gzip",
+      "contract": {
+        "id": "static-public/transactions-heatmap-filterable",
+        "version": "1.0.0"
+      },
+      "contract_id": "static-public/transactions-heatmap-filterable",
+      "contract_version": "1.0.0",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-filterable-sale.json.gz",
+      "revision": {
+        "as_of": "2026-03-18",
+        "dataset": "sale",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
+        "max_fetched_at": "2026-03-18T05:17:37.233315",
+        "record_count": 349002
+      },
+      "sha256": "ca5efff1830bcf4ce7c9c2fe2ec93577e3eba0afe878cb09e5bdc6c1640ae32b"
+    },
     "heatmap_price_rental": {
-      "bytes": 201139,
+      "bytes": 352497,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-price-rental.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-price-rental.json",
       "revision": {
-        "as_of": "2026-03-07",
+        "as_of": "2026-03-18",
         "dataset": "rental",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
-        "max_fetched_at": "2026-03-07T03:52:44.006050",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
+        "max_fetched_at": "2026-03-18T05:14:13.291519",
         "max_points": 2000,
         "metric": "price",
-        "record_count": 405539,
+        "record_count": 567395,
         "zoom": 15
       },
-      "sha256": "8659863c69c127718ca7cec377ae01bc7a5c2bd1c9a5e186ff56f1f69fb0f30a"
+      "sha256": "4c74128e96a9331f455e499c4692a6ec2843a724ab7bfffd3a78047cdfe34295"
     },
     "heatmap_price_sale": {
-      "bytes": 204620,
+      "bytes": 357330,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-price-sale.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-price-sale.json",
       "revision": {
-        "as_of": "2026-03-07",
+        "as_of": "2026-03-18",
         "dataset": "sale",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
-        "max_fetched_at": "2026-03-07T03:49:38.561778",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
+        "max_fetched_at": "2026-03-18T05:17:37.233315",
         "max_points": 2000,
         "metric": "price",
-        "record_count": 130268,
+        "record_count": 352734,
         "zoom": 15
       },
-      "sha256": "3db47a4f106a40d24442b2db04a575bf7d88344363be242db6eb31c26311f61e"
+      "sha256": "73ff465ab3412928be44231888a4f0ff18789ed5862bc1588abf71d084cae83f"
     },
     "heatmap_rental": {
-      "bytes": 197705,
+      "bytes": 197728,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-rental.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-rental.json",
       "revision": {
         "as_of": "2026-03-07",
         "dataset": "rental",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
         "max_fetched_at": "2026-03-07T03:52:44.006050",
         "max_points": 2000,
         "metric": "psf",
         "record_count": 405539,
         "zoom": 15
       },
-      "sha256": "f23c2790b0b66347835ab60382af93ef360171ae9423a47c61ce54f3d95a792d"
+      "sha256": "a3f7208f2be35cb12e7432693d0a6ee464c1dfe6e7879353d9c1d200057e1fd1"
     },
     "heatmap_sale": {
-      "bytes": 201206,
+      "bytes": 351338,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-sale.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-sale.json",
       "revision": {
-        "as_of": "2026-03-07",
+        "as_of": "2026-03-18",
         "dataset": "sale",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
-        "max_fetched_at": "2026-03-07T03:49:38.561778",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
+        "max_fetched_at": "2026-03-18T05:17:37.233315",
         "max_points": 2000,
         "metric": "psf",
-        "record_count": 130268,
+        "record_count": 352734,
         "zoom": 15
       },
-      "sha256": "bf851c3ca84cee0305f2f51b46f6f6f71545443c357f956de57fd21bc626a101"
+      "sha256": "16b05089910468a3ef1ab66d29d9152318028912856efaa9f1407c9357b47bf7"
     },
     "residential_listings": {
       "bytes": 130987,
@@ -233,10 +289,10 @@
       },
       "contract_id": "static-public/geo-residential-listings",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/geodata/residential-listings.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/geodata/residential-listings.json",
       "revision": {
         "as_of": "2026-03-11",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
         "max_last_seen_at": "2026-03-11T05:34:41.320540",
         "record_count": 513
       },
@@ -250,10 +306,10 @@
       },
       "contract_id": "static-public/geo-transit-overlay",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/geodata/transit-overlay.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/geodata/transit-overlay.json",
       "revision": {
         "as_of": "2026-03-18",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
         "line_count": 11,
         "station_count": 216
       },
@@ -267,17 +323,17 @@
       },
       "contract_id": "static-public/geo-transport-style",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-a6106c8e84d5cdb6/datasets/geodata/transport-style.json",
+      "path": "revisions/rev-94d9945d4aed2d08/datasets/geodata/transport-style.json",
       "revision": {
         "contract_version": "transport_style_v1",
-        "git_commit": "7533e0a47d045c55349c923707ceb3927ee89ea3",
+        "git_commit": "3d4ac869a1c1404984a4fba4454a15f43f4a8d6b",
         "line_count": 9
       },
       "sha256": "542ee1e199e3d6a33b9cce2ea5d8edeed940aef3d22e8ceb240c2361349c592e"
     }
   },
   "publication": {
-    "active_revision": "rev-a6106c8e84d5cdb6",
+    "active_revision": "rev-94d9945d4aed2d08",
     "previous_revision": null
   },
   "route_snapshots": {
@@ -315,14 +371,7 @@
           "min_lon",
           "zoom"
         ],
-        "unsupported_query_keys": [
-          "contract_date_from",
-          "contract_date_to",
-          "property_class",
-          "room_count",
-          "sqft_max",
-          "sqft_min"
-        ],
+        "unsupported_query_keys": [],
         "unsupported_reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering."
       }
     },
@@ -335,7 +384,7 @@
         "contract_id": "static-public/geo-amenities",
         "contract_version": "1.0.0",
         "dataset": "amenities",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/geodata/amenities.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/geodata/amenities.json"
       },
       "/geo/transit-overlay": {
         "contract": {
@@ -345,7 +394,7 @@
         "contract_id": "static-public/geo-transit-overlay",
         "contract_version": "1.0.0",
         "dataset": "transit_overlay",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/geodata/transit-overlay.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/geodata/transit-overlay.json"
       },
       "/geo/transport-style": {
         "contract": {
@@ -355,7 +404,7 @@
         "contract_id": "static-public/geo-transport-style",
         "contract_version": "1.0.0",
         "dataset": "transport_style",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/geodata/transport-style.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/geodata/transport-style.json"
       },
       "/stats/transactions/heatmap?dataset=all&metric=accessibility": {
         "contract": {
@@ -365,7 +414,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_accessibility",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-accessibility.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-accessibility.json"
       },
       "/stats/transactions/heatmap?dataset=all&metric=psf": {
         "contract": {
@@ -375,7 +424,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap.json"
       },
       "/stats/transactions/heatmap?dataset=rental&metric=accessibility": {
         "contract": {
@@ -385,7 +434,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_accessibility_rental",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-accessibility-rental.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-accessibility-rental.json"
       },
       "/stats/transactions/heatmap?dataset=rental&metric=price": {
         "contract": {
@@ -395,7 +444,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_price_rental",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-price-rental.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-price-rental.json"
       },
       "/stats/transactions/heatmap?dataset=rental&metric=psf": {
         "contract": {
@@ -405,7 +454,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_rental",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-rental.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-rental.json"
       },
       "/stats/transactions/heatmap?dataset=sale&metric=accessibility": {
         "contract": {
@@ -415,7 +464,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_accessibility_sale",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-accessibility-sale.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-accessibility-sale.json"
       },
       "/stats/transactions/heatmap?dataset=sale&metric=price": {
         "contract": {
@@ -425,7 +474,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_price_sale",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-price-sale.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-price-sale.json"
       },
       "/stats/transactions/heatmap?dataset=sale&metric=psf": {
         "contract": {
@@ -435,250 +484,10 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_sale",
-        "path": "revisions/rev-a6106c8e84d5cdb6/datasets/transactions-heatmap-sale.json"
+        "path": "revisions/rev-94d9945d4aed2d08/datasets/transactions-heatmap-sale.json"
       }
     },
     "unsupported": {
-      "/stats/transactions/heatmap?contract_date_from=__any__&dataset=all&metric=accessibility": {
-        "query": {
-          "contract_date_from": "__any__",
-          "dataset": "all",
-          "metric": "accessibility"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_from"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_from=__any__&dataset=all&metric=psf": {
-        "query": {
-          "contract_date_from": "__any__",
-          "dataset": "all",
-          "metric": "psf"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_from"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_from=__any__&dataset=rental&metric=accessibility": {
-        "query": {
-          "contract_date_from": "__any__",
-          "dataset": "rental",
-          "metric": "accessibility"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_from"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_from=__any__&dataset=rental&metric=price": {
-        "query": {
-          "contract_date_from": "__any__",
-          "dataset": "rental",
-          "metric": "price"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_from"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_from=__any__&dataset=rental&metric=psf": {
-        "query": {
-          "contract_date_from": "__any__",
-          "dataset": "rental",
-          "metric": "psf"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_from"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_from=__any__&dataset=sale&metric=accessibility": {
-        "query": {
-          "contract_date_from": "__any__",
-          "dataset": "sale",
-          "metric": "accessibility"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_from"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_from=__any__&dataset=sale&metric=price": {
-        "query": {
-          "contract_date_from": "__any__",
-          "dataset": "sale",
-          "metric": "price"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_from"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_from=__any__&dataset=sale&metric=psf": {
-        "query": {
-          "contract_date_from": "__any__",
-          "dataset": "sale",
-          "metric": "psf"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_from"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_to=__any__&dataset=all&metric=accessibility": {
-        "query": {
-          "contract_date_to": "__any__",
-          "dataset": "all",
-          "metric": "accessibility"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_to"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_to=__any__&dataset=all&metric=psf": {
-        "query": {
-          "contract_date_to": "__any__",
-          "dataset": "all",
-          "metric": "psf"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_to"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_to=__any__&dataset=rental&metric=accessibility": {
-        "query": {
-          "contract_date_to": "__any__",
-          "dataset": "rental",
-          "metric": "accessibility"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_to"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_to=__any__&dataset=rental&metric=price": {
-        "query": {
-          "contract_date_to": "__any__",
-          "dataset": "rental",
-          "metric": "price"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_to"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_to=__any__&dataset=rental&metric=psf": {
-        "query": {
-          "contract_date_to": "__any__",
-          "dataset": "rental",
-          "metric": "psf"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_to"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_to=__any__&dataset=sale&metric=accessibility": {
-        "query": {
-          "contract_date_to": "__any__",
-          "dataset": "sale",
-          "metric": "accessibility"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_to"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_to=__any__&dataset=sale&metric=price": {
-        "query": {
-          "contract_date_to": "__any__",
-          "dataset": "sale",
-          "metric": "price"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_to"
-        ]
-      },
-      "/stats/transactions/heatmap?contract_date_to=__any__&dataset=sale&metric=psf": {
-        "query": {
-          "contract_date_to": "__any__",
-          "dataset": "sale",
-          "metric": "psf"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "contract_date_to"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=all&metric=accessibility&property_class=__any__": {
-        "query": {
-          "dataset": "all",
-          "metric": "accessibility",
-          "property_class": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "property_class"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=all&metric=accessibility&room_count=__any__": {
-        "query": {
-          "dataset": "all",
-          "metric": "accessibility",
-          "room_count": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "room_count"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=all&metric=accessibility&sqft_max=__any__": {
-        "query": {
-          "dataset": "all",
-          "metric": "accessibility",
-          "sqft_max": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_max"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=all&metric=accessibility&sqft_min=__any__": {
-        "query": {
-          "dataset": "all",
-          "metric": "accessibility",
-          "sqft_min": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_min"
-        ]
-      },
       "/stats/transactions/heatmap?dataset=all&metric=price": {
         "query": {
           "dataset": "all",
@@ -689,342 +498,6 @@
         "unsupported_query_keys": [
           "dataset",
           "metric"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=all&metric=psf&property_class=__any__": {
-        "query": {
-          "dataset": "all",
-          "metric": "psf",
-          "property_class": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "property_class"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=all&metric=psf&room_count=__any__": {
-        "query": {
-          "dataset": "all",
-          "metric": "psf",
-          "room_count": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "room_count"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=all&metric=psf&sqft_max=__any__": {
-        "query": {
-          "dataset": "all",
-          "metric": "psf",
-          "sqft_max": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_max"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=all&metric=psf&sqft_min=__any__": {
-        "query": {
-          "dataset": "all",
-          "metric": "psf",
-          "sqft_min": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_min"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=accessibility&property_class=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "accessibility",
-          "property_class": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "property_class"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=accessibility&room_count=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "accessibility",
-          "room_count": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "room_count"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=accessibility&sqft_max=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "accessibility",
-          "sqft_max": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_max"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=accessibility&sqft_min=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "accessibility",
-          "sqft_min": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_min"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=price&property_class=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "price",
-          "property_class": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "property_class"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=price&room_count=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "price",
-          "room_count": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "room_count"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=price&sqft_max=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "price",
-          "sqft_max": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_max"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=price&sqft_min=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "price",
-          "sqft_min": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_min"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=psf&property_class=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "psf",
-          "property_class": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "property_class"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=psf&room_count=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "psf",
-          "room_count": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "room_count"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=psf&sqft_max=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "psf",
-          "sqft_max": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_max"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=rental&metric=psf&sqft_min=__any__": {
-        "query": {
-          "dataset": "rental",
-          "metric": "psf",
-          "sqft_min": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_min"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=accessibility&property_class=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "accessibility",
-          "property_class": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "property_class"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=accessibility&room_count=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "accessibility",
-          "room_count": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "room_count"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=accessibility&sqft_max=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "accessibility",
-          "sqft_max": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_max"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=accessibility&sqft_min=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "accessibility",
-          "sqft_min": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_min"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=price&property_class=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "price",
-          "property_class": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "property_class"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=price&room_count=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "price",
-          "room_count": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "room_count"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=price&sqft_max=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "price",
-          "sqft_max": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_max"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=price&sqft_min=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "price",
-          "sqft_min": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_min"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=psf&property_class=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "psf",
-          "property_class": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "property_class"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=psf&room_count=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "psf",
-          "room_count": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "room_count"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=psf&sqft_max=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "psf",
-          "sqft_max": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_max"
-        ]
-      },
-      "/stats/transactions/heatmap?dataset=sale&metric=psf&sqft_min=__any__": {
-        "query": {
-          "dataset": "sale",
-          "metric": "psf",
-          "sqft_min": "__any__"
-        },
-        "reason": "This static-public revision does not publish filterable sale and rental heatmap datasets required for advanced filtering.",
-        "route": "/stats/transactions/heatmap",
-        "unsupported_query_keys": [
-          "sqft_min"
         ]
       }
     }
