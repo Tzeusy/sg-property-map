@@ -1,0 +1,29 @@
+{
+  "diagnostics": {
+    "filtered_transactions": 0,
+    "filtered_transactions_with_psf": 0,
+    "resolved_inferred_transactions": 0,
+    "resolved_project_keys": 0,
+    "resolved_transactions": 0,
+    "resolved_unresolved_status_transactions": 0,
+    "resolved_verified_transactions": 0,
+    "unresolved_missing_coordinates_transactions": 0,
+    "unresolved_missing_property_transactions": 0,
+    "unresolved_project_keys": 0,
+    "unresolved_project_samples": [],
+    "unresolved_transactions": 0
+  },
+  "grid_size_deg": 0.0025,
+  "items": [],
+  "max_points": 2000,
+  "metric_metadata": {
+    "accessibility": null,
+    "metric": "accessibility",
+    "price_dataset": null,
+    "signal_key": "accessibility_score",
+    "unit": "score"
+  },
+  "scale": null,
+  "total": 0,
+  "zoom": 15
+}
