@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "transport",
+      "family": "bus_stop",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data.gov.sg"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "community_facility",
+      "family": "childcare",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data_gov_sg_childcare_centres"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "food_retail",
+      "family": "hawker_centre",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data.gov.sg"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "community_facility",
+      "family": "hospital",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "wikipedia_hospitals"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "community_facility",
+      "family": "park",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data_gov_sg_parks"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "community_facility",
+      "family": "police_station",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data_gov_sg_police_stations"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "community_facility",
+      "family": "preschool",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data_gov_sg_preschools"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "community_facility",
+      "family": "school",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data_gov_sg_moe_schools"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "food_retail",
+      "family": "shopping_mall",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data.gov.sg"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "sports_facility",
+      "family": "sports_facility",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data.gov.sg"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "food_retail",
+      "family": "supermarket",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data.gov.sg"
+    },
+    {
+      "active_alerts": [
+        "ingestion_degraded"
+      ],
+      "cadence_bucket": "transport",
+      "family": "train_station",
+      "fetched_at": null,
+      "freshness_state": "degraded",
+      "last_error": "status_not_initialized",
+      "published_at": null,
+      "source_name": "data.gov.sg"
+    }
+  ],
+  "total": 12
+}
