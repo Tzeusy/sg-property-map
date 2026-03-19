@@ -18,7 +18,7 @@ A static, read-only property map for Singapore that visualizes:
 - **Transaction heatmaps** &mdash; URA resale/rental transactions colored by PSF (price per square foot), filterable by date range, property class, room count, and size
 - **Geo overlays** &mdash; MRT lines, hawker centres, schools, parks, supermarkets, clinics, sports facilities, and more
 - **Accessibility scoring** &mdash; composite walkability/livability heatmap based on proximity to amenities, weighted by configurable profiles (family, commuter, foodie, etc.)
-- **Residential listings** &mdash; current rental and sale listings with PSF labels
+- **Residential locations** &mdash; current rental and sale locations, with quick-lookup capability for historical transactions.
 
 No login required. All data is bundled at build time.
 
@@ -26,38 +26,11 @@ No login required. All data is bundled at build time.
 
 This repository contains a **pre-built static bundle** &mdash; HTML, JS, CSS, and data files &mdash; published automatically from a larger property research system. It is deployed via GitHub Pages.
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    Data Pipeline (private)                   │
-│                                                             │
-│  ┌──────────┐   ┌──────────┐   ┌──────────┐               │
-│  │ URA API  │   │ Property │   │ OneMap /  │               │
-│  │ (txns)   │   │ Portals  │   │ Geo APIs │               │
-│  └────┬─────┘   └────┬─────┘   └────┬─────┘               │
-│       │              │              │                       │
-│       └──────────────┴──────────────┘                       │
-│                      │                                      │
-│              ┌───────▼────────┐                             │
-│              │   PostgreSQL   │                             │
-│              │ PostGIS + vec  │                             │
-│              └───────┬────────┘                             │
-│                      │                                      │
-│              ┌───────▼────────┐                             │
-│              │  Static Export │                             │
-│              │  (17 datasets) │                             │
-│              └───────┬────────┘                             │
-│                      │                                      │
-│              ┌───────▼────────┐                             │
-│              │  Vite Build    │                             │
-│              │  (React PWA)   │                             │
-│              └───────┬────────┘                             │
-└──────────────────────┼──────────────────────────────────────┘
-                       │  git push
-              ┌────────▼────────┐
-              │  This Repo      │
-              │  (GitHub Pages) │──── tze.how/sg-property-map/
-              └─────────────────┘
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/architecture_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/architecture.svg">
+  <img alt="Architecture: Data Pipeline → Static Site" src="docs/architecture.svg">
+</picture>
 
 ### Bundled Datasets
 
@@ -67,6 +40,16 @@ This repository contains a **pre-built static bundle** &mdash; HTML, JS, CSS, an
 | **Geo overlays** | Amenities (hawker centres, schools, parks, clinics, etc.), transit overlay (MRT/LRT lines + stations), transport styling |
 | **Listings** | Residential listings (rental + sale with PSF) |
 | **Metadata** | Accessibility signal weights, geodata freshness timestamps |
+
+## Heatmap Generation
+
+The interactive heatmap is generated through a backend-to-frontend pipeline: filtered transactions are spatially bucketed on the server, then the client builds a hexagonal mesh via kernel density estimation and maps PSF/price/accessibility signals to color ramps.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/heatmap-pipeline_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/heatmap-pipeline.svg">
+  <img alt="Heatmap Generation Pipeline" src="docs/heatmap-pipeline.svg">
+</picture>
 
 ## Tech Stack
 
