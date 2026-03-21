@@ -19,7 +19,7 @@
   },
   "datasets": {
     "accessibility_signals": {
-      "bytes": 1578628,
+      "bytes": 1578694,
       "content_encoding": "gzip",
       "contract": {
         "id": "static-public/accessibility-signals",
@@ -27,15 +27,15 @@
       },
       "contract_id": "static-public/accessibility-signals",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/accessibility-signals.json.gz",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/accessibility-signals.json.gz",
       "revision": {
-        "as_of": "2026-03-19",
+        "as_of": "2026-03-22",
         "dimension_count": 22,
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "record_count": 10673,
-        "run_id": 20
+        "run_id": 21
       },
-      "sha256": "3cad379248d47e8c0ff6fe7ffa4c3f763f9fad4a0056c82b7fa59a0b245e0ee4"
+      "sha256": "64763777eb7db92d3278c64c27f33989c0828c2eb0ecddd668b923b2e7acc6ce"
     },
     "amenities": {
       "bytes": 828505,
@@ -46,13 +46,13 @@
       },
       "contract_id": "static-public/geo-amenities",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/geodata/amenities.json.gz",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/geodata/amenities.json.gz",
       "revision": {
-        "as_of": "2026-03-19",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "as_of": "2026-03-22",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "record_count": 16513
       },
-      "sha256": "74189e689214c7682398c249cd700b6511079f13552ee298f82acd0c580e6123"
+      "sha256": "921401e6c2ab39c84dac3699a49e82f5073e8de5855999392d6c395d03525ce5"
     },
     "geodata_freshness": {
       "bytes": 3955,
@@ -67,117 +67,117 @@
         "latest_published_at": null,
         "stale_families": 12
       },
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/geodata/freshness.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/geodata/freshness.json",
       "revision": {
         "family_count": 12,
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "latest_published_at": null,
         "stale_family_count": 12
       },
       "sha256": "0e65bba6176b979b3aa4b7455e5d381e70dc41ebadc08e526ca53e7a281001c8"
     },
     "heatmap": {
-      "bytes": 350813,
+      "bytes": 350849,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap.json",
       "revision": {
         "as_of": "2026-03-18",
         "dataset": "all",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-18T10:51:59.967522",
         "max_points": 2000,
         "metric": "psf",
         "record_count": 759165,
         "zoom": 15
       },
-      "sha256": "69118dfac170e301cb55d3db50d3ec909fe34211cc099ad94377771fb35f8f94"
+      "sha256": "e68d771c0bda2c1988b70b6570663a32797f91fcc8db242a4123e3e56cff7083"
     },
     "heatmap_accessibility": {
-      "bytes": 346762,
+      "bytes": 346768,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-accessibility.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-accessibility.json",
       "revision": {
         "as_of": "2026-03-18",
         "dataset": "all",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-18T10:51:59.967522",
         "max_points": 2000,
         "metric": "accessibility",
         "record_count": 899503,
         "zoom": 15
       },
-      "sha256": "38c9edbd9ba5ac28ff9e88ee51e2aa26563ce2258a5536746a0a5c675fb889c9"
+      "sha256": "7d757acd5ae7dadb35e13b7550af843a71ba75b90451f21a65e7ad067e08a499"
     },
     "heatmap_accessibility_rental": {
-      "bytes": 345994,
+      "bytes": 346009,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-accessibility-rental.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-accessibility-rental.json",
       "revision": {
         "as_of": "2026-03-18",
         "dataset": "rental",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-18T05:14:13.291519",
         "max_points": 2000,
         "metric": "accessibility",
         "record_count": 550010,
         "zoom": 15
       },
-      "sha256": "f0c338a09258d3ae94705ea3ff2d15d33431d7df14cefba5861188b45ae1f1c0"
+      "sha256": "89ce38cf7a3b2ba3700fbfb0303e6ce9b03c634846566ee4a92559c8e0f9166e"
     },
     "heatmap_accessibility_sale": {
-      "bytes": 346136,
+      "bytes": 346109,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-accessibility-sale.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-accessibility-sale.json",
       "revision": {
         "as_of": "2026-03-18",
         "dataset": "sale",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-18T10:51:59.967522",
         "max_points": 2000,
         "metric": "accessibility",
         "record_count": 349493,
         "zoom": 15
       },
-      "sha256": "0d2be992b91403a5807312816f066974358995da7a0d05687dacb9a06adad99c"
+      "sha256": "8f79c7ae5c1b9942d5c0a3935c0d211ba64e39b0d28a5c1c07e3a50dbaca04be"
     },
     "heatmap_bootstrap": {
-      "bytes": 87074,
+      "bytes": 87076,
       "contract": {
         "id": "static-public/transactions-heatmap-bootstrap-index",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap-bootstrap-index",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-bootstrap-index.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-bootstrap-index.json",
       "revision": {
         "chunk_count": 171,
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "record_count": 737647,
         "scope_count": 2,
         "startup_budget_bytes": 26214400,
-        "startup_bytes": 983178
+        "startup_bytes": 983146
       },
-      "sha256": "44d9c11609ac1696d3e426324940762146951ecd32dc481a65b010faae259f8b"
+      "sha256": "5f5515755cf0cd261fb404d67a7c7c213f6177c5dce24138e70fc41a35c560b2"
     },
     "heatmap_filterable_rental": {
       "bytes": 11850588,
@@ -188,11 +188,11 @@
       },
       "contract_id": "static-public/transactions-heatmap-filterable",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-filterable-rental.json.gz",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-filterable-rental.json.gz",
       "revision": {
         "as_of": "2026-03-07",
         "dataset": "rental",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-07T03:52:44.006050",
         "record_count": 388154
       },
@@ -207,57 +207,57 @@
       },
       "contract_id": "static-public/transactions-heatmap-filterable",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-filterable-sale.json.gz",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-filterable-sale.json.gz",
       "revision": {
         "as_of": "2026-03-18",
         "dataset": "sale",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-18T10:51:59.967522",
         "record_count": 349493
       },
       "sha256": "c68b4918475be264bcdbfa642a00e6c266caf07219df6bc636731dcad929d4e5"
     },
     "heatmap_price_rental": {
-      "bytes": 352528,
+      "bytes": 352510,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-price-rental.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-price-rental.json",
       "revision": {
         "as_of": "2026-03-18",
         "dataset": "rental",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-18T05:14:13.291519",
         "max_points": 2000,
         "metric": "price",
         "record_count": 567395,
         "zoom": 15
       },
-      "sha256": "2271be74e5c290db1a41be05da8839244d582fd98b026d736be5ef4f67a71eb6"
+      "sha256": "b5849305323b2d6f28a5dc95ee4cebcb4918fb41ffa1c9daa34f9d447e6b132c"
     },
     "heatmap_price_sale": {
-      "bytes": 353605,
+      "bytes": 353606,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-price-sale.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-price-sale.json",
       "revision": {
         "as_of": "2026-03-18",
         "dataset": "sale",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-18T10:51:59.967522",
         "max_points": 2000,
         "metric": "price",
         "record_count": 353626,
         "zoom": 15
       },
-      "sha256": "e9e2a2fd5279f302b91fa2377b526283a9b9f0418e693626332aab9414e013ca"
+      "sha256": "60d41931beab90910829b3eebf4407a735849197d1fabe5dab9f9ad73937cf3d"
     },
     "heatmap_rental": {
       "bytes": 197703,
@@ -267,11 +267,11 @@
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-rental.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-rental.json",
       "revision": {
         "as_of": "2026-03-07",
         "dataset": "rental",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-07T03:52:44.006050",
         "max_points": 2000,
         "metric": "psf",
@@ -281,25 +281,25 @@
       "sha256": "2fae129fe4fb1268a5edde276e2b996fb79d6f6f6d0a3cbf3ce96289da87bb28"
     },
     "heatmap_sale": {
-      "bytes": 347588,
+      "bytes": 347518,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
       },
       "contract_id": "static-public/transactions-heatmap",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-sale.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-sale.json",
       "revision": {
         "as_of": "2026-03-18",
         "dataset": "sale",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-18T10:51:59.967522",
         "max_points": 2000,
         "metric": "psf",
         "record_count": 353626,
         "zoom": 15
       },
-      "sha256": "a13dae507a9de7d48b9277fb0d1dddaa6041e9670563b2906b2752e5a6b30bc2"
+      "sha256": "e365e8009c4370fe919de2788d1f8ab6f38695134107541efbc14ae1729e5b47"
     },
     "residential_listings": {
       "bytes": 303944,
@@ -310,10 +310,10 @@
       },
       "contract_id": "static-public/geo-residential-listings",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/geodata/residential-listings.json.gz",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/geodata/residential-listings.json.gz",
       "revision": {
         "as_of": "2026-03-18",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_updated_at": "2026-03-18T11:06:12.039248",
         "record_count": 10673
       },
@@ -327,14 +327,14 @@
       },
       "contract_id": "static-public/geo-road-overlay",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/geodata/road-overlay.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/geodata/road-overlay.json",
       "revision": {
-        "as_of": "2026-03-19",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "as_of": "2026-03-22",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "line_count": 273,
         "segment_count": 8036
       },
-      "sha256": "a66ea4c959df41595fa7aa6732228473f6a5409f49c3d7ac958bdd42d4948675"
+      "sha256": "1e41b4ca0414cc8defe4e7d8fe86e26a1f508a63a98b73c9210bd3d38cb06c40"
     },
     "transactions_browsable": {
       "bytes": 35413797,
@@ -345,10 +345,10 @@
       },
       "contract_id": "static-public/transactions-browsable",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-browsable.json.gz",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-browsable.json.gz",
       "revision": {
         "as_of": "2026-03-18",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "max_fetched_at": "2026-03-18T10:51:59.967522",
         "record_count": 921021
       },
@@ -362,14 +362,14 @@
       },
       "contract_id": "static-public/geo-transit-overlay",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/geodata/transit-overlay.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/geodata/transit-overlay.json",
       "revision": {
-        "as_of": "2026-03-19",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "as_of": "2026-03-22",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "line_count": 11,
         "station_count": 216
       },
-      "sha256": "8e86d549dacc4a522cc4e53f2bcd7ce92c47e7dd5e80c1b0472cca200ef50fcf"
+      "sha256": "fc053f8dc2de5fa91936af82e4fd289480b6b5a006d48ebb204d58d3749e1fac"
     },
     "transport_style": {
       "bytes": 2394,
@@ -379,18 +379,18 @@
       },
       "contract_id": "static-public/geo-transport-style",
       "contract_version": "1.0.0",
-      "path": "revisions/rev-e7bbd39d40b6649b/datasets/geodata/transport-style.json",
+      "path": "revisions/rev-cedd1467f67da9ea/datasets/geodata/transport-style.json",
       "revision": {
         "contract_version": "transport_style_v1",
-        "git_commit": "be518942de20f399b0b4e9fabf0874524143bdd6",
+        "git_commit": "068ee3615d11da7f60171b58806c685768a065f3",
         "line_count": 9
       },
       "sha256": "542ee1e199e3d6a33b9cce2ea5d8edeed940aef3d22e8ceb240c2361349c592e"
     }
   },
   "publication": {
-    "active_revision": "rev-e7bbd39d40b6649b",
-    "previous_revision": "rev-7138ff362e70282b"
+    "active_revision": "rev-cedd1467f67da9ea",
+    "previous_revision": "rev-c513b02f1200a027"
   },
   "route_snapshots": {
     "policies": {
@@ -451,7 +451,7 @@
         "contract_id": "static-public/geo-amenities",
         "contract_version": "1.0.0",
         "dataset": "amenities",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/geodata/amenities.json.gz"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/geodata/amenities.json.gz"
       },
       "/geo/road-overlay": {
         "contract": {
@@ -461,7 +461,7 @@
         "contract_id": "static-public/geo-road-overlay",
         "contract_version": "1.0.0",
         "dataset": "road_overlay",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/geodata/road-overlay.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/geodata/road-overlay.json"
       },
       "/geo/transit-overlay": {
         "contract": {
@@ -471,7 +471,7 @@
         "contract_id": "static-public/geo-transit-overlay",
         "contract_version": "1.0.0",
         "dataset": "transit_overlay",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/geodata/transit-overlay.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/geodata/transit-overlay.json"
       },
       "/geo/transport-style": {
         "contract": {
@@ -481,7 +481,7 @@
         "contract_id": "static-public/geo-transport-style",
         "contract_version": "1.0.0",
         "dataset": "transport_style",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/geodata/transport-style.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/geodata/transport-style.json"
       },
       "/stats/transactions/heatmap?dataset=all&metric=accessibility": {
         "contract": {
@@ -491,7 +491,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_accessibility",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-accessibility.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-accessibility.json"
       },
       "/stats/transactions/heatmap?dataset=all&metric=psf": {
         "contract": {
@@ -501,7 +501,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap.json"
       },
       "/stats/transactions/heatmap?dataset=rental&metric=accessibility": {
         "contract": {
@@ -511,7 +511,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_accessibility_rental",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-accessibility-rental.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-accessibility-rental.json"
       },
       "/stats/transactions/heatmap?dataset=rental&metric=price": {
         "contract": {
@@ -521,7 +521,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_price_rental",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-price-rental.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-price-rental.json"
       },
       "/stats/transactions/heatmap?dataset=rental&metric=psf": {
         "contract": {
@@ -531,7 +531,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_rental",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-rental.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-rental.json"
       },
       "/stats/transactions/heatmap?dataset=sale&metric=accessibility": {
         "contract": {
@@ -541,7 +541,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_accessibility_sale",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-accessibility-sale.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-accessibility-sale.json"
       },
       "/stats/transactions/heatmap?dataset=sale&metric=price": {
         "contract": {
@@ -551,7 +551,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_price_sale",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-price-sale.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-price-sale.json"
       },
       "/stats/transactions/heatmap?dataset=sale&metric=psf": {
         "contract": {
@@ -561,7 +561,7 @@
         "contract_id": "static-public/transactions-heatmap",
         "contract_version": "1.0.0",
         "dataset": "heatmap_sale",
-        "path": "revisions/rev-e7bbd39d40b6649b/datasets/transactions-heatmap-sale.json"
+        "path": "revisions/rev-cedd1467f67da9ea/datasets/transactions-heatmap-sale.json"
       }
     },
     "unsupported": {
