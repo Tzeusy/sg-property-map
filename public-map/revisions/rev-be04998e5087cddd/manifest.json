@@ -77,7 +77,7 @@
       "sha256": "0e65bba6176b979b3aa4b7455e5d381e70dc41ebadc08e526ca53e7a281001c8"
     },
     "heatmap": {
-      "bytes": 350869,
+      "bytes": 350895,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
@@ -95,10 +95,10 @@
         "record_count": 759165,
         "zoom": 15
       },
-      "sha256": "b49301531ae609fcc8af0fdf9a9e5ddb3bee86c6d4bf8c7f0a2d1dbddf28f63d"
+      "sha256": "7b0f1f605effc977e82a21bb8d2e6b9ce4a391339695e2416831e6cc27590922"
     },
     "heatmap_accessibility": {
-      "bytes": 346734,
+      "bytes": 346707,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
@@ -116,7 +116,7 @@
         "record_count": 899503,
         "zoom": 15
       },
-      "sha256": "3933a2bf7b8f5802469701879088293288cabe4fa3f900bac90745d00780c857"
+      "sha256": "1ff80ef09409c8d1f1c80e24cbf7fb614a45fae445a72a1a73e0fd904cb50490"
     },
     "heatmap_accessibility_rental": {
       "bytes": 346009,
@@ -140,7 +140,7 @@
       "sha256": "89ce38cf7a3b2ba3700fbfb0303e6ce9b03c634846566ee4a92559c8e0f9166e"
     },
     "heatmap_accessibility_sale": {
-      "bytes": 346107,
+      "bytes": 346085,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
@@ -158,7 +158,7 @@
         "record_count": 349493,
         "zoom": 15
       },
-      "sha256": "9dddfbc54adb35d04cc0bed70905af8b9d8f72a093940a7e4b1c4c6b2b4cb95b"
+      "sha256": "f4147a67fe04529222c1bc95230f9a5116bfd56523331d41bdd64c59cea801ea"
     },
     "heatmap_bootstrap": {
       "bytes": 87074,
@@ -175,9 +175,9 @@
         "record_count": 737647,
         "scope_count": 2,
         "startup_budget_bytes": 26214400,
-        "startup_bytes": 983233
+        "startup_bytes": 983220
       },
-      "sha256": "f15034c9b2d10329e8e8428c9cc28f71aec3cc39b4f4a17535952ff0c5a33903"
+      "sha256": "73a33b2340b2695611af9925073e3d0a2c47ad814e50f911f927daa9d1126745"
     },
     "heatmap_filterable_rental": {
       "bytes": 11850588,
@@ -218,7 +218,7 @@
       "sha256": "c68b4918475be264bcdbfa642a00e6c266caf07219df6bc636731dcad929d4e5"
     },
     "heatmap_price_rental": {
-      "bytes": 352494,
+      "bytes": 352513,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
@@ -236,10 +236,10 @@
         "record_count": 567395,
         "zoom": 15
       },
-      "sha256": "955cfbc82dae31f502bb3dba250d0eea498bc65451f6a1fe4cb1f87d9a04347b"
+      "sha256": "e693d06d94e038cb6ffa664a5213fb32fb461dbddcb84d67b8e957cf689c3b3d"
     },
     "heatmap_price_sale": {
-      "bytes": 353571,
+      "bytes": 353595,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
@@ -257,10 +257,10 @@
         "record_count": 353626,
         "zoom": 15
       },
-      "sha256": "4d86c3328d6e840a8cb7bfb16fd9032b2e34e7e723d0a418fe1ec75dbe425ce0"
+      "sha256": "a63310b561d7cf9654ea5b8690db9b6c521c694b53226f76ea74bf89079cac33"
     },
     "heatmap_rental": {
-      "bytes": 197725,
+      "bytes": 197722,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
@@ -278,10 +278,10 @@
         "record_count": 405539,
         "zoom": 15
       },
-      "sha256": "50535c822cdd4e792a2f00b6f4eb6dc6d55273d5af9770a0af66ae440c2dc2ba"
+      "sha256": "6cebd07b6f2b9e353b07a01c4094d387f5925db43ff1a4f826686426b94dde54"
     },
     "heatmap_sale": {
-      "bytes": 347565,
+      "bytes": 347529,
       "contract": {
         "id": "static-public/transactions-heatmap",
         "version": "1.0.0"
@@ -299,7 +299,7 @@
         "record_count": 353626,
         "zoom": 15
       },
-      "sha256": "57ba7442cef8e76ae7d58b85d2945ce75a41def4c4495d6daaa807af80f2675b"
+      "sha256": "e1886f3e8e54f25a6aa58a7223010508e294b72d8786854cf33b82952f1b1ab7"
     },
     "residential_listings": {
       "bytes": 303944,

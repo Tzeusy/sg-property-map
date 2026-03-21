@@ -2808,14 +2808,14 @@
       "dataset_scope": "rental",
       "record_count": 388154,
       "scale": {
-        "lower_psf": 2.5252543859652077,
+        "lower_psf": 2.5252543859652072,
         "max_count": 3614,
         "max_psf": 9.810570518120755,
         "median_count": 195.0,
-        "mid_psf": 3.778177763904466,
+        "mid_psf": 3.7781777639044667,
         "min_count": 1,
         "min_psf": 1.2925652856549086,
-        "upper_psf": 5.563675347539451
+        "upper_psf": 5.56367534753945
       }
     },
     "sale": {
@@ -2935,7 +2935,7 @@
       "dataset_scope": "sale",
       "record_count": 349493,
       "scale": {
-        "lower_psf": 6.027324486563655,
+        "lower_psf": 6.027324486563654,
         "max_count": 1332,
         "max_psf": 51.56883838498831,
         "median_count": 106.0,

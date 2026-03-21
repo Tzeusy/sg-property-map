@@ -2935,14 +2935,14 @@
       "dataset_scope": "sale",
       "record_count": 349493,
       "scale": {
-        "lower_psf": 6.027324486563657,
+        "lower_psf": 6.027324486563658,
         "max_count": 1332,
-        "max_psf": 51.568838384988325,
+        "max_psf": 51.56883838498831,
         "median_count": 106.0,
         "mid_psf": 9.98778505148562,
         "min_count": 1,
         "min_psf": 4.53442364160997,
-        "upper_psf": 19.929085291831885
+        "upper_psf": 19.929085291831893
       }
     }
   },
