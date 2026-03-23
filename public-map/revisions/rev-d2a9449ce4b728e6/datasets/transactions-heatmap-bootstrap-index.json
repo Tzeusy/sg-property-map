@@ -2825,14 +2825,14 @@
       "dataset_scope": "rental",
       "record_count": 393458,
       "scale": {
-        "lower_psf": 2.5257485303302554,
+        "lower_psf": 2.525748530330255,
         "max_count": 3661,
         "max_psf": 9.810570518120755,
         "median_count": 197.0,
-        "mid_psf": 3.7861912583754105,
+        "mid_psf": 3.7861912583754087,
         "min_count": 1,
         "min_psf": 1.2925652856549086,
-        "upper_psf": 5.569281696597406
+        "upper_psf": 5.5692816965974075
       }
     },
     "sale": {

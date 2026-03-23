@@ -2825,14 +2825,14 @@
       "dataset_scope": "rental",
       "record_count": 393458,
       "scale": {
-        "lower_psf": 2.525748530330255,
+        "lower_psf": 2.5257485303302554,
         "max_count": 3661,
         "max_psf": 9.810570518120755,
         "median_count": 197.0,
-        "mid_psf": 3.7861912583754043,
+        "mid_psf": 3.7861912583754105,
         "min_count": 1,
         "min_psf": 1.2925652856549086,
-        "upper_psf": 5.569281696597407
+        "upper_psf": 5.569281696597406
       }
     },
     "sale": {
@@ -2952,14 +2952,14 @@
       "dataset_scope": "sale",
       "record_count": 350067,
       "scale": {
-        "lower_psf": 6.029038424060192,
+        "lower_psf": 6.029038424060188,
         "max_count": 1334,
-        "max_psf": 51.56883838498831,
+        "max_psf": 51.568838384988325,
         "median_count": 106.0,
-        "mid_psf": 9.98778505148562,
+        "mid_psf": 9.987785051485623,
         "min_count": 1,
         "min_psf": 4.53442364160997,
-        "upper_psf": 19.928772355693628
+        "upper_psf": 19.92877235569362
       }
     }
   },
