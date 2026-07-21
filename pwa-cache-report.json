@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "encodedBudgetBytes": 524288,
+  "entries": [
+    {
+      "url": "index.html",
+      "identityBytes": 1395,
+      "encodedBytes": 657
+    },
+    {
+      "url": "assets/index-ll6vN7aO.css",
+      "identityBytes": 50034,
+      "encodedBytes": 8842
+    },
+    {
+      "url": "assets/map-vendor-CIGW-MKW.css",
+      "identityBytes": 15607,
+      "encodedBytes": 6455
+    },
+    {
+      "url": "assets/index-BzVjfwfF.js",
+      "identityBytes": 229689,
+      "encodedBytes": 70792
+    },
+    {
+      "url": "assets/react-vendor-BKDuB5E9.js",
+      "identityBytes": 192500,
+      "encodedBytes": 60346
+    },
+    {
+      "url": "assets/map-vendor-DmH9ffWJ.js",
+      "identityBytes": 159011,
+      "encodedBytes": 49579
+    },
+    {
+      "url": "pwa-192x192.png",
+      "identityBytes": 594,
+      "encodedBytes": 594
+    },
+    {
+      "url": "pwa-512x512.png",
+      "identityBytes": 2201,
+      "encodedBytes": 2201
+    },
+    {
+      "url": "manifest.webmanifest",
+      "identityBytes": 544,
+      "encodedBytes": 309
+    }
+  ],
+  "firstInstallEncodedBytes": 199775,
+  "firstUpdateEncodedBytes": 199775,
+  "duplicateUrls": [],
+  "revisionDataUrls": [],
+  "lazyFeatureUrls": [],
+  "errors": []
+}

@@ -1,0 +1,10 @@
+{
+  "budgets": {
+    "max_encoded_bytes": 524288,
+    "max_identity_bytes": 5242880
+  },
+  "chunks": [],
+  "generated_at": "1970-01-01T00:00:00+00:00",
+  "total_records": 0,
+  "version": 1
+}

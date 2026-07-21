@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/sg-property-map/sw.js', { scope: '/sg-property-map/' })})}

@@ -1,0 +1,306 @@
+{
+  "_FullApp-CLMTrXqQ.js": {
+    "file": "assets/FullApp-CLMTrXqQ.js",
+    "name": "FullApp",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_react-vendor-BKDuB5E9.js",
+      "_UserContext-DcgJPJWD.js"
+    ],
+    "dynamicImports": [
+      "src/components/AboutDialog.tsx",
+      "src/components/DataCatalogPanelContent.tsx",
+      "src/components/FavoritesDialog.tsx",
+      "src/components/IngestionPanelContent.tsx",
+      "src/pages/LoginPage.tsx",
+      "src/components/ProfilePanelContent.tsx",
+      "src/pages/RegisterPage.tsx"
+    ]
+  },
+  "_Pagination-BCQib823.js": {
+    "file": "assets/Pagination-BCQib823.js",
+    "name": "Pagination",
+    "imports": [
+      "_react-vendor-BKDuB5E9.js"
+    ]
+  },
+  "_UserContext-DcgJPJWD.js": {
+    "file": "assets/UserContext-DcgJPJWD.js",
+    "name": "UserContext",
+    "imports": [
+      "_react-vendor-BKDuB5E9.js"
+    ]
+  },
+  "_client-CmX1t1RB.js": {
+    "file": "assets/client-CmX1t1RB.js",
+    "name": "client",
+    "isDynamicEntry": true
+  },
+  "_map-vendor-CIGW-MKW.css": {
+    "file": "assets/map-vendor-CIGW-MKW.css",
+    "src": "_map-vendor-CIGW-MKW.css"
+  },
+  "_map-vendor-DmH9ffWJ.js": {
+    "file": "assets/map-vendor-DmH9ffWJ.js",
+    "name": "map-vendor",
+    "imports": [
+      "_react-vendor-BKDuB5E9.js"
+    ],
+    "css": [
+      "assets/map-vendor-CIGW-MKW.css"
+    ]
+  },
+  "_propertyGuru-Bt1R9Cby.js": {
+    "file": "assets/propertyGuru-Bt1R9Cby.js",
+    "name": "propertyGuru"
+  },
+  "_react-vendor-BKDuB5E9.js": {
+    "file": "assets/react-vendor-BKDuB5E9.js",
+    "name": "react-vendor"
+  },
+  "_staticPublicMapProvider-BRAmjOx_.js": {
+    "file": "assets/staticPublicMapProvider-BRAmjOx_.js",
+    "name": "staticPublicMapProvider",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "src/providers/staticPublicGeodata.ts",
+      "src/providers/staticPublicTransactions.ts"
+    ]
+  },
+  "index.html": {
+    "file": "assets/index-BzVjfwfF.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js",
+      "_map-vendor-DmH9ffWJ.js"
+    ],
+    "dynamicImports": [
+      "_staticPublicMapProvider-BRAmjOx_.js",
+      "src/api/accessibility.ts",
+      "_client-CmX1t1RB.js",
+      "_client-CmX1t1RB.js",
+      "_staticPublicMapProvider-BRAmjOx_.js",
+      "src/api/requirementScopedListings.ts",
+      "src/api/listings.ts",
+      "src/components/PropertyCardsWorkspace.tsx",
+      "src/components/PropertyTransactionDialog.tsx",
+      "src/api/landmarks.ts",
+      "node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
+      "src/components/AboutDialog.tsx",
+      "src/components/DataCatalogPanelContent.tsx",
+      "src/components/StartGuideDialog.tsx",
+      "_FullApp-CLMTrXqQ.js",
+      "_staticPublicMapProvider-BRAmjOx_.js",
+      "src/contexts/UserProvider.tsx"
+    ],
+    "css": [
+      "assets/index-ll6vN7aO.css"
+    ]
+  },
+  "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": {
+    "file": "assets/workbox-window.prod.es5-BBnX5xw4.js",
+    "name": "workbox-window.prod.es5",
+    "src": "node_modules/workbox-window/build/workbox-window.prod.es5.mjs",
+    "isDynamicEntry": true
+  },
+  "src/api/accessibility.ts": {
+    "file": "assets/accessibility-BVKMLvnk.js",
+    "name": "accessibility",
+    "src": "src/api/accessibility.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-CmX1t1RB.js"
+    ]
+  },
+  "src/api/landmarks.ts": {
+    "file": "assets/landmarks-YMPlDAxr.js",
+    "name": "landmarks",
+    "src": "src/api/landmarks.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-CmX1t1RB.js"
+    ]
+  },
+  "src/api/listings.ts": {
+    "file": "assets/listings-C0RDtnQX.js",
+    "name": "listings",
+    "src": "src/api/listings.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-CmX1t1RB.js"
+    ]
+  },
+  "src/api/requirementScopedListings.ts": {
+    "file": "assets/requirementScopedListings-DIFUBQG4.js",
+    "name": "requirementScopedListings",
+    "src": "src/api/requirementScopedListings.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_client-CmX1t1RB.js"
+    ]
+  },
+  "src/components/AboutDialog.tsx": {
+    "file": "assets/AboutDialog-DvqR6Evp.js",
+    "name": "AboutDialog",
+    "src": "src/components/AboutDialog.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js",
+      "index.html",
+      "_map-vendor-DmH9ffWJ.js"
+    ],
+    "css": [
+      "assets/AboutDialog-DYGOYMXA.css"
+    ]
+  },
+  "src/components/DataCatalogPanelContent.tsx": {
+    "file": "assets/DataCatalogPanelContent-BBxYtQYS.js",
+    "name": "DataCatalogPanelContent",
+    "src": "src/components/DataCatalogPanelContent.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js",
+      "index.html",
+      "_Pagination-BCQib823.js",
+      "_map-vendor-DmH9ffWJ.js"
+    ]
+  },
+  "src/components/FavoritesDialog.tsx": {
+    "file": "assets/FavoritesDialog-Bjl5aIqs.js",
+    "name": "FavoritesDialog",
+    "src": "src/components/FavoritesDialog.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js",
+      "src/api/listings.ts",
+      "_client-CmX1t1RB.js",
+      "_FullApp-CLMTrXqQ.js",
+      "index.html",
+      "_UserContext-DcgJPJWD.js",
+      "_map-vendor-DmH9ffWJ.js"
+    ]
+  },
+  "src/components/IngestionPanelContent.tsx": {
+    "file": "assets/IngestionPanelContent-BJLFCO-N.js",
+    "name": "IngestionPanelContent",
+    "src": "src/components/IngestionPanelContent.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js",
+      "_client-CmX1t1RB.js"
+    ]
+  },
+  "src/components/ProfilePanelContent.tsx": {
+    "file": "assets/ProfilePanelContent-B_WvwwqN.js",
+    "name": "ProfilePanelContent",
+    "src": "src/components/ProfilePanelContent.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js",
+      "_client-CmX1t1RB.js",
+      "_FullApp-CLMTrXqQ.js",
+      "src/api/landmarks.ts",
+      "index.html",
+      "_map-vendor-DmH9ffWJ.js",
+      "_UserContext-DcgJPJWD.js"
+    ]
+  },
+  "src/components/PropertyCardsWorkspace.tsx": {
+    "file": "assets/PropertyCardsWorkspace-CL10ytR1.js",
+    "name": "PropertyCardsWorkspace",
+    "src": "src/components/PropertyCardsWorkspace.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js",
+      "index.html",
+      "_propertyGuru-Bt1R9Cby.js",
+      "_map-vendor-DmH9ffWJ.js"
+    ]
+  },
+  "src/components/PropertyTransactionDialog.tsx": {
+    "file": "assets/PropertyTransactionDialog-CiLwtOcT.js",
+    "name": "PropertyTransactionDialog",
+    "src": "src/components/PropertyTransactionDialog.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js",
+      "index.html",
+      "_propertyGuru-Bt1R9Cby.js",
+      "_Pagination-BCQib823.js",
+      "_map-vendor-DmH9ffWJ.js"
+    ]
+  },
+  "src/components/StartGuideDialog.tsx": {
+    "file": "assets/StartGuideDialog-C70QUm8j.js",
+    "name": "StartGuideDialog",
+    "src": "src/components/StartGuideDialog.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js",
+      "index.html",
+      "_map-vendor-DmH9ffWJ.js"
+    ],
+    "css": [
+      "assets/StartGuideDialog-_onZlTBS.css"
+    ]
+  },
+  "src/contexts/UserProvider.tsx": {
+    "file": "assets/UserProvider-CTV7syNl.js",
+    "name": "UserProvider",
+    "src": "src/contexts/UserProvider.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js",
+      "_client-CmX1t1RB.js",
+      "_UserContext-DcgJPJWD.js"
+    ]
+  },
+  "src/pages/LoginPage.tsx": {
+    "file": "assets/LoginPage-DBLEVK1z.js",
+    "name": "LoginPage",
+    "src": "src/pages/LoginPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js"
+    ]
+  },
+  "src/pages/RegisterPage.tsx": {
+    "file": "assets/RegisterPage-7GIRJ-3g.js",
+    "name": "RegisterPage",
+    "src": "src/pages/RegisterPage.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-vendor-BKDuB5E9.js"
+    ]
+  },
+  "src/providers/staticPublicGeodata.ts": {
+    "file": "assets/staticPublicGeodata-BLvTeHZa.js",
+    "name": "staticPublicGeodata",
+    "src": "src/providers/staticPublicGeodata.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_staticPublicMapProvider-BRAmjOx_.js",
+      "_react-vendor-BKDuB5E9.js",
+      "_map-vendor-DmH9ffWJ.js"
+    ]
+  },
+  "src/providers/staticPublicTransactions.ts": {
+    "file": "assets/staticPublicTransactions-BhD7A2lQ.js",
+    "name": "staticPublicTransactions",
+    "src": "src/providers/staticPublicTransactions.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_staticPublicMapProvider-BRAmjOx_.js",
+      "index.html",
+      "_react-vendor-BKDuB5E9.js",
+      "_map-vendor-DmH9ffWJ.js"
+    ]
+  }
+}

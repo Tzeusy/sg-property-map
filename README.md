@@ -1,6 +1,8 @@
 # Tze's HouseHunt
 
-Interactive Singapore property market explorer with transaction heatmaps, geo overlays, and accessibility scoring.
+Anonymous Singapore housing-price and preference research with transaction heatmaps, place context, comparison, and explainable provenance.
+
+> **Adopted target contract:** The checked-in runtime still contains legacy listing-mode labels, listing surfaces, and marketplace exits. Those are known implementation divergences to remove; the product description and dataset boundary below define the approved public destination.
 
 <p align="center">
   <a href="https://tze.how/sg-property-map/">
@@ -13,18 +15,20 @@ Interactive Singapore property market explorer with transaction heatmaps, geo ov
 
 ## What is this?
 
-A static, read-only property map for Singapore that visualizes:
+A static, read-only housing-research product for Singapore that provides:
 
 - **Transaction heatmaps** &mdash; URA resale/rental transactions colored by PSF (price per square foot), filterable by date range, property class, room count, and size
 - **Geo overlays** &mdash; MRT lines, hawker centres, schools, parks, supermarkets, clinics, sports facilities, and more
 - **Accessibility scoring** &mdash; composite walkability/livability heatmap based on proximity to amenities, weighted by configurable profiles (family, commuter, foodie, etc.)
-- **Residential locations** &mdash; current rental and sale locations, with quick-lookup capability for historical transactions.
+- **Property comparison** &mdash; canonical residential properties compared through aligned historical transaction periods, PSF, place context, and explicit missing-data states
+- **Browser-local priorities** &mdash; personal research context without accounts or server-owned public profiles
+- **Evidence provenance** &mdash; dataset source, effective period or freshness, derivation basis, and limitations at the point of decision
 
-No login required. All data is bundled at build time.
+No login is required. All analytical evidence is bundled at build time; priorities, comparison context, and saved research remain in the browser. The public contract excludes live listing search, portal monitoring, listing alerts, and marketplace exits.
 
 ## Architecture
 
-This repository contains a **pre-built static bundle** &mdash; HTML, JS, CSS, and data files &mdash; published automatically from a larger property research system. It is deployed via GitHub Pages.
+This repository contains a **pre-built static bundle** &mdash; HTML, JS, CSS, and data files &mdash; published through an operator-controlled export, verification, build, and push workflow from the source property research system. It is deployed via GitHub Pages.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="docs/architecture_dark.svg">
@@ -38,7 +42,7 @@ This repository contains a **pre-built static bundle** &mdash; HTML, JS, CSS, an
 |----------|----------|
 | **Heatmaps** | Transaction heatmap (combined, sale, rental), price heatmap (sale, rental), accessibility heatmap (sale, rental), filterable heatmaps, bootstrap index |
 | **Geo overlays** | Amenities (hawker centres, schools, parks, clinics, etc.), transit overlay (MRT/LRT lines + stations), transport styling |
-| **Listings** | Residential listings (rental + sale with PSF) |
+| **Property evidence** | Canonical residential properties and Sale/Rent transaction history |
 | **Metadata** | Accessibility signal weights, geodata freshness timestamps |
 
 ## Heatmap Generation
@@ -60,7 +64,7 @@ The interactive heatmap is generated through a backend-to-frontend pipeline: fil
 
 ## Development
 
-This is an auto-published output repository. To make changes, contribute to the source project and re-publish.
+This is a generated output repository. To make changes, contribute to the source project and run its verified publication workflow.
 
 ## License
 
